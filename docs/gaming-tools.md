@@ -45,7 +45,6 @@
 ## ▷ Steam / Epic
 
 * 🌐 **[Steam Tool Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)**, [steam.tools](https://steam.tools/) or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tool Indexes
-* 🌐 **[Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/)** - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck)
 * ↪️ **[Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)**
 * ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
 * ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
@@ -98,13 +97,6 @@
 * [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
 * [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
 * [Fuck Off EA App](https://github.com/p0358/Fuck_off_EA_App) - Use Origin Instead of EA App
-* [/r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/) - Steam Deck Piracy Subreddit / [Rentry](https://rentry.org/SteamDeckPirates-new)
-* [Bazzite](https://bazzite.gg/) - Alt Steam Deck OS
-* [Decky Loader](https://decky.xyz/) - Steam Deck Plugin Loader / [Plugins](https://plugins.deckbrew.xyz/) / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
-* [Steam Deck Tools](https://steam-deck-tools.ayufan.dev) - Fan Overlay, Power Control and Steam Controller
-* [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
-* [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
-* [HoloISO](https://github.com/HoloISO/releases) - SteamOS 3 (Holo) Archiso Config / [Telegram](https://t.me/HoloISO)
 
 ***
 
@@ -472,6 +464,20 @@
 
 ***
 
+## ▷ Steam Deck
+
+* 🌐 **[Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/)** - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck)
+* ⭐ **[Decky Loader](https://decky.xyz/)** - Steam Deck Plugin Loader / [Plugins](https://plugins.deckbrew.xyz/) / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
+* [/r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/) - Steam Deck Piracy Subreddit / [Rentry](https://rentry.org/SteamDeckPirates-new)
+* [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
+* [Steam Deck Tools](https://steam-deck-tools.ayufan.dev) - Fan Overlay, Power Control and Steam Controller
+* [EmuDeck](https://www.emudeck.com/) / [Yuzu / Citra Update](https://redd.it/1be3q1s) or [GameImage](https://github.com/ruanformigoni/gameimage) - Steam Deck Game / Emulator Setup
+* [Bazzite](https://bazzite.gg/) - Alt Steam Deck OS
+* [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
+* [HoloISO](https://github.com/HoloISO/releases) - SteamOS 3 (Holo) Archiso Config / [Telegram](https://t.me/HoloISO)
+
+***
+
 # ► Minecraft Tools
 
 * 🌐 **[MCDOC](https://mcdoc.openm.tech/)** - Minecraft Tools & Unlockers / [Discord](https://dc.openm.tech/)
@@ -559,7 +565,7 @@
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
 * [ReplayMod](https://replaymod.com/) or [FlashBack](https://modrinth.com/mod/flashback) - Record Game Sessions
 * [Terralith](https://modrinth.com/mod/terralith) or [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) - Extra Biomes Mod
-* [Outvoted](https://modrinth.com/mod/outvoted) - Outvoted Minecraft Live Mobs
+* [Friends and Foes](https://modrinth.com/mod/friends-and-foes-forge), [2](https://modrinth.com/mod/friends-and-foes) - Outvoted Minecraft Live Mobs
 * [Tectonic](https://modrinth.com/datapack/tectonic) - Improved Biomes Mod & Data Pack
 * [Vanilla Tweaks](https://www.vanillatweaks.net/), [Smithed](https://smithed.net/) or [Voodoo Packs](https://mc.voodoobeard.com/) / [Discord](https://discord.gg/SnJQcfq) - Minecraft Data Packs
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators
