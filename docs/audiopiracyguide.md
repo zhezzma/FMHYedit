@@ -574,7 +574,7 @@
 * [Muzik](https://muzik-apps.github.io/muzik-web/)
 * [TimeStetch](https://29a.ch/timestretch/) - Web-Based
 * [MusikCube](https://musikcube.com/) - Terminal-Based
-* [XMPlay](https://www.un4seen.com/) - Chiptune-Friendly
+* [XMPlay](https://www.un4seen.com/) - Module-Friendly
 * [Butterchurn Visualizer](https://butterchurnviz.com/), [MusicVid](https://musicvid.org/), [Vizzy](https://vizzy.io/) or [CatNip](https://github.com/noriah/catnip) - Audio Visualizers
 * [PartyEngine](https://aggrocrab.itch.io/partyengine) - Audio Party Visualizer
 * [NCurses++](https://github.com/ncmpcpp/ncmpcpp)
@@ -622,7 +622,7 @@
 
 ## ▷ Audio Metadata
 
-* ↪️ **[Album Artwork](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_album_art)**
+* ↪️ **[Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_album_art)**
 * ⭐ **[MP3Tag](https://www.mp3tag.de/en/)** - Metadata Organizer
 * [YADG](https://yadg.cc/) - Scrape Music Release Date Info / [API](https://yadg.cc/api/)
 * [beets.io](https://beets.io/) - Metadata Organizer / [Guides](https://redd.it/11iaafu)
@@ -796,6 +796,7 @@
 ## ▷ Audio Plugins
 
 * ⭐ **[G-MEH](https://g-meh.com/)** - Download / [Premium Bypass](https://gmehpremium.pages.dev/)
+* ⭐ **[Kits4Beats](https://kits4beats.com/)** - Download / Torrent / [Telegram](https://t.me/kits4beats)
 * ⭐ **[bobdule](https://bobdule999.wixsite.com/bob-dule-factory-2)** - Kontakt / Native Instruments Plugins & Tools
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)
 * ⭐ **[Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9)** - Telegram / [Archive](https://t.me/plugincloudsarchive)
@@ -803,7 +804,6 @@
 * [/u/BitterApple69 Plugins](https://rentry.co/FMHYBase64#ubitterapple69-plugins) - Torrent
 * [VST Torrents](https://vsttorrentz.net/) - Torrent
 * [PluginTorrent](https://plugintorrent.com/) - Torrent
-* [Kits4Beats](https://kits4beats.com/) - Download / Torrent / [Telegram](https://t.me/kits4beats)
 * [AudioTools](https://audiotools.in/) - Torrent / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Producer Plug Sheet](https://rentry.co/FMHYBase64#producer-plug-sheet) - Plugin / Sample Index
 * [HQVst](https://t.me/HQVst) - Telegram

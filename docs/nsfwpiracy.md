@@ -282,7 +282,6 @@
 
 * [Nectar](https://trynectar.ai/create) / [Discord](https://discord.gg/4u2jFcz5VN)
 * [Made.Porn](https://made.porn/) / [Discord](https://discord.com/invite/TE5eUxU2mz)
-* [Dopamine Girl](https://dopaminegirl.com/)
 * [Pornstars.ai](https://www.pornstars.ai/)
 * [PornLabs](https://editor.imagelabs.net/) / [Discord](https://discord.com/invite/RJX9FWWAsn)
 * [Nonolo.ai](https://no.nolo.ai/)
@@ -523,7 +522,7 @@
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/)
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](https://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
 * [Rule 34 App](https://r34.app/) - PWA Booru Client
-* [Boob Bot](https://www.boobbot.us/), [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) - Porn Image Downloaders
+* [Boob Bot](https://www.boobbot.us/) or [CyberDropDownloader](https://github.com/jbsparrow/CyberDropDownloader) - Porn Image Downloaders
 
 ***
 

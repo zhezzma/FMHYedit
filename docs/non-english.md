@@ -177,6 +177,7 @@
 * 🌐 **[Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)** - IPTV Resources
 * 🌐 **[Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Sites Index
 * 🌐 **[Movie Forest](https://549.tv/)** or **[klyingshi](https://klyingshi.com/)** - Chinese Streaming Sites Index
+* ⭐ **[BiliBili](https://www.bilibili.com/)** / [.tv](https://www.bilibili.tv/) / [Multi-Platform Client](https://xfangfang.github.io/wiliwili/) / [Signup Block](https://greasyfork.org/en/scripts/467474)
 * [ddrk](https://ddys.pro/), [2](https://ddys.info/) - Movies / TV / Anime / Sub / 1080p
 * [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
 * [MoMoVOD](https://momovod.app/) - Movies / TV / Anime / Sub / 1080p
@@ -834,6 +835,8 @@
 ***
 
 # ► Norwegian / Norsk
+
+* [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Cybersecurity Discord
 
 ## ▷ Streaming
 
@@ -1549,7 +1552,6 @@
 # ► Swedish
 
 * [Eniro](https://www.eniro.se/) - Search
-* [CyberSkills](https://discord.com/invite/2tTwMvbSXu) - Cybersecurity Discord
 
 ## ▷ Streaming
 
@@ -1605,7 +1607,7 @@
 
 ## ▷ Reading / Okuma
 
-* [Booksfer](https://booksfer.com) - Books
+* [Booksfer](https://booksfer.net) - Books
 * [Telegram Groups](https://t.me/addlist/XeOr3go8Q2MwZTNk), [Kütüphanem Yeniden](https://t.me/davetbotu5_bot) or [Kitap Botu](https://t.me/Arakitappbot) / [2](https://t.me/KKCI_BOT) - Books
 * [Küflü e-kitap](https://www.kuflu.com/forums/e-kitap.58), [Küflü manga](https://www.kuflu.com/forums/anime-ve-manga.28) - Books / Magazines
 * [Udemy Bot](https://t.me/birikursbotumudedibot) - Udemy

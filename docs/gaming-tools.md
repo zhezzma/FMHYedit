@@ -6,6 +6,7 @@
 
 # ► Gaming Tools
 
+* ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
 * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ↪️ **[Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_game_soundtracks)**
 * ⭐ **[Library of Codexes](https://libraryofcodexes.com/)** - Game Codex Library
@@ -309,7 +310,7 @@
 
 ## ▷ Multiplayer Fixes
 
-* ⭐ **[Online Fix](https://online-fix.me/)** - LAN Multiplayer Fix / [Discord](https://discord.gg/yExgFYncMD)
+* ⭐ **[Online Fix](https://online-fix.me/)** - Online / LAN Multiplayer Fix / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[Playit.gg](https://playit.gg/)** - LAN Multiplayer Fix / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[zerotier](https://www.zerotier.com/)** - LAN Multiplayer Fix
 * [Radmin](https://www.radmin-vpn.com/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
@@ -507,7 +508,7 @@
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
 * ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Easy Server Setup / [GitHub](https://github.com/macarooni-man/auto-mcs)
-* [e4mc](https://modrinth.com/mod/e4mc) / [Lan Server Properties](https://www.curseforge.com/minecraft/mc-mods/lan-server-properties), [World Host](https://modrinth.com/mod/world-host) or [Essential](https://modrinth.com/mod/essential) - Local Server Multiplayer Mods
+* [e4mc](https://modrinth.com/mod/e4mc) / [Lan Server Properties](https://www.curseforge.com/minecraft/mc-mods/lan-server-properties) or [World Host](https://modrinth.com/mod/world-host) - Local Server Multiplayer Mods
 * [setup.md](https://setup.md/) - Server Admin Guides / Wiki
 * [CraftyControl](https://craftycontrol.com/), [MCSManager](https://mcsmanager.com/), [Lodestone](https://lodestone.cc/) / [GitHub](https://github.com/Lodestone-Team/lodestone) or [Fork](https://www.fork.gg/) - Minecraft Server Managers
 * [Minekube Connect](https://connect.minekube.com/) - Ingress Tunnel for Minecraft Servers

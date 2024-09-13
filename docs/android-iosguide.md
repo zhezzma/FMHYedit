@@ -9,11 +9,12 @@
 ## ▷ Modded APKs
 
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** / [App](https://forum.mobilism.org/app/) / [User Ranks](https://rentry.co/mobilismranks), [2](https://pastebin.com/pZuuMxYm)
-* ⭐ **[LiteAPKs](https://liteapks.com/)** / [App](https://liteapks.com/app.html)
-* ⭐ **[Modyolo](https://modyolo.com/)**
 * ⭐ **[4PDA](https://4pda.to/forum/)** - [App](https://github.com/slartus/4pdaClient-plus) / Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[PDALife](https://pdalife.com/)** / [App](https://pdalife.com/pdalife-app-android-a40597.html) / [Telegram](https://t.me/pdalife_official)
 * ⭐ **[PlatinMods](https://platinmods.com/)** - Modded Games
+* ⭐ **[RockMods](https://www.rockmods.net/)** / [Telegram](https://t.me/RBMods) 
+* [LiteAPKs](https://liteapks.com/) / [App](https://liteapks.com/app.html) / [Note](https://pastebin.com/3ebTvx0b)
+* [Modyolo](https://modyolo.com/) / [Note](https://pastebin.com/3ebTvx0b)
 * [Nsane Forums](https://nsaneforums.com/)
 * [Sbenny](https://sbenny.com/)
 * [farsroid](https://www.farsroid.com/)
@@ -29,7 +30,6 @@
 * [APK4Free](https://apk4free.net/)
 * [Release APK](https://forum.release-apk.com/)
 * [ReXDL](https://rexdl.com/) / [Telegram](https://t.me/joinchat/AAAAAFVMhwX7IzS5hMc8OQ)
-* [RockMods](https://www.rockmods.net/) / [Telegram](https://t.me/RBMods) / Use "Alt Link" 
 * [FouadMODS](https://t.me/FouadMODS) - Modded Social Media Apps
 
 ***
@@ -228,7 +228,7 @@
 ## ▷ Camera Tools
 
 * ⭐ **[Google Lens](https://lens.google/)** - Multiple Camera Tools
-* ⭐ **[Gallery](https://github.com/FossifyOrg/Gallery)**, **[Aves](https://github.com/deckerst/aves)**, [Ente](https://ente.io/) / [GitHub](https://github.com/ente-io/ente), [PhotosGo](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo), [Photok](https://github.com/leonlatsch/Photok), [Stingle](https://stingle.org/), [QuickPic](https://github.com/WSTxda/QP-Gallery-Releases), [UhuruPhotos](https://uhuru.photos) / [GitHub](https://github.com/savvasdalkitsis/uhuruphotos-android) or [Gallery 2.0](https://github.com/IacobIonut01/Gallery) - Photo / Video Galleries
+* ⭐ **[Gallery](https://github.com/FossifyOrg/Gallery)**, **[Aves](https://github.com/deckerst/aves)**, [PhotosGo](https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo), [Ente](https://ente.io/) / [GitHub](https://github.com/ente-io/ente), [Photok](https://github.com/leonlatsch/Photok), [Stingle](https://stingle.org/), [QuickPic](https://github.com/WSTxda/QP-Gallery-Releases), [UhuruPhotos](https://uhuru.photos) / [GitHub](https://github.com/savvasdalkitsis/uhuruphotos-android) or [Gallery 2.0](https://github.com/IacobIonut01/Gallery) - Photo / Video Galleries
 * [Sponge](https://play.google.com/store/apps/details?id=com.prismtree.sponge) - Image Gallery Cleaner
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [XML Configs](https://t.me/xmlshamimmod)
 * [Libre Camera](https://github.com/iakmds/librecamera), [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) or [Open Camera](https://sourceforge.net/projects/opencamera/) - FOSS Camera Apps
