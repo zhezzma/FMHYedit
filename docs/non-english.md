@@ -33,6 +33,7 @@
 
 * ⭐ **[FaselHD](https://www.faselhd.center/)** - Movies / TV / Anime / Sub / 1080p / Use Adblocker
 * ⭐ **[RunTV](https://runtv.cc/)** - Anime / Sub / 1080p
+* ⭐ **[Animerulz](https://animerulz.net/)** - Anime / Sub / Dub / Hindi / Telugu / Tamil / 1080p
 * [ArabLionz](https://arlionztv.pro/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
 * [dramacafe](https://w10.dramacafe-tv.com/) - Movies / TV / Anime / Sub / 1080p
@@ -580,6 +581,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[Animerulz](https://animerulz.net)** - Anime / Hindi / Telugu / Tamil / 1080p / [Telegram](https://telegram.me/animerulz_xyz)
 * ⭐ **[Braflix](https://www.braflix.ru/)** - Movies / TV / Anime / Dub / 4K / 1080p
 * ⭐ **[BanglaPlex](https://banglaplex.art/)** - Movies / Sub / Dub / 1080p
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
