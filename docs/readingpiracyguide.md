@@ -18,7 +18,7 @@
 
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Interviews](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**, [2](https://forum.mobilism.me/viewforum.php?f=124) / [User Ranks](https://rentry.co/mobilismranks), [2](https://pastebin.com/pZuuMxYm)
-* ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png) / [Discord](https://discord.com/invite/2zkHuwP3mW)
+* ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - Torrents / **[Warning](https://rentry.org/rriia9b4)** / [Discord](https://discord.com/invite/2zkHuwP3mW)
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
 * [AudioBooksBee](https://audiobooksbee.com/)
 * [Audiobookss](https://audiobookss.com/)
@@ -831,7 +831,7 @@
 * ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Books / Comics / Manga / [Ratings Filter](https://www.book-filter.com/)
 * ⭐ **[TasteDive](https://tastedive.com/)** - Books
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Books
-* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Book Recommendations / [Download](https://rentry.co/FMHYBase64#top-200)
+* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - Book Recommendations / [Top 200](https://rentry.co/FMHYBase64#top-200)
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
 * ⭐ **[Anilist](https://anilist.co/home)** - Manga / Light Novels / Manhwa / Manhua / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga (Has Obscure Stuff)
