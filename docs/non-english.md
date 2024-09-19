@@ -371,11 +371,9 @@
 * [VoirFilmsHD](https://flashfilms-hd.top/) - Movies / TV / Cartoons / Anime / Sub / Dub / 720p
 * [Cinémathèque de Bretagne](https://www.cinematheque-bretagne.bzh/) - Classic / Amateur Movies
 * [OtakuFR](https://otakufr.cc/) - Anime / Sub / 1080p
-* [mavanimes](https://mavanimes.cc/) - Anime / Sub / 1080p
 * [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
 * [VoirAnime](https://voiranime.com/) - Anime / Sub / 1080p
-* [Neko-sama](https://www.neko-sama.fr/) - Anime / Sub / 1080p
 * [sekai](https://sekai.one/) - Anime / Sub / 1080p
 * [Streaming-integrale](https://streaming-integrale.com/) - Anime Sub / Dub / 1080p
 * [vostanime](https://vostanime.fr/) - Anime / Sub / 1080p
@@ -1522,7 +1520,6 @@
 * [Lectulandia](https://ww3.lectulandia.com/), [2](https://ww3.lectulandia.co/) - Books
 * [Ebookelo](https://ww2.ebookelo.com/) - Books
 * [EspaEbook](https://www.espaebook2.com/) - Books
-* [DebeLeer](https://www.debeleer.com/) - Books
 * [Elejandría](https://www.elejandria.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [FreeLibros](https://www.freelibros.net/) - Textbooks / Books / Audiobooks / Magazines / Courses / Documentaries
@@ -1546,8 +1543,6 @@
 * [vermanhwa](https://vermanhwa.com/) - Manga
 * [faneo](https://www.faneo.es/) - Manga
 * [daprob](https://daprob.com/) - Manga
-* [scambertraslator](https://scambertraslator.com/) - Manga
-* [Leer Manga](https://r2.leermanga.xyz/) - Manga
 * [MangaCrab](https://httpmangacrab2.com/) - Manga
 * [Nova](https://novelasligeras.net/) - Manga / Light Novels
 * [Izicomics](https://www.izicomics.com/) - Manga / Comics

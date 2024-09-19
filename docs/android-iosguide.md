@@ -41,7 +41,7 @@
 * ⭐ **[UpToDown](https://en.uptodown.com/android)**
 * ⭐ **[APKCombo](https://apkcombo.com/)**
 * ⭐ **[Aurora Store](https://auroraoss.com/)** - Alt App Store / [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
-* [APKPure](https://apkpure.net/)
+* [APKPure](https://apkpure.net/), [2](https://apkpure.com/)
 * [APKSum](https://www.apksum.com/)
 * [Play Search](https://playsearch.kaki87.net/) - Advanced Playstore Search
 * [Android Ultimate Collection](https://xdaforums.com/t/android-ultimate-collection-guides.4513231/)
@@ -136,9 +136,9 @@
 
 * 🌐 **[ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)** - ReVanced Patch Index
 * ⭐ **[ReVanced Manager](https://revanced.app/)** - Android App Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [GitHub](https://github.com/ReVanced/revanced-manager)
+* ⭐ **[ReVanced Auto-Update](https://rentry.co/revanced-auto-update)** - Update ReVanced Apps Automatically
 * ⭐ **[ReVanced MMT](https://kazimmt.github.io/)** / [Telegram](https://t.me/ReVanced_MMT/242) or [ReVanced Trouble​shooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/) - Unofficial ReVanced Docs, Guides, and Troubleshooting
 * [RVX Manager](https://github.com/inotia00/revanced-manager) - ReVanced Extended / [Subreddit](https://www.reddit.com/r/revancedextended/) / [Discord](https://discord.gg/yMnc3EywRZ)
-* [ReVanced Auto-Update](https://rentry.co/revanced-auto-update) - Update ReVanced Apps Automatically
 * [ReVanced APKs](https://revanced-apks.pages.dev/) / [GitHub](https://github.com/revanced-apks/build-apps), [ReVanced Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) or [ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module) / [Telegram](https://t.me/rvc_magisk) - Pre-built ReVanced APKs
 * [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced/) - Build APKs with Python
 * [ReVanced CLI](https://github.com/ReVanced/revanced-cli) / [Automated](https://github.com/taku-nm/auto-cli/), [2](https://github.com/XDream8/revanced-creator) - CLI Patcher
@@ -306,12 +306,12 @@
 ## ▷ Number / SMS
 
 * ⭐ **[Quik](https://github.com/octoshrimpy/quik)** - Stock Messaging App Replacement
+* ⭐ **[Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/)** / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker), [Should I Answer?](https://www.shouldianswer.net/), [SpamBlocker](https://github.com/aj3423/SpamBlocker) or [Silence](https://f-droid.org/packages/me.lucky.silence) - Block Spam Calls
 * ⭐ **Fossify Apps** - [Messages](https://github.com/FossifyOrg/Messages) / [Phone](https://github.com/FossifyOrg/Phone) / [Contacts](https://github.com/FossifyOrg/Contacts)
 * [ConnectYou](https://github.com/you-apps/ConnectYou) - Contacts / SMS App
 * [OpenContacts](https://gitlab.com/sultanahamer/OpenContacts) - Save Contacts to Separate Database
 * [android-call-recorder](https://gitlab.com/axet/android-call-recorder) or [BCR](https://github.com/chenxiaolong/BCR) / [GUI](https://github.com/nicorac/bcr-gui) - Call Recorders
 * [Logger](https://github.com/Sanmeet007/logger) - View / Export Call Logs
-* [Should I Answer?](https://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker), [SpamBlocker](https://github.com/aj3423/SpamBlocker) or [Silence](https://f-droid.org/packages/me.lucky.silence) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls
 * [Scammer.Info](https://scammer.info/) - Scam Numbers Database
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Mobile Network Comparisons
@@ -1137,7 +1137,7 @@ https://github.com/Akylas/alpimaps
 ## ▷ iOS Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[AdGuard Pro](https://rentry.co/FMHYBase64#adguard-pro-ios)** - Adblocker / [Config](https://1fichier.com/?ef26ks4abjzct7o1k8os) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
+* ⭐ **[AdGuard Pro](https://rentry.co/FMHYBase64#adguard-pro-ios)** - Adblocker / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
 * [AdGuard Safari](https://adguard.com/en/adguard-safari/overview.html) - AdGuard for Safari
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - Turn any site into an App, without Ads
 * [1Blocker](https://1blocker.com/) - Adblocker
