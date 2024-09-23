@@ -83,8 +83,8 @@
 
 ## ▷ Single Server
 
+* ⭐ **[BFlix](https://nitestv.co/)** - Movies / TV / 1080p / [Mirrors](https://nitesgate.org/)
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/nepu)
-* ⭐ **[Nites TV](https://nitestv.co/)** - Movies / TV / 1080p
 * ⭐ **[EE3](https://ee3.me/)**, [2](https://rips.cc/) - Movies / 1080p / Invite Code: fmhy / Sign-Up Required
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[YesMovies](https://yesmovies.ag/)**, [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / 1080p
@@ -488,6 +488,7 @@
 * ⭐ **[WatchWrestling24](https://watchwrestling24.net/)** - MMA / Wrestling Replays / 720p
 * ⭐ **[WatchWrestlingUp](https://watchwrestlingup.org/)** or [RealFights](https://realfight.org/) - MMA / Wrestling Replays / 720p
 * ⭐ **[Nascar Classics](https://classics.nascar.com/)** - Nascar Replays / 1080p
+* ⭐ **[FullRaces](https://fullraces.com/)** - Motorsport Replays / 1080p
 * [SportsReplay](https://linktr.ee/suisports) - Sports Replays / [Basketball](https://watchreplay.net/) / [Motorsports](https://watchf1full.com/) / [MMA / Wrestling](https://watchmmafull.com/) / [Discord](https://discord.com/invite/2r4pj67gCv)
 * [Classic Sports Fanatic](https://www.youtube.com/@classicsportsfanatic7183/playlists) - Full Classic Sports Replays
 * [MLBLive](https://mlblive.net/) - Baseball Replays
