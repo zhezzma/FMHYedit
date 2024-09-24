@@ -24,7 +24,7 @@
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / [Bypass All Shortlinks Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_redirect_bypass)
 * ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[GameBounty](https://gamebounty.world/)** - Download / [Discord](https://discord.gg/6msDMndrkD)
-* ⭐ **[SteamGG](https://steamgg.net/)** - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.com/invite/xkGp8wKm) 
+* ⭐ **[SteamGG](https://steamgg.net/)** - Download / Pre-Installs / [Subreddit](https://www.reddit.com/r/OfficialSteamGG/) / [Discord](https://discord.gg/Rw6AT3hZZE) 
 * ⭐ **[FreeToGame](https://www.freetogame.com/games)**, [Acid Play](https://acid-play.com/) or [/v/'s Recommended](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games / [Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx), [Rezi Search](https://rezi.one/), [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
 * [g4u](https://g4u.to/) - Download / pw: 404
@@ -35,11 +35,11 @@
 * [GLoad](https://gload.to/) - Download
 * [World of PC Games](https://worldofpcgames.com/) - Download / [Site Info](https://rentry.org/ikc3x8bt) / Use Adblocker
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
-* [Vran's Piracy](https://rentry.co/vranpirated) - Download / [Discord](https://discord.gg/bnHNVgTCkb)
-* [GamePCFull](https://gamepcfull.com/) - Download
 * [AWTDG](https://awtdg.site/) - Download / [Discord](https://discord.gg/kApRXRjJ7A)
 * [CG Games](https://www.cg-gamespc.com/) - Download
+* [GamePCFull](https://gamepcfull.com/) - Download
 * [IWannaPlay](https://sites.google.com/view/iwannaplay/список-игр) - Download / Telegram Required
+* [Vran's Piracy](https://rentry.co/vranpirated) - Download / [Discord](https://discord.gg/bnHNVgTCkb)
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [itch.io](https://itch.io/games/new-and-popular/featured/free), [Killed By A Pixel](https://frankforce.com/all-games/), [Gamdie](https://gamdie.com/), [Indie Rentry](https://rentry.org/hhtxv7ud), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * itch.io Tools - [Downloader](https://github.com/Emersont1/itchio) / [Desktop](https://github.com/itchio/itch) / [Auto-Claim](https://github.com/Smart123s/ItchClaim)
@@ -565,7 +565,7 @@
 * ⭐ **lichess Tools** - [Mobile](https://lichess.org/mobile) / [Mobile V2](https://play.google.com/store/apps/details?id=org.lichess.mobileV2) / [Customize](https://prettierlichess.github.io/) / [Themes](https://github.com/algertc/prettierlichess-themes) / [Leagues](https://www.lichess4545.com/) / [Extend](https://lichess.org/page/extend)
 * ⭐ **[Print Chess](https://www.printchess.com/)** - Printable Paper Chess Set
 * ⭐ **[Super Auto Pets](https://teamwood.itch.io/super-auto-pets)** - Pet Battle Game / [Resources](https://www.groundedsap.co.uk/)
-* [Mah-Jongg](https://www.mahjongfun.com/), [Mahjong4Friends](https://mahjong4friends.com/) or [Classic Mahjong](https://classic-mahjong.com/) - Mahjong Games
+* [Mah-Jongg](https://www.mahjongfun.com/), [Mahjong4Friends](https://mahjong4friends.com/), [Classic Mahjong](https://classic-mahjong.com/) or [The Mahjong](https://themahjong.com/) - Mahjong Games
 * [lishogi](https://lishogi.org/) - Shogi
 * [Online GO](https://online-go.com/) - Multiplayer GO
 * [Warzone](https://www.warzone.com/) - RISK Clone
