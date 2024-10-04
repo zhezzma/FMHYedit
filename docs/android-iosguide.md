@@ -26,7 +26,6 @@
 * [APKVision](https://apkvision.org/)
 * [A2Z APK](https://a2zapk.io/)
 * [HappyMod](https://happymod.com/)
-* [APK Home](https://apkhome.io/)
 * [APK4Free](https://apk4free.net/)
 * [Release APK](https://forum.release-apk.com/)
 * [ReXDL](https://rexdl.com/) / [Telegram](https://t.me/joinchat/AAAAAFVMhwX7IzS5hMc8OQ)
@@ -651,7 +650,7 @@ https://github.com/Akylas/alpimaps
 
 ## ▷ Android on Windows
 
-* **Warning** - Closed-source emulators (like Nox) contain intrusive ads and trackers, so it's best to use open-source options or android subsystems (like WayDroid).
+* **Warning** - Closed-source emulators (like Nox) contain intrusive ads and trackers, so it's best to use open-source options or android subsystems.
 
 ***
 
