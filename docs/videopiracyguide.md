@@ -18,7 +18,7 @@
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / 4K / 1080p / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
-* ⭐ **[Smashystream](https://smashystream.xyz/)**, [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [smashy.stream](https://smashy.stream/) (ad-free w/ signup) - Movies / TV / Anime / 1080p
+* ⭐ **[Smashystream](https://smashystream.xyz/)**, [2](https://flix.smashystream.xyz/), [3](https://smashystream.com/) or [smashy](https://smashy.stream/) (ad-free w/ signup) - Movies / TV / Anime / 1080p
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / 1080p / Ad-Free / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐  **[Novafork](https://novafork.com/)** - Movies / TV / 1080p / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * ⭐ **[NetPlay](https://netplayz.ru/)** - Movies / TV / Anime / 1080 / [Discord](https://discord.gg/NCH4rzxJ36)
@@ -35,6 +35,7 @@
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 * [WatchWave](https://watchwave-v2.vercel.app/watch) - Movies / TV / 1080p
 * [BFlix](https://nitestv.co/) - Movies / TV / 1080p / [Mirrors](https://nitesgate.org/)
+* [Free Cinema](https://freecinema.live/) - Movies / TV / Anime / 1080p
 * [Watchug](https://watchug.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/watchugofficial)
 * [GGMovies](https://ggmovies.net/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/ggmoviesnews)
 * [MovieUwU TV](https://movieuwutv.top/) - Movies / TV / Anime / Drama / 1080p / [Discord](https://discord.com/invite/3B3X6JEB7P)
@@ -69,6 +70,7 @@
 * [KaitoVault](https://www.kaitovault.com/watch/) - Movies / TV / Anime / 1080p
 * [123MoviesFree](https://ww2.123moviesfree.net/) - Movies / TV / Anime / 1080p
 * [r123movie](https://r123movie.com/) - Movies / TV / Anime / 1080p
+* [MyFlizerz](https://myflixerz.vip/) - Movies / TV / Anime / 1080p
 * [Daitign](https://daiflix.daitign.com/) - Movies / TV / Anime / 1080p / Signup Required
 * [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - Movies / TV / Anime / 4K
 * [Cinema Deck](https://cinemadeck.com/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://l.cinemadeck.com/discord)
@@ -391,6 +393,7 @@
 * [SquidTV](https://www.squidtv.net/) - TV
 * [s7-tv](https://s7-tv.blogspot.com/p/t.html) - TV
 * [PhotoCall](https://photocall.xyz/) - TV
+* [Puffer](https://puffer.stanford.edu/) - San Fran TV
 * [cytube](https://cytu.be/) - Random Streams
 * [VaughnLive](https://vaughn.live/browse/misc) - Random Streams
 * [Baked](https://baked.live/) - Random Streams
@@ -547,7 +550,6 @@
 * ↪️ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download)**
 * ⭐ **[Pahe](https://pahe.ink/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / Use Adblocker
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K
-* ⭐ **[OlaMovies](https://olamovies.hair/)** - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_officialv6)
 * ⭐ **[LightDLMovies](https://lightdl.xyz/)**, [2](https://lightdlmovies.blogspot.com/) - Movies / TV / 1080p
 * ⭐ **[VegaMovies](https://vegamovies.nz/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / [Get Code](https://rentry.org/he8fhzku) / Code unlocks faster file host (1fichier)
@@ -558,6 +560,7 @@
 * [piracy.vip](https://piracy.vip/) - Movies / TV / Anime / 1080p / Signup Required / [Discord](https://discord.com/invite/FKT2rMCfUW) / [Telegram](https://t.me/+QV1PldJrE3gzYjk1)
 * [DDLBase](https://ddlbase.com/) - Movies / TV / 4K
 * [KatMovieHD](https://katmoviehd.fi/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
+* [OlaMovies](https://olamovies.hair/) - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_officialv6)
 * [StagaTV](https://www5.stagatv.com/) - Movies / TV / 1080p
 * [StarsDDL](https://starsddl.me/) - Movies / TV / 1080p
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
