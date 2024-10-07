@@ -128,6 +128,7 @@
 * ⭐ **[AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)** - Integrate AppImages to App Launchers
 * ⭐ **[winetricks](https://github.com/Winetricks/winetricks)** - Wine Fixes
 * ⭐ **[rofi](https://davatorium.github.io/rofi/)** / [Emoji Selector](https://github.com/Mange/rofi-emoji), [Fuzzel](https://codeberg.org/dnkl/fuzzel), [Ulauncher](https://ulauncher.io/) or [wofi](https://hg.sr.ht/~scoopta/wofi) - App Launchers
+* ⭐ **[FreeRDP](https://www.freerdp.com/)** - Remote Desktop Client / [GitHub](https://github.com/FreeRDP/FreeRDP)
 * [wslu](https://wslutiliti.es/wslu) - Utilities for Windows 10 Linux Subsystem / [GitHub](https://github.com/wslutilities/wslu)
 * [Darling](https://www.darlinghq.org/) - Run macOS Apps on Linux
 * [innoextract](https://constexpr.org/innoextract/) - Windows Installer Unpacker
@@ -432,7 +433,7 @@ Linux Gaming Guide
 
 ***
 
-## ▷ Android Emulators
+## ▷ Android on Linux
 
 * ⭐ **[WayDroid](https://waydro.id/)** - Android Emulator / [GitHub](https://github.com/waydroid) / [Scripts](https://github.com/casualsnek/waydroid_script)
 * [Redroid](https://github.com/remote-android/redroid-doc) - Android Emulator
