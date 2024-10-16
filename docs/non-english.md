@@ -35,7 +35,6 @@
 * ⭐ **[RunTV](https://runtv.cc/)** - Anime / Sub / 1080p
 * [ArabLionz](https://arlionztv.ink/), [2](https://arlionztv.pro/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
-* [dramacafe](https://dramacafe-tv.com/) - Movies / TV / Anime / Sub / 1080p
 * [akwam](https://ak.sv/) - Movies / TV / Sub / 1080p
 * [arabseed](https://m.asd.quest/) - Movies / TV / Wrestling / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
@@ -352,10 +351,8 @@
 ## ▷ Torrenting / Télecharger
 
 * [Torrent9](https://www.torrent9.se/), [2](https://www.torrent9.site/), [3](https://torrent9.app/) - Video / Audio / ROMs / Books
-* [Torrent911](https://www.torrent911.wf/) - Video / Audio / ROMs / Books
 * [OxTorrent](https://oxtorrents.co/) - Video / Audio / ROMs / Books
 * [Cpasbien](https://feminalpes.fr/), [2](https://www.cpasbien.tw/) - Video / Audio / ROMs / Books
-* [Zetorrents](https://www.zetorrents.pw/) - Video / Audio / ROMs / Books
 * [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books
 
 ## ▷ Streaming
@@ -578,7 +575,7 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[TamilBlasters](https://1tamilblasters.skin/)** - Movies / [Proxy](https://tamilblasters.unblockit.ong/)
+* ⭐ **[TamilBlasters](https://1tamilblasters.skin/)** - Movies
 * ⭐ **[1tamilmv](https://www.1tamilmv.eu/)** - Movies
 
 ## ▷ Streaming
@@ -1104,7 +1101,6 @@
 * [Arte HQs](http://www.artehqs.com.br) - Comics
 * [Tropa BR](https://tropabrscans.blogspot.com) - Comics
 * [Banda Desenhada](https://bandadesenhada-pt.blogspot.com/) - Comics
-* [Desciclopédia](https://desciclopedia.org/wiki/P%C3%A1gina_principal) - Comic Encyclopedia
 * [Kiniga](https://kiniga.com) - Light Novels
 * [Novel Mania](https://novelmania.com.br) - Light Novels
 * [Central Novel](https://centralnovel.com) - Light Novels
@@ -1137,6 +1133,7 @@
 * [Apologeta](https://www.apologeta.com.br) - Bible Commentary
 * [biblia.com.br](https://biblia.com.br) or [iGuga](https://www.iguga.org) - Biblical Dictionary
 * [Arquivo.pt](https://arquivo.pt) - History / Sociology / Linguistics Archives
+* [Desciclopédia](https://desciclopedia.org/wiki/P%C3%A1gina_principal) - Wikipedia Parody
 
 ***
 

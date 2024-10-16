@@ -495,6 +495,7 @@
 * [Xbooru](https://xbooru.com/)
 * [The Hentai World](https://thehentaiworld.com/)
 * [WHentai](https://whentai.com/)
+* [Rule34 Scroller](https://rule34.pw/)
 * [Hypno Hub](https://hypnohub.net/) - Hypno Fetish Art / [Discord](https://discord.com/invite/4Y82pB6)
 * [SmutBase](https://smutba.se/) - NSFW 3D Models
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
