@@ -390,7 +390,6 @@
 * [mangadraft](https://www.mangadraft.com/) - Manga / Comics / Webtoons / Light-Novels
 * [Planet-DB](https://planete-bd.org/) - Manga / Comics
 * [mangascan](https://mangascan-fr.co/), [2](https://scansmangas.me/), [3](https://scanmanga-vf.me/) - Manga
-* [Bento Manga](https://www.bentomanga.com/) - Manga
 * [raijinscans](https://raijinscans.com/) - Manga
 * [Theses.fr](https://www.theses.fr/) - Theses
 
@@ -686,7 +685,7 @@
 ## ▷ Streaming
 
 * ⭐ **[CB01](https://cb01.uno/)** - Movies / TV / Sub / Dub / 1080p / 4K
-* [Altaefinizione](https://altadefinizione01.express/) - Movies / Sub / Dub / 1080p / 4K
+* [Altadefinizione](https://altadefinizione01.express/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.boats/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [SerieHD](https://www.seriehd.sbs/) - TV / Dub / 1080p
