@@ -154,7 +154,7 @@
 * ⭐ **[ADBAppControl](https://adbappcontrol.com/en/)** or [Octi](https://github.com/d4rken-org/octi) - Android Device Managers
 * ⭐ **[Gadget Bridge](https://gadgetbridge.org/)** - Bluetooth Device Manager
 * ⭐ **[scrcpy](https://github.com/Genymobile/scrcpy)**, **[PlainApp](https://docs.plain.icu/)**, [anl](https://anl.ink/), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop
-* [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility
+* [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility / [GitHub](https://github.com/techlore/Plexus-app)
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
 * [AVNC](https://github.com/gujjwal00/avnc) or [DroidVNC-NG](https://github.com/bk138/droidVNC-NG) - Remote Desktop Clients / VNC
 * [EtchDroid](https://etchdroid.app/) - Write OS Images to USB Drive
@@ -957,11 +957,11 @@ https://github.com/Akylas/alpimaps
 ## ▷ Android YouTube Apps
 
 * ⭐ **[ReVanced Manager](https://revanced.app/)** - Ad-Free YouTube Patcher / [YT Guide](https://redd.it/xlcny9) / [Discord](https://discord.com/invite/rF2YcEjcrT)
+* ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble etc. / [GitLab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-Free YouTube
 * ⭐ **[NewPipe](https://newpipe.net/)** - Ad-Free YouTube
 * ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-Free YouTube / SponsorBlock / ReturnYTDislikes
 * ⭐ **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
-* ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble etc. / [GitLab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
 * [FluxTube](https://github.com/mu-fazil-vk/FluxTube) - Ad-Free YouTube
 * [PipePipe](https://github.com/InfinityLoop1308/PipePipe) - YouTube Client
 * [Clipious](https://github.com/lamarios/clipious) - Android Invidious Client
