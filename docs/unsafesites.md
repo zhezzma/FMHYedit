@@ -1,3 +1,7 @@
+To easily see which sites are trusted, and which are unsafe, try the **[FMHY SafeGuard](https://github.com/kenhendricks00/FMHY-SafeGuard)** extension, or simply add our **[Filterlist](https://fmhy.github.io/FMHYFilterlist/site/index.html)** / [2](https://fmhy.github.io/FMHYFilterlist/) to your adblocker.
+
+***
+
 ### Game Sites
 
 * **Note** - Scene groups do not have their own sites, so it's best to avoid anything claiming to represent one.
@@ -6,7 +10,7 @@
 
 * 🌐 **[Untrusted Uploaders](https://rentry.org/pgames#untrusted-uploaders)**
 * 🌐 **[Fake FitGirl Sites](https://rentry.co/FakeFitgirlwebsites)**
-* IGG Games / Load Games - Caught with [malware](https://redd.it/bzczk6) / [2](https://i.ibb.co/fkXpgsq/jyFj8Kh.png) / [3](https://i.ibb.co/xmj2Vqh/9w5dyTU.png), doxxed member, added DRM to games
+* IGG Games / Load Games - Caught with [malware](https://i.ibb.co/cwxJfkw/image.png) / [2](https://i.ibb.co/fkXpgsq/jyFj8Kh.png) / [3](https://i.ibb.co/xmj2Vqh/9w5dyTU.png) / [4](https://redd.it/bzczk6), [doxxed another site](https://i.ibb.co/VNM4HY8/image.png)
 * OceanOfGames - Caught with malware multiple times
 * CrackingPatching - Caught with [malware](https://redd.it/qy6z3c)
 * xGIROx - Caught with malware
@@ -87,7 +91,3 @@
 ### [Fake Windows Activators](https://web.archive.org/web/20240529222658/https://pastebin.com/gCmWs2GR)
 
 ### [Unsafe Wayback Machine Links](https://rentry.co/ue9qk)
-
-***
-
-You can add all of these sites to your adblocker using our **[Filterlist](https://fmhy.github.io/FMHYFilterlist/site/index.html)**, [2](https://fmhy.github.io/FMHYFilterlist/).
