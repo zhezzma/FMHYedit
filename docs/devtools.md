@@ -609,7 +609,6 @@
 ## ▷ Android Code Editors
 
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)** - Android Code Editor
-* ⭐ **[AndroidIDE](https://androidide.com/)** - Android Code Editor
 * ⭐ **[Acode](https://acode.app)** - Android Code Editor / [GitHub](https://github.com/deadlyjack/Acode)
 * [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
 * [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editor
