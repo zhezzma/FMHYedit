@@ -193,6 +193,7 @@
 * [Koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Android Video to Wallpaper
 * [CanvasDownloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Walls
 * [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/) or [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/) - Mobile Wallpaper Subs
+* [AI Wallpapers](https://rentry.co/FMHYBase64#ai-wallpapers-14) - Google AI Wallpapers / Uploading to Playstore Required
 * [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait) - Wallpapers
 * [WallFlow](https://github.com/ammargitham/WallFlow) - Wallpapers
 * [Wallpaper Engine](https://www.wallpaperengine.io/android/en) - Wallpapers
@@ -910,7 +911,7 @@ https://github.com/Akylas/alpimaps
 ## ▷ Android Video Players
 
 * ⭐ **[VLC](https://www.videolan.org/vlc/download-android.html)**
-* ⭐ **[mpvKt](https://github.com/abdallahmehiz/mpvKt/)**
+* ⭐ **[mpvKt](https://github.com/abdallahmehiz/mpvKt/)** / [Nightly Builds](https://nightly.link/abdallahmehiz/mpvKt/workflows/nightlies/main)
 * ⭐ **[Just Player](https://github.com/moneytoo/Player)**
 * ⭐ **[SyncPlay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 * [MX Player](https://rentry.co/FMHYBase64#mx-player) / [Codec](https://github.com/USBhost/MX_FFmpeg)
@@ -945,7 +946,12 @@ https://github.com/Akylas/alpimaps
 ## ▷ Android Live TV
 
 * ⭐ **[TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)** - IPTV Player
-* [OTTRun](https://www.ottrun.com/), [OTT Navigator](https://www.apkmirror.com/apk/sia-scillarium-studio/ott-navigator-iptv/), [Tiwee](https://github.com/neffex97/Tiwee), [iMPlayer](https://implayer.tv/) or [IPTV Smarters Pro](https://www.iptvsmarters.com/) - IPTV Players
+* [Perfect IPTV Player](https://rentry.co/FMHYBase64#perfect-iptv-player) - IPTV Player
+* [OTTRun](https://www.ottrun.com/) - IPTV Player
+* [OTT Navigator](https://www.apkmirror.com/apk/sia-scillarium-studio/ott-navigator-iptv/) - IPTV Player
+* [Tiwee](https://github.com/neffex97/Tiwee) - IPTV Player
+* [iMPlayer](https://implayer.tv/) - IPTV Player
+* [IPTV Smarters Pro](https://www.iptvsmarters.com/) - IPTV Player
 * [M3U8 Downloader](https://play.google.com/store/apps/details?id=com.leavjenn.m3u8downloader) - M3U8 Download App
 * [Live Sports HD](https://forum.mobilism.org/search.php?keywords=Live+Sports+HD+TV&sr=topics&sf=titleonly) - Sports
 * [FreeTV](https://phstudio2.github.io/FreeTV/) / [GitHub](https://github.com/phstudio2/FreeTV)
@@ -1204,6 +1210,7 @@ https://github.com/Akylas/alpimaps
 * [Jailbreaks.app](https://jailbreaks.app/) - App Library
 * [StarFiles](https://starfiles.co/) - App Library
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
+* [IPA Library](https://t.me/iapps_ipa) - Tweaked Apps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
@@ -1262,6 +1269,7 @@ https://github.com/Akylas/alpimaps
 * [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - Emulate an STB and Watch IPTV
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151), [Pojobox](https://apps.apple.com/us/app/pojo-4k-hd-video-music-player/id1454098557) or [Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
+* [ATVLoadly](https://github.com/bitxeno/atvloadly) - Apple TV Sideloading
 
 ***
 
