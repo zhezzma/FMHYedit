@@ -190,7 +190,7 @@
 
 ## ▷ Drawing
 
-* ⭐ **[Excalidraw](https://excalidraw.com/)** - Drawing / Sketching
+* ⭐ **[Excalidraw](https://excalidraw.com/)** - Drawing / Sketching / [Sharing](https://excalihub.dev/)
 * ⭐ **[AutoDraw](https://www.autodraw.com/)** or [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - AI Drawing Tools
 * [inkscape](https://inkscape.org/) - Drawing / Sketching
 * [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q) - Drawing / Sketching
@@ -393,6 +393,7 @@
 * [Quasual](https://m.vk.com/quasual)
 * [designersgan9](https://m.vk.com/designersgan9)
 * [WockupWorld](https://m.vk.com/mockupworld)
+* [OnlyGFX](https://www.onlygfx.com/)
 * [The GFX](https://m.vk.com/the_gfx)
 * [Graphics Materials](https://vk.com/topic-178186634_39330245)
 * [desiignertm](https://vk.com/desiignertm)
