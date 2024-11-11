@@ -943,7 +943,7 @@
 
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)**
 * ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales
-[GG.deals Steam](https://gg.deals/deals/steam-deals/) - Steam Sales
+* [GG.deals](https://gg.deals/deals/)
 * [SteamBase](https://steambase.io/sales) - Steam Sales
 * [SteamDeals](https://www.reddit.com/r/steamdeals/) - Steam Sales
 * [SteamSpy](https://steamspy.com/deal/) - Steam Sales
@@ -1438,7 +1438,8 @@
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites 
 * [Sharkle!](https://sharkle.com/) - Find Random Sites 
 * [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites 
-* [JumpStick](https://jumpstick.app/) - Find Random Sites 
+* [JumpStick](https://jumpstick.app/) - Find Random Sites
+* [Trilzo](https://www.trilzo.com/) - Find Random Sites
 * [OpenBulkURL](https://openbulkurl.com/random/) - Find Random Sites 
 * [The Forest](https://theforest.link/) - Find Random Sites 
 * [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites 
