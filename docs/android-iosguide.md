@@ -834,7 +834,7 @@ https://github.com/Akylas/alpimaps
 * [SimpMusic](https://simpmusic.tech/) - YouTube Music Player
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Player
 * [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player
-* [Gyawun](https://jhelumcorp.github.io/) - YouTube Music Player
+* [Gyawun](https://gyawunmusic.vercel.app/) - YouTube Music Player
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android) - YouTube Audio Downloader
 * [ytdlnis](https://github.com/deniscerri/ytdlnis) - YouTube Audio Downloader
 * [Seal](https://github.com/JunkFood02/Seal) - YouTube Audio Downloader
@@ -961,7 +961,7 @@ https://github.com/Akylas/alpimaps
 * [Live Sports HD](https://forum.mobilism.org/search.php?keywords=Live+Sports+HD+TV&sr=topics&sf=titleonly) - Sports
 * [FreeTV](https://phstudio2.github.io/FreeTV/) / [GitHub](https://github.com/phstudio2/FreeTV)
 * [Tunity](https://tunity.com/) - Hear Muted TVs
-* [Showly OSS](https://github.com/1RandomDev/showly-oss) or [DroidShows](https://github.com/ltguillaume/droidshows) - TV Trackers
+* [Showly](https://github.com/michaldrabik/showly) or [DroidShows](https://github.com/ltguillaume/droidshows) - TV Trackers
 * [BoxBox](https://github.com/BrightDV/BoxBox) - Formula 1 News / Rankings
 
 ***

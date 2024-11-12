@@ -39,8 +39,8 @@
 * [Textractor](https://github.com/Artikash/Textractor) - Extract Text from Games / Visual Novels
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
-* [FatmanTutorial](https://archive.org/details/fatmantutorial) - How to Repack Games
-* [How Denuvo Works](https://rentry.co/denuvo)
+* [How Denuvo Works](https://rentry.co/FMHYBase64#how-denuvo-works)
+* [Game Cracking / Repacking Guides](https://rentry.co/FMHYBase64#game-cracking-guides)
 
 ***
 
@@ -679,6 +679,7 @@
 * ⭐ **[U.GG](https://u.gg/)**, [LoLTheory](https://loltheory.gg/ ) or [LoLAlytics](https://lolalytics.com/) / [Discord](https://discord.com/invite/zKyaZ6w) - LoL Champion Builds / Tiers
 * ⭐ **[Gol.gg](https://gol.gg/esports/home/)** - LoL Competitive Stats, All Regions
 * ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Team Fight Tactic Guides, Stats, Tools etc.
+* ⭐ **[DPM.LOL](https://dpm.lol/)** - Lol Builds / Leaderboards
 * [MobaFire](https://www.mobafire.com/) - LoL Champion Guides
 * [ProBuilds](https://www.probuilds.net/) - LoL Pro Player Builds
 * [LoL Math](https://lolmath.net/) - LoL Item Optimizer / [Discord](https://discord.com/invite/BpGpdzw)
@@ -725,7 +726,7 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 ## ▷ Counter-Strike Tools
 
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
-* ⭐ **[HLTV](https://www.hltv.org/)** - Counter-Strike News
+* ⭐ **[HLTV](https://www.hltv.org/)**or [Dust2](https://www.dust2.us/) - Counter-Strike News
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
 * [CS2 Weapon Spreadsheet](https://docs.google.com/spreadsheets/d/11tDzUNBq9zIX6_9Rel__fdAUezAQzSnh5AVYzCP060c/) - Weapon Stats / Prices
 * [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS2 Config

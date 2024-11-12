@@ -31,7 +31,7 @@
 * [feyn](https://feyn.chat/) - GPT-4o / Multiple Chatbots / # Required
 * [NexusAI Chat](https://chat.nexusapi.tech/) - GPT-4o / o1-preview / [Discord](https://discord.com/invite/sk8eddGwmP) 
 * [Fragments](https://fragments.e2b.dev/) - Multi-Chatbots
-* [NextChat](https://free.xiercloud.top/) or [NextChat Bots](https://rentry.org/ted4vwa7) - Multiple Chatbots / No Signup
+* [NextChat](https://free.xiercloud.top/), [THZStudent](https://chatgpt.thzstudent.top/), [TypeGPT](https://chat.typegpt.net/) or [NextChat Bots](https://rentry.org/ted4vwa7) - Multiple Chatbots / No Signup
 * [Tune AI](https://chat.tune.app/) - Multiple Chatbots / 24 Msgs per Chat / No Signup / [Discord](https://discord.gg/EkH7px4JNW)
 * [ChatGPT Plus](https://chatgptplus.cn/) - Free ChatGPT Plus / May Require VPN
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods / No Signup
@@ -94,7 +94,7 @@
 * ⭐ **[PygmalionAI](https://discord.com/invite/pygmalionai)** - Self-Hosted Roleplaying Models with Resources / [Resources](https://rentry.co/PygmalionLinks)
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Chatbot with Real-Time Voice and Video / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Character AI](https://character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
-* ⭐ **[FlowGPT](https://flowgpt.com/chat)** - Roleplaying Chatbots / No Signup / [Discord](https://discord.com/invite/tWZGzcpTkf)
+* ⭐ **[FlowGPT](https://flowgpt.com/chat)** - Roleplaying Chatbots / [Discord](https://discord.com/invite/tWZGzcpTkf)
 * ⭐ **[Bot Creation Guide](https://wikia.schneedc.com/bot-creation/intro)** - Character Creation Guide
 * ⭐ **[Chub](https://www.chub.ai/)** - Character Cards
 * [LlaMA + SillyTavern](https://rentry.org/llama_v2_sillytavern) - LlaMA + SillyTavern Roleplaying Setup Guide / No Signup
@@ -206,6 +206,7 @@
 * ⭐ **[LiveBench](https://livebench.ai/)** - Chatbot Leaderboards / Benchmarks
 * [SEAL LLM Leaderboards](https://scale.com/leaderboard) - Chatbot Leaderboards
 * [WildBench](https://huggingface.co/spaces/allenai/WildBench) - Chatbot Benchmarks
+* [LLM Benchmarking Project](https://www.wolfram.com/llm-benchmarking-project/) - Chatbot Leaderboards / Benchmarks
 * [Aider Leaderboards](https://aider.chat/docs/leaderboards/) - Chatbot Leaderboards / Benchmarks
 * [ArtificialAnalysis](https://artificialanalysis.ai/) - Chatbot Benchmarks
 * [The Fastest AI](https://thefastest.ai/) - Chatbot Benchmarks

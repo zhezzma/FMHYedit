@@ -327,7 +327,6 @@
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
 * ⭐ **[PSX Party](https://psxparty.kosmi.io/)** - Multiplayer Playstation Browser Emulator
 * [PS1FUN](https://www.ps1fun.com/) - PS1 Browser Emulator
-* [LYR9C](https://lyr9c.weebly.com/gba-games.html) - GBA Browser Emulator
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy Browser Emulator
 * [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator
 * [8bbit](https://www.8bbit.com/) or [Play NES](https://www.playnesonline.com/) - NES Browser Emulators
@@ -692,7 +691,7 @@
 * [Huedle](https://huedle.com/), [Color Rush](https://www.colorrush.io/) or [Hexcodle](https://www.hexcodle.com/) - Hex Code Guessing Games
 * [Nerdle](https://nerdlegame.com/), [Additional](https://additional.today/) or [Countle](https://www.countle.org/) - Math Guessing Games
 * [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Recipe Guessing Game
-* [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Game
+* [PkmnQuiz](https://pkmnquiz.com/) or [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Games
 * [LoLdle](https://loldle.net/) - League of Legends Guessing Games
 * [Worldle](https://worldle.teuteuf.fr/) - Country Guessing Game
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
