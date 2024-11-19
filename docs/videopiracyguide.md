@@ -17,7 +17,7 @@
 * ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / 4K / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
-* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K
+* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / 4K / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
 * ⭐ **[Novafork](https://novafork.com/)** - Movies / TV / 4k / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / 4K / Auto-Next / [Docs](https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
@@ -223,7 +223,7 @@
 
 * 🌐 **[Chinese Drama Sites](https://www.reddit.com/r/CDrama/wiki/streaming)** - Chinese Drama Site Index
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-drama)**, [2](https://everythingmoe.org/#section-drama) - Asian Drama Index / [Discord](https://discord.gg/GuueaDgKdS)
-* ⭐ **[DramaCool](https://asianc.sh/)**, [2](https://watchasia.to/), [3](https://dramanice.la/), [4](https://runasian.net/) - TV / Movies / [Clones List](https://asianwiki.co/)
+* ⭐ **[DramaCool](https://asianc.co/)**, [2](https://watchasia.to/), [3](https://dramanice.la/), [4](https://runasian.net/) - TV / Movies / [Clones List](https://asianwiki.co/)
 * ⭐ **[KissAsian](https://kissasian.video/)** - TV / Movies
 * ⭐ **[GoPlay](https://goplay.su/)** - TV / Movies / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
 * [Einthusan](https://einthusan.tv/) - Movies

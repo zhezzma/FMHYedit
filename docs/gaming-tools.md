@@ -128,7 +128,7 @@
 * ⭐ **[MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/)** - GPU Benchmark Test
 * ⭐ **[ProSettings](https://prosettings.net/)**, [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html), [/r/OptimizedGaming](https://www.reddit.com/r/OptimizedGaming/), [SweetFX](https://sfx.thelazy.net/), [ENBSeries](http://enbdev.com) - Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
-* ⭐ **[Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling)**, **[Magpie](https://github.com/Blinue/Magpie)** or [OptiScaler](https://github.com/cdozdil/OptiScaler) - Game Upscaling 
+* ⭐ **[Lossless Scaling](https://rentry.co/FMHYBase64#lossless-scaling)**, **[Magpie](https://github.com/Blinue/Magpie)**, [DLSS2FSR](https://discord.com/invite/2JDHx6kcXB) or [OptiScaler](https://github.com/cdozdil/OptiScaler) - Game Upscaling 
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/) or [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - Gaming Optimization Guides
 * [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
@@ -290,7 +290,7 @@
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [Local Multiplayer List](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [DoesItPlay?](https://www.doesitplay.org/) - Offline Game Compatibility Database
 * [CloudBase](https://cloudbase.gg/) - Cloud Game Database
-* [Low Spec Games](https://pastebin.com/MTCXZxCN) - Low Spec Game Database
+* [Low Spec Games](https://pastebin.com/raw/MTCXZxCN) - Low Spec Game Database
 * [HOTU](https://www.homeoftheunderdogs.net/) - Rare Game Database
 * [Delisted Games](https://delistedgames.com/) - Delisted Games Database
 * [BoardGameGeek](https://boardgamegeek.com/) - Board Game Database
@@ -315,7 +315,7 @@
 
 * ⭐ **[Online Fix](https://online-fix.me/)** - Online / LAN Multiplayer Fix / [Discord](https://discord.gg/yExgFYncMD)
 * ⭐ **[Playit.gg](https://playit.gg/)** - LAN Multiplayer Fix / [Discord](https://discord.gg/AXAbujx)
-* ⭐ **[zerotier](https://www.zerotier.com/)** - LAN Multiplayer Fix
+* ⭐ **[ZeroTier](https://www.zerotier.com/)** - LAN Multiplayer Fix
 * [Radmin](https://www.radmin-vpn.com/) - LAN Multiplayer Fix / [Discord](https://discord.com/invite/8MapDM7m96)
 * [Hamachi](https://vpn.net/) - LAN Multiplayer Fix
 * [NetMaker](https://www.netmaker.io/) - LAN Multiplayer Fix
