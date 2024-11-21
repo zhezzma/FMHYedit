@@ -8,8 +8,8 @@
 
 ## ▷ Multi Server
 
-* ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / Auto-Next
+* ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
 * ⭐ **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/) - Movies / TV / 4K
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime
@@ -95,6 +95,7 @@
 
 * ⭐ **[NEPU](https://nepu.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/nepu)
 * ⭐ **[Catflix](https://catflix.su/)** - Movies / TV
+* ⭐ **[Hexa Watch](https://hexa.watch/)** - Movies / TV / 1080p / [API](https://api.hexa.watch)
 * [FshareTV](https://fsharetv.co/) - Movies
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / 720p / Invite Code: fmhy / Sign-Up Required
@@ -163,7 +164,6 @@
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / Auto-Next
 * [Animegg](https://www.animegg.org/) - Sub / Dub
 * [AniZone](https://anizone.to/) - Sub
-* [DaftAnime](https://daftanime.com/) - Sub / Dub 
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / [Discord](https://discord.com/invite/q3N6eWMMNP)
 * [AniPlay](https://aniplaynow.live/) - Sub / Dub / Auto-Nextp / [Discord](https://discord.gg/Zws2rAGSN6)
 * [KissAnime](https://kissanime.com.ru/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/w5ghWQG8uM) / [Clones](https://kissanime.help/)

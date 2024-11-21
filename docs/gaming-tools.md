@@ -675,6 +675,7 @@
 ## ▷ Pokemon Tools
 
 * 🌐 **[Awesome Pokémon](https://github.com/tobiasbueschel/awesome-pokemon)** - Curated List of Pokémon Resources
+* 🌐 **[r/PTCGP Resource Guide](https://www.reddit.com/r/PTCGP/comments/1gf94ey/pokemon_tcg_pocket_resource_guide/)** - Pokémon TCG Pocket Resources
 * ⭐ **[Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)** - Pokémon Wiki
 * ⭐ **[Serebii.net](https://www.serebii.net/)**, [Pokémon Database](https://pokemondb.net/) or [PocketMonsters.net](https://pocketmonsters.net/) - Pokémon Databases
 * ⭐ **[PokeList](https://pokemonlist.netlify.app/)**, [Pokedex](https://github.com/skydoves/Pokedex) or [PokeAPI](https://pokeapi.co/) - Pokédexes
@@ -705,7 +706,7 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 ## ▷ Counter-Strike Tools
 
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
-* ⭐ **[HLTV](https://www.hltv.org/)**or [Dust2](https://www.dust2.us/) - Counter-Strike News
+* ⭐ **[HLTV](https://www.hltv.org/)** or [Dust2](https://www.dust2.us/) - Counter-Strike News
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
 * [CS2 Weapon Spreadsheet](https://docs.google.com/spreadsheets/d/11tDzUNBq9zIX6_9Rel__fdAUezAQzSnh5AVYzCP060c/) - Weapon Stats / Prices
 * [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS2 Config
