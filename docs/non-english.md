@@ -360,6 +360,7 @@
 
 * ⭐ **[SeeFrench](https://seefrench.pro/)** - Movies / TV / Anime / Dub / 4K / 1080p / [Discord](https://discord.gg/5ZYBNAp7tm)
 * ⭐ **[Hotstream](https://hotstream.at/)** - Movies / TV / Live TV / Dub / 1080p / [Discord](https://hotstream.me/discord)
+* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[Animeo TV](https://animeovf.fr)** - Anime / Sub / Dub / 1080p
 * [Sadisflix](https://sadisflix.wiki/) - Movies / TV / Anime / Dub / 1080p / [Telegram](https://t.me/sadisflix) / Use Adblocker
 * [Wiflix](https://wiflix-catalogue.pro/) - Movies / Series / Anime / Dub / [Telegram](https://t.me/wiflix2023) 
@@ -593,9 +594,11 @@
 ## ▷ Streaming
 
 * ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next
+* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[ToonStream](https://toonstream.co/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Animerulz](https://animerulz.net)** - Anime / Hindi / Telugu / Tamil / 1080p / [Telegram](https://telegram.me/animerulz_xyz)
 * ⭐ **[AnPlay](https://anplay.in/)** - Anime / Dub / 1080p
+* ⭐ **[FireFlix](https://fireflixhd.netlify.app/)** - Movies / TV / Anime
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [ToonBaba](https://toonbaba.site/) - Anime
 * [9xmovies](https://9xmovies.fund/), [2](https://9kmovies.com/) - Movies / TV / Sub / Dub / 1080p / 4K
