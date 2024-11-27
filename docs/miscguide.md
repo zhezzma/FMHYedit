@@ -6,7 +6,7 @@
 
 # ► Indexes
 
-* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)** - All Awesome Lists
+* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)** or [awesome-list](https://github.com/topics/awesome-list) - All Awesome Lists
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
@@ -17,7 +17,7 @@
 * [lists](https://github.com/jnv/lists) - List Index
 * [Curlie](https://curlie.org/) - Topic Directory
 * [ooh.directory](https://ooh.directory/) - Blog Directory
-* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [xRanks](https://xranks.com/), [DirtyWarez](https://dirtywarez.org/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
+* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [xRanks](https://xranks.com/), [DirtyWarez](https://dirtywarez.org/), [Start.me Stats](https://start.me/sites/int), [HypeStat](https://hypestat.com/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [OneMillionScreenshots](https://onemillionscreenshots.com/) - Website Snapshot Map
@@ -52,6 +52,7 @@
 * [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [Mirror](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
 * [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
+* [OSS Insight](https://ossinsight.io/) - GitHub Project Index
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
 * [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
@@ -138,7 +139,7 @@
 
 ## ▷ Recipes
 
-* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [Cooked](https://cooked.wiki/), [ManageMeals](https://managemeals.com/) or [Pestle](https://pestlechef.app/) - Recipe Managers
+* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [Cooked](https://cooked.wiki/), [ManageMeals](https://managemeals.com/), [Mela](https://mela.recipes/) or [Pestle](https://pestlechef.app/) - Recipe Managers
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [WheresTheDish](https://www.wheresthedish.com/), [Copy Me That](https://www.copymethat.com/), [drizzlelemons](https://www.drizzlelemons.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Recipes from Sites / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
 * ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
 * [cookEbooks](https://cookebooks.info/) - Cookbooks
@@ -284,7 +285,7 @@
 * [GPS Power](https://www.gpspower.net/) - GPS Navigation Forum
 * [Bing Maps](https://www.bing.com/maps) - Online Maps
 * [Apple Maps](https://beta.maps.apple.com/) - Online Maps
-* [Mapy](https://en.mapy.cz/) - Online Maps
+* [Mapy](https://en.mapy.cz/) - Online Maps / [Mobile](https://en.mapy.cz/mobilepromo)
 * [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) - Traffic and Road Conditions Map
 * [Wikiroutes](https://wikiroutes.info/) or [CityMapper](https://citymapper.com/) - Public Transport Routes
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
@@ -816,6 +817,7 @@
 * ⭐ **[TradingView](https://www.tradingview.com/)**, [ticker](https://github.com/achannarasappa/ticker), [finviz](https://finviz.com/) or [Markets.sh](https://markets.sh/) - Stock Market Trackers
 * ⭐ **[StockTicker](https://github.com/premnirmal/StockTicker)** or [Candle](https://gitlab.com/cosmosapps/candle) - Mobile Stock Market Trackers
 * ⭐ **[Ghostfolio](https://ghostfol.io/en/start)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Maybe](https://maybe.co/), [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
+* [Weekly Market Recapt](https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/insights/market-insights/wmr/weekly_market_recap.pdf) - Weekly Stock Market Recaps
 * [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calc](https://opentaxsolver.sourceforge.net/)
 * [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet), [money-manager](https://github.com/moneymanagerex/android-money-manager-ex), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance / Expense Managers
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
@@ -854,7 +856,7 @@
 * [Bitbox](https://bitbox.swiss/), [Ledger](https://www.ledger.com/) or [Trezor](https://trezor.io/) - Hardware Wallets
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
 * [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
-* [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [L2BEAT](https://l2beat.com/), [HiveblockExplorer](https://hiveblockexplorer.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
+* [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [L2BEAT](https://l2beat.com/), [HiveblockExplorer](https://hiveblockexplorer.com/), [CoinGlass](https://www.coinglass.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
 * [Dora](https://www.ondora.xyz/) - Cross-Chain Search Engine
 * [DefiLlama](https://defillama.com/) - TVL Aggregator
 * [WalletExplorer](https://www.walletexplorer.com/) - Bitcoin Block Explorers
@@ -893,7 +895,7 @@
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [/r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
-* [WornOnTV](https://wornontv.net/) - Find Outfits from TV Shows
+* [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
 * [Buycott](https://www.buycott.com/campaign/browse) - See How Manufacturers Match Your Principles
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [Fuck Nestlé](https://www.fucknestle.art/) - Nestlé Brand Database
@@ -1006,6 +1008,7 @@
 * ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
 * ⭐ **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired
 * ⭐ **[TinyKitten](https://tinykittens.com/)** - Kitten Rescue / Donation
+* [Make it Yourself](https://makeityourself.org/) - 1000 DIY Projects / [Video](https://youtu.be/TSFJ2OH1PQA)
 * [barcodrod.io](https://barcodrod.io/) or [QR Code Scan](https://qrcodescan.in/) - QR Code Scanners
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
 * [The Measure Of Things](https://www.themeasureofthings.com) - Comparative / Relative Quantity Measurements

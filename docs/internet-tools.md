@@ -448,7 +448,7 @@
 * [WhoisRequest](https://whoisrequest.com/) or [Whois Lookup](https://whois.domaintools.com/) - Whois Search
 * [IPIP.NET](https://whois.ipip.net/) - Country / Region ASNs
 * [AtSameIP](https://atsameip.intercode.ca/) - Find Websites on the Same IP
-* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Search Console](https://search.google.com/search-console/) or [Subdomain Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
+* [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Google Search Console](https://search.google.com/search-console/), [MerkleMap](https://www.merklemap.com/) or [Subdomain Finder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains
 
 ***
 
@@ -538,7 +538,6 @@
 * [mail-temp.com](https://mail-temp.com/) or [emailfake.com](https://emailfake.com/) - 50+ Domains
 * [1secMail](https://www.1secmail.com/) - 8 Domains
 * [AnonymMail.net](https://anonymmail.net/), [Tmail.gg](https://tmail.gg/) or [Mail.td](https://mail.td/) - 5 Domains
-* [tempmail.email](https://tempmail.email/) - 3 Domains
 * [EmailOnDeck](https://www.emailondeck.com/), [EmailTemp](https://emailtemp.org/), [Haribu](https://haribu.net/), [Maildax](https://maildax.com/) or [tempmaili.com](https://tempmaili.com/) - 1 Domain
 * [tMail](https://tmailweb.com/) / [App](https://play.google.com/store/apps/details?id=com.clagt.tmail)
 * [Rainmail](https://rainmail.xyz/)
@@ -574,9 +573,9 @@
 
 # ► Browser Tools
 
-* 🌐 **[Desktop Web Browsers](https://github.com/nerdyslacker/desktop-web-browsers)** - Desktop Browser Index
 * 🌐 **[Browser Comparisons](https://privacytests.org/)** or [ATH Comparisons](https://avoidthehack.com/util/browser-comparison) - Compare Popular Browsers
-* ↪️ **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
+* 🌐 **[Desktop Browser List](https://github.com/nerdyslacker/desktop-web-browsers)** - Desktop Browser Index
+* ↪️ **[Recommended Browsers](https://fmhy.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
 * ⭐ **[WhatTrainIsItNow?](https://whattrainisitnow.com/)** - Track Firefox Releases
 * ⭐ **[Edge-Uninstall](https://rentry.co/uninstall_edge)** - Microsoft Edge Removal Script
@@ -863,6 +862,7 @@
 * ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)** - Tools and Resources
 * [Osintracker](https://www.osintracker.com/) - Track Your Investigations
 * [Cyber Detective](https://cybdetective.com/) - Tools, Techniques, and Projects / [GitHub](https://github.com/cipher387)
+* [MetaOSINT](https://metaosint.github.io/) - OSINT Search Tool / [GitHub](https://github.com/MetaOSINT/MetaOSINT.github.io/)
 * [Harpoon](https://github.com/Te-k/harpoon) - OSINT CLI Tool
 * [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
 * [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
