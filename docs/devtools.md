@@ -835,6 +835,7 @@
 * [Vanilla List](https://vanillalist.top/) - Vanilla JavaScript Repository
 * [RunKit](https://runkit.com/) - Browser JavaScript Sandbox
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in JavaScript
+* [⁠Component Party](https://component-party.dev/) - Web Component JS Frameworks Overview / [GitHub](https://github.com/matschik/component-party.dev)
 * [Gummy](https://gummyjs.vercel.app/) - Easily Build JavaScript Programs
 * [Obfuscator](https://obfuscator.io/) or [js-confuser](https://js-confuser.com/) - JavaScript Obfuscators
 * [jsdfe](https://avotoko.github.io/javascript-deobfuscator/), [de4js](https://lelinhtinh.github.io/de4js/), [Deobfuscator](https://willnode.github.io/deobfuscator/), [WebCrack](https://webcrack.netlify.app/), [Deobfuscate](https://deobfuscate.relative.im/) or [deobfuscate.io/](https://deobfuscate.io/) - JavaScript Deobfuscators
@@ -1190,8 +1191,8 @@
 
 ## ▷ Streaming APIs
 
-* [VidSrc.me](https://vidsrc.xyz/), [2](https://vidsrc.stream/), [3](https://vidsrc.me/), [4](https://vidsrc.in/), [5](https://https://vidsrc.pm/), [6](https://vidsrc.net) - Movies / TV / Anime / API
-* [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API / 4K 
+* [VidSrc.me](https://vidsrc.me/), [2](https://vidsrc.stream/), [3](https://vidsrc.xyz/), [4](https://vidsrc.in/), [5](https://vidsrc.pm/), [6](https://vidsrc.net) - Movies / TV / Anime / API
+* [VidBinge](https://vidbinge.dev/) or [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API / 4K 
 * [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime / Drama / API / [Discord](https://discord.gg/uQCNbXrj45)
 * [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
 * [Embed.su](https://embed.su/) - Movies / TV / Anime / API / 4K
