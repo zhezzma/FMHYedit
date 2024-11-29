@@ -109,7 +109,6 @@
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * [Spotify Web Client](https://open.spotify.com/) - Browser Music
 * [ArtistGrid](https://artistgrid.netlify.app/) - Browser Music
-* [Brie's Music UI](https://api.brie.se/musicui) - Browser Music
 * [Groovesharks](https://groovesharks.org/) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music
 * [FreeListenOnline](https://freelistenonline.com/) - Browser Music
@@ -275,7 +274,7 @@
 ## ▷ Audio Ripping Sites
 
 * ⭐ **[lucida](https://lucida.to/)**, [2](https://lucida.su/) - Multi-Site / 320kb / MP3 / FLAC / [Auto-Retry](https://greasyfork.org/en/scripts/514514) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
-* ⭐ **[cobalt](https://cobalt.tools/)** - [Multi-Site](https://github.com/imputnet/cobalt?tab=readme-ov-file#supported-services) / [Instances](https://instances.hyper.lol/), [2](https://instances.cobalt.best/) / [Playlist Supprt](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/) / 320kb / MP3 / Ad-Free 
+* ⭐ **[cobalt](https://cobalt.tools/)** - [Multi-Site](https://github.com/imputnet/cobalt?tab=readme-ov-file#supported-services) / [Instances](https://instances.cobalt.best/) / [Playlist Supprt](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/) / 320kb / MP3 / Ad-Free 
 * ⭐ **[squid.wtf](https://squid.wtf/)**, [2](https://qobuz.vercel.app/) - Deezer / Qobuz / FLAC
 * ⭐ **[yet another music server](https://yams.tf/)** - Deezer / Tidal / Qobuz / Spotify / FLAC / [Discord](https://discord.com/invite/yjkdAc53rj)
 * ⭐ **[MP3 Daddy](https://mp3-daddy.com/)** - Deezer / 320kb / MP3 / FLAC

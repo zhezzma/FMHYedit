@@ -918,7 +918,7 @@
 * [LabGopher](https://www.labgopher.com/) - eBay Hardware Price Comparisons
 * [/r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
-* [NewMaxx's SSD Site](https://borecraft.com/), [JohnnyLucky](https://www.johnnylucky.org/index.html) or [SSD Chart](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/) - SSD Buying Comparisons
+* [NewMaxx's SSD Site](https://borecraft.com/), [SSD Tester](https://ssd-tester.com/), [JohnnyLucky](https://www.johnnylucky.org/index.html) or [SSD Chart](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/) - SSD Buying Comparisons
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
 * [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Database
@@ -1191,7 +1191,6 @@
 * [ArtVote](https://qcpages.qc.cuny.edu/~chanusa/artvote/) - Judge Art
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
 * [Chris Shier](https://www.csh.bz/) - Canvas Animations / GIFs
-* [Three.js](https://threejs.org/) - JavaScript 3D library
 * [88x31](https://cyber.dabamos.de/88x31/index.html), [THE 88×31 ARCHIVE](https://hellnet.work/8831/) or [Web Badges World](https://web.badges.world/) - Oldschool Web Badges
 * [/r/Place Atlas](https://place-atlas.stefanocoding.me/) - /r/Place Info
 * [LameBook](https://www.lamebook.com/) - Funny Facebook Statuses

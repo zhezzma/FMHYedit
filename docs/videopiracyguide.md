@@ -29,6 +29,7 @@
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [nKiri](https://nkiri.cc/), [2](https://soapertv.cc/), [3](https://popcorntimeonline.cc/) - Movies / TV
 * [Watch2Day](https://watch2day.online/) - Movies / TV / Anime
+* [Flicker](https://flickermini.netlify.app/) -  Movies / TV / Anime
 * [PrimeWire](https://www.primewire.tf/), [2](https://www.primewire.li/) - Movies / TV / Anime
 * [UpMovies](https://upmovies.net/), [2](https://flixwave.me/), [3](https://vumoo.mx/), [4](https://zoroxtv.net/) - Movies / TV / Anime / Use Adblock
 * [CorsFlix](https://corsflix.us.kg/) - Movies / TV / Anime
@@ -65,7 +66,6 @@
 * [MP4Hydra](https://mp4hydra.org/), [2](https://mp4hydra.top/) - Movies / [Mirrors](https://mp4hydra.info/)
 * [streamfr](https://streamfr.onrender.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/bqXhREHEDt) / [API](https://streamfr.onrender.com/docs) / [GitHub](https://github.com/bhaiaajo/streamfr)
 * [Mokmobi](https://mokmobi.site/) - Movies / TV / Anime
-* [Flicker](https://flickermini.netlify.app/) -  Movies / TV / Anime
 * [Hopcorn](https://c.hopmarks.com/) or [Hopplay](https://p.hopmarks.com/) - Movies / TV / Anime / 4K
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / [Clones](https://hollymoviehd-official.com/)
@@ -159,6 +159,7 @@
 * [AnimeOwl](https://animeowl.live/) - Sub / Dub / Auto-Next / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [1Anime](https://1anime.online/) - Sub / Dub / Auto-Next / / [Mirrors](https://1anime.co/) / [Discord](https://dsc.gg/1Anime)
 * [AnimeZ](https://animez.org/) - Sub / Dub
+* [AnimeNoSub](https://animenosub.to/) - Sub / Dub
 * [GoJo](https://gojo.wtf/) or [Aninow](https://aninow.in/home) - Sub / Dub / [Discord](https://discord.gg/azKUgz2rsE)
 * [Anime Realms](https://www.animerealms.org/) - Sub / Dub / Auto-Next / [Discord](https://discord.gg/FPM57Eugmj)
 * [AnimeSuge](https://animesugetv.to/), [2](https://animixplay.tube), [3](https://aniwave.best/) - Sub / Dub / Auto-Next
@@ -539,28 +540,33 @@
 
 # ► Smart TV / Firestick
 
-* ⭐ **[SmartTube](https://smarttubeapp.github.io/)** - Ad-Free Android TV YouTube / [GitHub](https://github.com/yuliskov/SmartTubeNext)
 * ⭐ **[Tizentube](https://tizentube.vercel.app/)** - Ad-Free Samsung Smart TV YouTube
-* ⭐ **[S0undTV](https://github.com/S0und/S0undTV)** - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
-* ⭐ **[webOS Dev Manager](https://github.com/webosbrew/dev-manager-desktop)** - LG TV Homebrew Installer / [Guide](https://rentry.co/LGTVHomebrewGuide)
-* [Android TV Tools v3](https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v3.4648239/) - Multiple Android TV Tools
-* [Android TV Guide](https://www.androidtv-guide.com/) - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
+* ⭐ **[webOS Dev Manager](https://github.com/webosbrew/dev-manager-desktop)** - LG TV Homebrew Installer / [Guide](https://gist.github.com/VVispy/044cd8005260b270728e1d9aa8f6af51)
 * [Smart TV Guide](https://redd.it/xa0aya) - Smart TV Piracy Guide
 * [KPFire](https://linktr.ee/kpfire) - Firestick Apps
-* [PStoreTV](https://rentry.co/PStoreTV) - How to Open Google Play on Android TV
-* [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) - Ad-Free Android TV Browsers
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
 * [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock App
 * [Playlet](https://channelstore.roku.com/en-ca/details/840aec36f51bfe6d96cf6db9055a372a/playlet) - Ad-Free YouTube Roku Client
-* [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
-* [AnimeTV](https://github.com/amarullz/AnimeTV) - Anime Android TV App
 * [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Player
 * [Go2TV](https://github.com/alexballas/go2tv) or [FCast](https://fcast.org/) - Cast to Smart TVs
 * [StreamFire](https://streamfireapp.tv/) - Live TV for Smart TV & Firestick
-* [Send Files to TV](https://sendfilestotv.app/) - Send Files to Android TV
-* [LeanbackLauncher](https://github.com/tsynik/LeanbackLauncher) or [Spocky](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) - Android TV Launchers
 * [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
 * [ChanSort](https://github.com/PredatH0r/ChanSort) - TV Channel List Editor for Samsung, LG etc.
+
+***
+
+## ▷ Android TV
+
+* ⭐ **[SmartTube](https://smarttubeapp.github.io/)** - Ad-Free Android TV YouTube / [GitHub](https://github.com/yuliskov/SmartTubeNext)
+* ⭐ **[S0undTV](https://github.com/S0und/S0undTV)** - Android TV Twitch Player / [Discord](https://discord.gg/zmNjK2S)
+* [Android TV Tools v3](https://xdaforums.com/t/tool-all-in-one-tool-for-windows-android-tv-tools-v3.4648239/) - Multiple Android TV Tools
+* [Android TV Guide](https://www.androidtv-guide.com/) - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
+* [PStoreTV](https://rentry.co/PStoreTV) - How to Open Google Play on Android TV
+* [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) - Ad-Free Android TV Browsers
+* [Serenity Android](https://github.com/NineWorlds/serenity-android) - Plex / Emby Android TV App
+* [AnimeTV](https://github.com/amarullz/AnimeTV) - Anime Android TV App
+* [Send Files to TV](https://sendfilestotv.app/) - Send Files to Android TV
+* [LeanbackLauncher](https://github.com/tsynik/LeanbackLauncher) or [Spocky](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549/) - Android TV Launchers
 
 ***
 
@@ -927,7 +933,6 @@
 * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ↪️ **[Media Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_media_soundtracks)**
 * ↪️ **[File Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_data_automation)**
-* ↪️ **[Streaming APIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_streaming_apis)**
 * ⭐ **[FastStream](https://faststream.online/)** - Fragmentation Streaming Extension / [GitHub](https://github.com/Andrews54757/FastStream/)
 * ⭐ **[DeepSearch](https://deepsearch.mycelebs.com/movie)**, [WhatsatMovie](https://whatsatmovie.com/) or [What is My Movie?](https://www.whatismymovie.com/) - Find Movies via Descriptions
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More
@@ -966,3 +971,28 @@
 * [Movie-Locations](https://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](https://www.wheredidtheyfilmthat.co.uk/) - Film Location Maps
 * [DramaWiki](https://wiki.d-addicts.com/), [KoreanDrama](https://www.koreandrama.org/) or [HanCinema](https://www.hancinema.net/) - Asian Drama Wikis
 * [Sprocket School](https://www.sprocketschool.org/) - Film Exhibition Wiki
+
+***
+
+## ▷ Streaming APIs
+
+* [VidSrc.in](https://vidsrc.in/), [2](https://vidsrc.stream/), [3](https://vidsrc.xyz/), [4](https://vidsrc.me/), [5](https://vidsrc.pm/), [6](https://vidsrc.net), [7](https://vidsrc.to/), [8](https://vidsrc.io/) - Movies / TV / Anime / API
+* [VidBinge](https://vidbinge.dev/) or [VidSrc.dev](https://vidsrc.dev/) - Movies / TV / Anime / API / 4K 
+* [VidSrc.rip](https://vidsrc.rip/) - Movies / TV / Anime / Drama / API / [Discord](https://discord.gg/uQCNbXrj45)
+* [AutoEmbed](https://autoembed.cc/), [2](https://autoembed.cc/anime/), [3](https://autoembed.cc/drama/) - Movies / TV / Anime / Drama / API / [Telegram](https://t.me/auto_embed)
+* [Embed.su](https://embed.su/) - Movies / TV / Anime / API / 4K
+* [GoMo](https://gomo.to/) - Movies / TV / Anime / API
+* [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
+* [2embed](https://www.2embed.cc/), [2](https://2embed.skin/) - Movies / TV / API
+* [VidLink](https://vidlink.pro/) - Movies / TV / API
+* [moviee](https://moviee.tv/api) - Movies / TV
+* [WHVX](https://whvx.net/) - Movies / TV / Anime / API / 4K
+* [TheyAllSayFlix](https://theyallsayflix.su/) - Movies / TV / Anime / API
+* [StreamFR](https://streamfr.onrender.com/docs) - Movies / TV / Anime / API
+* [VidSrc.cc](https://vidsrc.cc/) - Movies / TV / Anime / API
+* [VidSrc.nl](https://vidsrc.nl/) - Movies / TV / Anime / API
+* [VidSrc.vip](https://vidsrc.vip/) - Movies / TV / Anime / API
+* [Flicky](https://www.flicky.host/) - Movies / TV / Anime / API
+* [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime / API
+* [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / API / [Telegram](https://t.me/moviesapi_club)
+* [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib)
