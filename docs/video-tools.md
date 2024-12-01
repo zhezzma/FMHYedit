@@ -128,7 +128,7 @@
 * ⭐ **OBS Tools** - [Virtual Cam](https://github.com/miaulightouch/obs-virtual-cam) / [Tweaks](https://discord.gg/CTT) / [Effects](https://github.com/exeldro/obs-shaderfilter/) / [Keyboard Visualiser](https://github.com/ThoNohT/NohBoard) / [Background Remover](https://github.com/locaal-ai/obs-backgroundremoval) / [Phone Controller](https://github.com/Kounex/obs_blade) / [Dock Layouts](https://obsproject.com/forum/resources/jrdockie-save-and-load-window-and-dock-layouts.1955/) / [WebRTC Server](https://github.com/GRVYDEV/Project-Lightspeed) / [Plugin Updater](https://ko-fi.com/s/0b5bd4536d) / [Guide](https://www.nvidia.com/en-us/geforce/guides/broadcasting-guide/)
 * [Stream Elements](https://streamelements.com/) - Streaming Service Manager
 * [Streamlabs-OBS](https://github.com/stream-labs/desktop) - Live Stream Manager
-* [SteamLabs](https://streamlabs.com/) - Live Stream Manager
+* [StreamLabs](https://streamlabs.com/) - Live Stream Manager
 * [Restream](https://restream.io/) - Live Stream Manager
 * [FBX](https://fbx.gg/) - Live Stream Manager
 * [XSplit](https://www.xsplit.com/) - Live Stream Manager
@@ -248,8 +248,8 @@
 # ► Media Servers
 
 * 🌐 **[Auto Download Tool Index](https://redd.it/hbwnb2)**
-* ⭐ **[Plex](https://www.plex.tv/)** - Media Server
 * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server
+* ⭐ **[Plex](https://www.plex.tv/)** - Media Server
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
 * [Self-hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
