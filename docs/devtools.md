@@ -118,7 +118,7 @@
 * ⭐ **[Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)**, [raylib technologie](https://raylibtech.itch.io/) or [bookmarks](https://github.com/MorganGeek/bookmarks) - Software Development Tools
 * ⭐ **Electron Tools** - [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/pd4d10/debugtron) / [Mod Loader](https://kernel.fish/) / [Builder](https://www.electron.build/)
 * ⭐ **[new(releases)](https://newreleases.io/)** - Software Release Notifications
-* [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [Electron](https://www.electronjs.org/), [Flet](https://flet.dev/) or [Tauri](https://tauri.app/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
+* [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [Avalonia UI](https://avaloniaui.net/), [Electron](https://www.electronjs.org/), [Flet](https://flet.dev/) or [Tauri](https://tauri.app/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
 * [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/) or [Appsmith](https://www.appsmith.com/) - Internal Tool Builders
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
 * [New Software](https://github.com/ardalis/new-software-project-checklist) - Project Decision Checklist
@@ -414,6 +414,8 @@
 
 # ► Game Dev Tools
 
+* 🌐 **[List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines)**, [Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev) or [Game-Engines](https://rentry.co/Game-Engines) - Game Engine Development Resources
+* 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
 * 🌐 **[Awesome Game Dev](https://github.com/Calinou/awesome-gamedev)** - Game Dev Resources
 * 🌐 **[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production)** - Game Production Resources
 * ↪️ **[Learn Game Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_game_development)**
@@ -426,29 +428,6 @@
 * [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
 * [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)
 * [Basic Computer Games](https://github.com/coding-horror/basic-computer-games) - Basic Computer Game Examples
-
-***
-
-## ▷ Game Engines
-
-* 🌐 **[Awesome Game Engine](https://github.com/stevinz/awesome-game-engine-dev)** - Game Engine Development Resources
-* 🌐 **[EnginesDatabase](https://enginesdatabase.com/)** - Game Engines Database
-* ↪️ **[2D Only Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_2d_game_engines)**
-* ↪️ **[3D Only Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_game_engines)**
-* ⭐ **[Godot](https://godotengine.org/)** / [GitHub](https://github.com/godotengine) / [Resources](https://github.com/godotengine/awesome-godot) / [Input Actions](https://github.com/Orama-Interactive/Keychain)
-* [Unity](https://unity.com/products/unity-personal)
-* Unity Tools - [Cheat Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet) / [Unity / XNA Framework](https://github.com/BepInEx/BepInEx) / [Post Processing Pipeline](https://github.com/GarrettGunnell/Post-Processing) / [Node Editor](https://github.com/Siccity/xNode) / [Texture Import](https://github.com/keijiro/Metatex)
-* [GDevelop](https://gdevelop.io/) / [GitHub](https://github.com/4ian/GDevelop)
-* [Defold](https://defold.com/)
-* [Bevy Engine](https://bevyengine.org/) / [Extensions](https://bevy-cheatbook.github.io/setup/unofficial-plugins.html)
-* [ursina engine](https://www.ursinaengine.org/)
-* [stride3d](https://www.stride3d.net/) / [GitHub](https://github.com/stride3d/stride)
-* [cocos](https://www.cocos.com/en/) / [Resources](https://github.com/cocos/awesome-cocos) / [GitHub](https://github.com/cocos/cocos-engine)
-* [microStudio](https://microstudio.itch.io/microstudio)
-* [AnyRPG](https://www.anyrpg.org/) - RPG Engine
-* [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
-* [Playerio](https://playerio.com/) - Online Game Engine
-* [stencyl](https://www.stencyl.com/) - Codeless Game Engine
 
 ***
 
@@ -504,31 +483,16 @@
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Docs](https://emacsdocs.org/)
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/) or [CodingGround](https://www.tutorialspoint.com/codingground.htm) - Code Playgrounds
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
-* [Edna](https://edna.arslexis.io/) - Code Editor / Notepad
-* [Bluefish](https://bluefish.openoffice.nl/index.html) - [Templates](https://templates.openoffice.org/en)
+* [Edna](https://edna.arslexis.io/) - Web App / Code Editor / Notepad
+* [Trinket](https://trinket.io/) - Web App / Live Preview / Sign-up / Online Workspace 
+* [IDX](https://idx.google.com/) - Gemini AI Cloud Webapp
+* [HaystackEditor](https://haystackeditor.com/) - Canvas-Based Code Editor
+* [Brackets](https://brackets.io/) - Webapp / Live Preview
+* [Bluefish](https://bluefish.openoffice.nl/index.html) - Code Editor / [Templates](https://templates.openoffice.org/en)
 * [CudaText](https://cudatext.github.io/) - Code Editor
 * [Lapce](https://lapce.dev/) - Code Editor
-* [IDX](https://idx.google.com/) - Code Editor
-* [HaystackEditor](https://haystackeditor.com/) - Code Editor
-* [SpaceVim](https://spacevim.org/) - Code Editor
-* [zed.dev](https://zed.dev/) - Code Editor
-* [Pulsar](https://pulsar-edit.dev/) - Code Editor
-* [Kakoune](https://kakoune.org/) - Code Editor
-* [Brackets](https://brackets.io/) - Code Editor
-* [Quill](https://quilljs.com/) - Code Editor
-* [Micro](https://micro-editor.github.io/index.html) - Code Editor
-* [WebStudio](https://webstudio.is/) - Code Editor
-* [Textadept](https://orbitalquark.github.io/textadept/) - Code Editor
-* [Spacemacs](https://www.spacemacs.org/) - Code Editor
 * [Sublime Text](https://www.sublimetext.com/) - Code Editor
-* [Avalonia UI](https://avaloniaui.net/) - Code Editor
-* [massCode](https://masscode.io/) - Code Editor
-* [Amp](https://amp.rs) - Code Editor
-* [Graviton](https://graviton.netlify.app/) - Code Editor
-* [BBEdit](https://www.barebones.com/) - Code Editor
 * [ecode](https://github.com/SpartanJ/ecode) - Code Editor
-* [Orbiton](https://github.com/xyproto/orbiton) - Lightweight IDE
-* [Trinket](https://trinket.io/) - Browser Code Editor
 * [Competitive Editor](https://cpeditor.org/) - Competitive Programming Editor
 * [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Mitosis](https://mitosis.builder.io/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDEs
 * [TidalCycles](https://tidalcycles.org/) - Live Algorithmic Coding Environment / [Discord](https://discord.com/invite/ugFq7KfGnB)
@@ -541,29 +505,20 @@
 * 🌐 **[cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md)** - Cloud Platform Index
 * ↪️ **[Code Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_.2F_code_collaboration)**
 * ⭐ **[goormIDE](https://ide.goorm.io/)** - Cloud IDE
+* ⭐ **[Google Colaboratory](https://colab.research.google.com/)** - Cloud IDE
 * ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - VSCode Cloud IDE
 * ⭐ **[judge0](https://ide.judge0.com/)** - Online Code Editor / [Discord](https://discord.com/invite/GRc3v6n)
 * [Fleet](https://www.jetbrains.com/fleet/) - Cloud IDE
 * [CodeTasty](https://codetasty.com/) - Cloud IDE
-* [BoostNote](https://boostnote.io/) - Cloud IDE
-* [Moonbit](https://www.moonbitlang.com/) - Cloud IDE
-* [Aither](https://github.com/enoki-inc/aither) - Cloud IDE
-* [Deta](https://deta.space/) - Cloud IDE
-* [TerraForm](https://www.terraform.io/) - Cloud IDE
-* [Atheos](https://www.atheos.io/) - Cloud IDE / [GitHub](https://github.com/Atheos/Atheos)
+* [Atheos](https://www.atheos.io/) - Server Required / Cloud IDE / [GitHub](https://github.com/Atheos/Atheos)
 * [Datalore](https://datalore.jetbrains.com/) - Cloud IDE
-* [DeepNote](https://deepnote.com/) - Cloud IDE
-* [Cloud9](https://aws.amazon.com/cloud9/) - Cloud IDE
-* [Glitch](https://glitch.com/) - Cloud IDE
-* [JSFiddle](https://jsfiddle.net/) - Online Code Editor
-* [Collabedit](https://collabedit.com/) - Online Code Editor
-* [CoderPad](https://pad.new/) - Online Code Editor
-* [Portacode](https://portacode.com/) - Online Code Editor
-* [Ideone](https://www.ideone.com/) - Online Code Editor
-* [PlayCode](https://playcode.io/) - Online Code Editor
-* [ObjGen](https://www.objgen.com/) - Online Code Editor
-* [RunJS](https://runjs.app/play/) - Online Code Editor
-* [html-css-js](https://html-css-js.com/) - Online Code Editor
+* [JSFiddle](https://jsfiddle.net/) - Cloud IDE
+* [html-css-js](https://html-css-js.com/) - Cloud IDE
+* [Collabedit](https://collabedit.com/) - Cloud IDE
+* [CoderPad](https://pad.new/) - Cloud IDE
+* [zed](https://zed.dev/) - Cloud IDE
+* [Ideone](https://www.ideone.com/) - Cloud IDE
+* [PlayCode](https://playcode.io/) - Cloud IDE
 * [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che
 * [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
@@ -612,7 +567,7 @@
 * [Node-RED](https://nodered.org/) - Low-Code Programming for Event-Driven Apps
 * [Code2Flow](https://app.code2flow.com/) or [Flowchart.js](https://flowchart.js.org/) - Code to Flowchart Converter
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
-* [Lepton](https://hackjutsu.com/Lepton/) or [Snipp.in](https://snipp.in/) - Code Snippet Managers
+* [massCode](https://masscode.io/), [Lepton](https://hackjutsu.com/Lepton/) or [Snipp.in](https://snipp.in/) - Code Snippet Managers
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [GitHub](https://github.com/OctoLinker/OctoLinker)
 * [RTutor](https://rtutor.ai/) - Translate Natural Language to R code / No Signup
@@ -635,7 +590,7 @@
 
 * 🌐 **[Awesome Neovim](https://github.com/rockerBOO/awesome-neovim)** or [NeoVimCraft](https://neovimcraft.com/) - NeoVim Plugins Collections
 * ⭐ **[Vim Bootstrap](https://vim-bootstrap.com/)** - Bootstrap Config for Vim
-* ⭐ **[NvChad](https://nvchad.com/)**, [NeoVim Kickstart](https://github.com/nvim-lua/kickstart.nvim), [AstroNvim](https://astronvim.com), [LazyVim](https://github.com/LazyVim/LazyVim) or [LunarVim](https://www.lunarvim.org/) - Neovim Configs
+* ⭐ **[NvChad](https://nvchad.com/)**, [SpaceVim](https://spacevim.org/), [NeoVim Kickstart](https://github.com/nvim-lua/kickstart.nvim), [AstroNvim](https://astronvim.com), [LazyVim](https://github.com/LazyVim/LazyVim) or [LunarVim](https://www.lunarvim.org/) - Neovim Configs
 * [DotFyle](https://dotfyle.com/) - Neovim Config Search
 * [Lazy.nvim](https://github.com/folke/lazy.nvim) or [packer.nvim](https://github.com/wbthomason/packer.nvim) - Neovim Plugin Managers
 * [FireNVim](https://github.com/glacambre/firenvim) - Neovim in Browser
@@ -873,6 +828,8 @@
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Dan's Tools](https://www.danstools.com/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/), [Browserling Tools](https://www.browserling.com/tools/), [WebCode](https://webcode.tools/), [Web Toolbox](https://web-toolbox.dev/en), [ToolCool](https://toolcool.org/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
 * [Grav](https://getgrav.org/) - Flat-File CMS / [GitHub](https://github.com/getgrav/grav)
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
+* [TerraForm](https://www.terraform.io/) - Cloud Infrastructure Manager
+* [BoostNote](https://boostnote.io/) - Cloud Documentation Management
 * [URLPages](http://jstrieb.github.io/urlpages) - Store Entire Pages in URLs / [GitHub](https://github.com/jstrieb/urlpages)
 *  [shadcn-ui](https://ui.shadcn.com/), [Shoelace](https://shoelace.style/), [Fast](https://www.fast.design/), [shadcn-svelte](https://shadcn-svelte.com), [Indie UI](https://ui.indie-starter.dev/) or [Elix](https://component.kitchen/elix) - Web Component Libraries
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
@@ -880,6 +837,7 @@
 * [Aptabase](https://aptabase.com/), [GoatCounter](https://www.goatcounter.com/) or [Nibbler](https://nibbler.insites.com/) - Site Analytics
 * [google-indexing-script](https://github.com/goenning/google-indexing-script) - Google Indexing Script
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
+* [Moonbit](https://www.moonbitlang.com/) - Web Assembly 
 * [SerPreview](https://serpreviewtool.com/) - Site Search Results
 * [Robots.txt Tester](https://support.google.com/webmasters/answer/6062598) - Test Your robots.txt
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
