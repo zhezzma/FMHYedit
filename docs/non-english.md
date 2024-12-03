@@ -189,6 +189,7 @@
 * [555dy](https://555u.store/) - Movies / TV / Anime / NSFW / Sub / 1080p
 * [Imaple](https://imaple8.co/) - Movies / TV / Sub / 1080p
 * [imjw](https://www.ttkmj.cc/) - Movies / TV / 1080p
+* [DramaSQ](https://dramasq.com/) - Movies / TV / Sub
 * [Drama Wall](https://www.dramawall.net/) - Chinese / Movies / TV / Sub / Dub / 720p
 * [KokoTV](https://kokotv.me/) - Drama / Sub / Dub / 1080p
 * [Duboku](https://www.duboku.tv/) - TV / Cartoons / Sub / 1080p
@@ -437,7 +438,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/CtZew3yW)
+* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[Kinoger](https://kinoger.com/)** - Movies / TV / 1080p
 * ⭐ **[HDFilme](https://hdfilme.plus/)** - Movies / TV / Anime / Dub / 1080p
 * ⭐ **[Kinoking](https://kinoking.cc/)** - Movies / TV / Anime / Dub / 1080p
@@ -593,7 +594,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/CtZew3yW)
+* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / 4K / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[ToonStream](https://toonstream.co/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Animerulz](https://animerulz.net)** - Anime / Hindi / Telugu / Tamil / 1080p / [Telegram](https://telegram.me/animerulz_xyz)
@@ -1018,7 +1019,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/CtZew3yW)
+* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[CriaFlix](https://criaflix.live/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/z72kQpKRUP)
 * ⭐ **[Gyn Cursos](https://gyncursos.com.br)**, **[Curso em Vídeo](https://www.cursoemvideo.com)**, **[iEstudar Cursos](https://iestudar.com)** or **[Pensar Cursos](https://www.pensarcursos.com.br)** - Courses
 * [WarezCDN](https://warezcdn.com) - API for Movies / TV / Anime
@@ -1195,7 +1196,7 @@
 
 * ⭐ **[4PDA](https://4pda.to/forum/)** - Android / iOS / [App](https://github.com/slartus/4pdaClient-plus) / [Captcha Note](https://pastebin.com/NNh7e2HB), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * [Androeed](https://androeed.store/), [2](https://androeed.ru/) - Android
-* [m0nkrus](https://w14.monkrus.ws/) or [DC Hublist](https://dchublist.ru/hubs/) - Software
+* [m0nkrus](https://w14.monkrus.ws/) / [Search Engine](https://monkrus.dvuzu.com/) or [DC Hublist](https://dchublist.ru/hubs/) - Software
 * [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Games / Books
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Books
 * [Allmults](https://allmults.org/) - Cartoons / Sub / Dub / 1080p
@@ -1433,7 +1434,7 @@
 
 ## ▷ Streaming / Streamear
 
-* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/CtZew3yW)
+* ⭐ **[Cineby](https://www.cineby.ru/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino
 * ⭐ **[Cuevana](https://cuevana.si/)** - Movies / TV / Anime / 1080p / Latino
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
@@ -1482,7 +1483,6 @@
 * [Latanime](https://latanime.org/) - Anime / Sub / Dub / Latino
 * [Monoschinos](https://monoschinos2.com/) - Anime / Sub / Dub
 * [JKAnime](https://jkanime.net/) - Anime / Sub
-* [AnimeFénix](https://www.animefenix.tv/) - Anime / Sub
 * [TioAnime](https://tioanime.com/) - Anime / Sub
 * [HenaoJara](https://henaojara.com/) - Anime / Sub
 * [AnimeFLV.net](https://www3.animeflv.net/) - Anime / Sub

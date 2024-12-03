@@ -378,6 +378,7 @@
 * [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner), [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [vFLat Scan](https://play.google.com/store/apps/details?id=com.voyagerx.scanner) or [OpenScan](https://github.com/ethereal-developers/OpenScan) - Document Scanners
 * [OpenDocument](https://opendocument.app/) or [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/) - Document Readers
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
+* [Circle to Search](https://play.google.com/store/apps/details?id=com.circletosearch.android) - Gesture Based Search
 * [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) - Offline AI Chatbots
 * [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
 * [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD) or [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) - Audio Recorders
@@ -405,7 +406,7 @@
 ## ▷ Android Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[Rethink DNS](https://rethinkdns.com/app)** / [Blocklists](https://rethinkdns.com/app#blocklists), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [DNSWarden](https://dnswarden.com/) / [GitHub](https://github.com/bhanupratapys/dnswarden) or [Pi-hole](https://github.com/DesktopECHO/Pi-hole-for-Android) - DNS Adblockers
+* ⭐ **[Rethink DNS](https://rethinkdns.com/app)** / [Blocklists](https://rethinkdns.com/app#blocklists), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/), [DNSWarden](https://dnswarden.com/) / [GitHub](https://github.com/bhanupratapys/dnswarden) or [Pi-hole](https://github.com/DesktopECHO/Pi-hole-for-Android) - DNS Adblockers
 * ⭐ **[System Wide Adblocking](https://redd.it/oyfmr1)** - System Wide Adblocking Guide
 * ⭐ **[AdGuard Premium](https://rentry.co/FMHYBase64#adguard-premium)** - Adblocking App
 * ⭐ **uBlock Origin** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) / [Chromium](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
@@ -413,17 +414,13 @@
 * ⭐ **[Hermit](https://rentry.co/FMHYBase64#hermit)** / [2](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) or [Incognito](https://play.google.com/store/apps/details?id=md.elway.webapp) - Web App Containers
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - DNS Switchers
-* [ad-free](https://abertschi.github.io/ad-free/landing/) - Audio Adblocking App
 
 ***
 
 ## ▷ Android Privacy
 
 * 🌐 **[Awesome Android Security](https://github.com/ashishb/android-security-awesome)** - Security Resources
-* 🌐 **[I Like Android](https://i-like-android.github.io/)** - Privacy App Index
-* 🌐 **[Guardian Project](https://guardianproject.info/)** / [2](https://guardianproject.info/fdroid/repo) - Privacy App Index
 * 🌐 **[Divestos Apps](https://divestos.org/pages/recommended_apps)** - Privacy App Index
-* 🌐 **[SelfPrivacy](https://selfprivacy.org/)** - Self-Hosted Privacy Apps
 * ↪️ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers)**
 * ↪️ **[Android 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
@@ -432,7 +429,7 @@
 * ⭐ **[UrlCheck](https://github.com/TrianguloY/UrlChecker)**, [Leon](https://github.com/svenjacobs/leon), [LinkSheet](https://github.com/LinkSheet/LinkSheet)  or [Untracker](https://github.com/zhanghai/Untracker) - Remove URL Tracking
 * ⭐ **[Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android)** - Shadowsocks Proxy App
 * ⭐ **[NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)** / [Warning](https://pastebin.com/WnmaBTgZ) or [Matsuri](https://matsuridayo.github.io/) - Proxy Toolchains
-* ⭐ **[TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - Tor Proxy Apps
+* ⭐ **[TorServices](https://f-droid.org/packages/org.torproject.torservices/)** or [Orbot](https://orbot.app/en/) - Tor Proxy Apps
 * ⭐**[Network Survey](https://www.networksurvey.app/)**, [PCAPdroid](https://emanuele-f.github.io/PCAPdroid/) or [keepitup](https://github.com/ibbaa/keepitup/) - Network Monitors
 * ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)** or [Lantern](https://lantern.io/download?os=android) - Anti-Censorship Proxies
 * ⭐ **[XPL-EX](https://github.com/0bbedCode/XPL-EX)** or [InviZible](https://invizible.net) / [GitHub](https://github.com/Gedsh/InviZible) - Privacy Managers
@@ -756,6 +753,9 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler)** - Android Scrobbler
 * ⭐ **[CApod](https://github.com/d4rken-org/capod)**, [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) - AirPod Monitors / Battery Trackers
 * [ListenBrainz](https://github.com/metabrainz/listenbrainz-android) or [MusicSearch](https://github.com/lydavid/MusicSearch) - Music Tracking / Rating
+* [YouTubeDL Android](https://github.com/yausername/youtubedl-android) - Multi-Site Audio Downloader
+* [ytdlnis](https://github.com/deniscerri/ytdlnis) - Multi-Site Audio Downloader
+* [Seal](https://github.com/JunkFood02/Seal) - Multi-Site Audio Downloader
 * [Spowlo](https://spowlo.com/) - Spotify Audio Downloader / [Telegram](https://t.me/spowlo_chatroom) / [GitHub](https://github.com/BobbyESP/Spowlo/)
 * [Fluidac](https://github.com/imjyotiraditya/fluidac-releases) - Tidal Audio Downloader / [Telegram](https://t.me/ThisPandaCanTalk)
 * [Record Player](https://record-player.glitch.me/) - Find Records on Spotify via Pictures
@@ -805,6 +805,7 @@ https://github.com/Akylas/alpimaps
 * [VLC for Android](https://www.videolan.org/vlc/download-android.html)
 * [mpv-android](https://github.com/mpv-android/mpv-android)
 * [Gramophone](https://github.com/AkaneTan/Gramophone)
+* [Meloplay](https://github.com/ShokhrukhbekYuldoshev/Meloplay) 
 * [Foobar2000](https://www.foobar2000.org/apk)
 * [Vanilla Music](https://vanilla-music.github.io/) / [GitHub](https://github.com/vanilla-music/vanilla)
 * [Retro Music Player](https://retromusic.app/)
@@ -822,7 +823,7 @@ https://github.com/Akylas/alpimaps
 
 ***
 
-## ▷ YouTube Music Clients
+## ▷ YouTube Music
 
 * ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [2](https://github.com/Malopieds/InnerTune), [3](https://github.com/DD3Boh/OuterTune) - YouTube Music Player
 * ⭐ **[Namida](https://github.com/namidaco/namida)** - YouTube Music Player
@@ -833,9 +834,6 @@ https://github.com/Akylas/alpimaps
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Player
 * [ViTune](https://github.com/25huizengek1/ViTune) - YouTube Music Player
 * [Gyawun](https://gyawunmusic.vercel.app/) - YouTube Music Player
-* [YouTubeDL Android](https://github.com/yausername/youtubedl-android) - YouTube Audio Downloader
-* [ytdlnis](https://github.com/deniscerri/ytdlnis) - YouTube Audio Downloader
-* [Seal](https://github.com/JunkFood02/Seal) - YouTube Audio Downloader
 * [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio Downloader
 
 ***
@@ -1164,7 +1162,7 @@ https://github.com/Akylas/alpimaps
 * 🌐 **[ReJail](https://rejail.ru/)** - Cracked Tweaks Repository
 * 🌐 **[IPA Sources](https://rentry.org/ipa-sources2)** - IPA Resources
 * 🌐 **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open-Source Apps
-* 🌐 **[Awesome TestFlight](https://github.com/pluwen/awesome-testflight-link)** or [TestFlight Spreadsheet](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/) - TesFlight App Indexes
+* 🌐 **[Awesome TestFlight](https://github.com/pluwen/awesome-testflight-link)**, [TestFlightLinks](https://t.me/testflightlinks) or [TestFlight Spreadsheet](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/) - TesFlight App Indexes
 * ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) / [Discord](https://discord.gg/PrF6XqpGgX) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [Decrypt](https://github.com/donato-fiore/TrollDecrypt)
 * ⭐ **[Sideloadly](https://sideloadly.io/)**, [AltStore](https://altstore.io/) / [Repo Viewer](https://altsource.by.lao.sb/browse/) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux), [SideStore](https://sidestore.io/) / [Multi-App Guide](https://redd.it/1g0n1z4) or [SignTools](https://github.com/SignTools/SignTools) - Non-Jailbreak App Sideloading
 * ⭐ **PDALife** - [Games](https://pdalife.com/ios/games) / [Apps](https://pdalife.com/ios/programmy/) / [Telegram](https://t.me/pdalife_official)
