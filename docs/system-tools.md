@@ -69,7 +69,6 @@
 * [RCWM](https://github.com/GChuf/RCWM) - Context Menu Tools
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
-* [ButteryTaskbar](https://github.com/LuisThiamNye/ButteryTaskbar2) - Hide Taskbar When Start Menu is Closed
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
 * [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows
 * [TopNotify](https://github.com/SamsidParty/TopNotify) - Move Windows Notifications
@@ -156,7 +155,6 @@
 * ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi) or [WorkSpacer](https://workspacer.org/)** - Tiling Window Managers
 * [Whim](https://github.com/dalyIsaac/Whim/) - Pluggable Dynamic Window Manager
 * [DWM](https://github.com/prabirshrestha/dwm-win32) - Port of X11 dwm to Windows
-* [United Sets](https://github.com/Windows-Apps-Hub/UnitedSets) - Group Windows Into Tabs
 
 ***
 
@@ -393,7 +391,7 @@
 * [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
 * [HackBGRT](https://github.com/Metabolix/HackBGRT) - Change Windows Boot Logo
 * [Cursor Mania Archive](https://archive.org/details/cursormania), [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor), [Cursors Pastebin](https://pastebin.com/BrAbMy4n) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
-* [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - macOS Cursors for Windows
+* [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) or [CursorOS](https://cursor.design/) - macOS Cursors for Windows
 * [FolderMarker](https://foldermarker.com/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folders & Markers
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [ElevenClock](https://www.marticliment.com/elevenclock/) - Customize Windows 11 Clock
