@@ -80,12 +80,11 @@
 * [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer) - Extension Manager
 * [Centroly](https://centroly.com/) - Extension Manager
 * [Omni](https://github.com/alyssaxuu/omni) - Extension Manager
-* [Saka](https://saka.io/) - Extension Manager
 * [BetterStacks](https://betterstacks.com/) - Extension Manager
 * [Mission Control](https://mission-control.app/) - Extension Manager
 * [Zulu](https://tryzulu.com/) - Extension Manager
 * [GGather](https://web.ggather.com/) - Extension Manager
-* [linkwarden](https://github.com/linkwarden/linkwarden), [Shaarli](https://shaarli.readthedocs.io/en/master/), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
+* [linkwarden](https://github.com/linkwarden/linkwarden), [Hoarder](https://hoarder.app/), [Shaarli](https://shaarli.readthedocs.io/en/master/), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
 * [ln.ht](https://ln.ht/), [link.horse](https://link.horse/) or [tinygem](https://tinygem.org/) - Social Bookmarking
 * [SuperMemory](https://supermemory.ai/) - AI Bookmark App
 * [Keep or Delete](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) or [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup Extensions
@@ -154,7 +153,7 @@
 * 🌐 **[Digital Communications Protocols](https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)** - Chat Service / Protocol Comparisons
 * ↪️ **[IRC Clients / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
 * ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5) - Voice Chat
-* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [Yap](https://yap.chat/), [LittlePlanets](https://littleplanets.us/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats
+* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [LittlePlanets](https://littleplanets.us/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats
 * ⭐ **[Gajim](https://gajim.org/)** or [xabber](https://www.xabber.com/) - XMPP Clients
 * [Pidgin](https://www.pidgin.im/), [Voximity](https://voximity.chat/), [Beeper](https://www.beeper.com/), [Texts](https://texts.com/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chats
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps
@@ -191,6 +190,7 @@
 * [TheFeedReaderBot](https://thefeedreaderbot.com/) or [NewsBoat](https://newsboat.org/) - Console RSS Readers
 * [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html) or [tt-rss](https://tt-rss.org/) - Web RSS Readers
 * [FreshRSS](https://freshrss.org/), [Fusion](https://github.com/0x2E/fusion) or [CommaFeed](https://www.commafeed.com/#/welcome) - Self-Hosted RSS Readers
+* [NewsBlur](http://www.newsblur.com) - RSS Reader / Push Notifications / [GitHub](https://github.com/samuelclay/NewsBlur)
 * [JungleReader](https://www.zajungle.com/) - RSS Reader
 * [Fluent Reader](https://hyliu.me/fluent-reader/) - RSS Reader
 * [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - RSS Reader
@@ -199,7 +199,6 @@
 * [selfoss](https://selfoss.aditu.de/) - RSS Reader
 * [gorss](https://github.com/Lallassu/gorss) - RSS Reader
 * [NewsPipe](https://github.com/cedricbonhomme/newspipe) - RSS Reader
-* [NewsBlur](http://www.newsblur.com) - RSS Reader / [GitHub](https://github.com/samuelclay/NewsBlur)
 * [Osmosfeed](https://osmoscraft.org) - RSS Reader / [GitHub](https://github.com/osmoscraft/osmosfeed)
 * [rss](https://codeberg.org/danb/rss) - RSS Reader
 * [yarr](https://github.com/nkanaev/yarr) - RSS Reader
@@ -223,7 +222,7 @@
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Search / [GitHub](https://github.com/MoserMichael/duckduckbang)
 * [KeywordSheeter](https://keywordsheeter.com/) or [Spyfu](https://www.spyfu.com/) - Keyword Research Tools
 * [BoardReader](https://boardreader.com/), [CrowdView](https://crowdview.ai/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine
-* [Raw Web](https://rawweb.org/), [BlogErnity](http://www.bloggernity.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
+* [Raw Web](https://rawweb.org/) or [BlogErnity](http://www.bloggernity.com/) - Blog Search
 * [4chanSearch](https://4chansearch.com/) or [4search](https://4search.neocities.org/) - 4chan Search
 * [tumbex](https://www.tumbex.com/) - Tumblr Search
 * [AlsoAsked](https://alsoasked.com/) - Related Search Tool
@@ -237,7 +236,7 @@
 * [Yandex Search Operators](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/) - Yandex Search Operator Resources
 * [FindAGrave](https://findagrave.com/) - Gravestone Search
 * [rfc.fyi](https://rfc.fyi/) - RFC Search
-* [Shodan](https://www.shodan.io/) - Internet Connected Device Search
+* [Shodan](https://www.shodan.io/) or [FOFA](https://fofa.info/) / [GitHub](https://github.com/FofaInfo/Awesome-FOFA) - Internet Connected Device / Public Assets Search
 * [OCCRP Aleph](https://aleph.occrp.org/) - Public Records / Leaks Search
 * [OpenOwnership](https://register.openownership.org/) - Company Ownership Search
 * [CorporationWiki](https://www.corporationwiki.com/) - Company Info Search
@@ -256,7 +255,7 @@
 
 ## ▷ Search Engines
 
-* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [Search Engine Index](https://en.wikipedia.org/wiki/List_of_search_engines), [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
+* 🌐 **[Fagan Finder](https://www.faganfinder.com/)**, [Search Engine Index](https://en.wikipedia.org/wiki/List_of_search_engines), [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/), [Advanced Search Tools](https://start.me/p/nRADzL/advanced-search-tools) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Indexes
 * ↪️ **[AI Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_ai_search_engines)**
 * ↪️ **[Privacy Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ⭐ **[Yandex](https://yandex.com/)**
@@ -521,7 +520,7 @@
 * [Snapmail.cc](https://www.snapmail.cc/) - Forever / 2 Days / 3 Domains
 * [Mailnesia](https://mailnesia.com/) - Forever / 2 Days / 1 Domain
 * [Spambox](https://spambox.xyz/) or [Trashinbox](https://trashinbox.net/) - Forever / 1 Day / 4 Domains
-* [Maildrop](https://maildrop.cc/), [Trashmail](https://trashmail.ws/) or [temporary-email.com](https://temporary-email.com/) - Forever / 1 Day / 1 Domain
+* [Maildrop](https://maildrop.cc/), [Trashmail](https://trashmail.ws/) - Forever / 1 Day / 1 Domain
 * [cs.email](https://cs.email/) - Forever / 1 Hour / 12 Domains
 * [Temp Mail ID](https://tempmailid.com/) - Forever / 30 Mins / 2 Domains
 * [Email Generator](https://generator.email/), [Fake Email](https://email-fake.com/) or [TempM](https://tempm.com/) - Forever / N/A / 50+ Domains
@@ -562,7 +561,6 @@
 * ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [Twitter](https://twitter.com/SimpleLogin) / [GitHub](https://github.com/simple-login/app)
 * ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing
-* [Mailvelope](https://mailvelope.com/) - Email Aliasing Extension
 * [Mailgw](https://mailgw.com/) - Email Aliasing
 * [erine.email](https://erine.email/) - Email Aliasing
 * [33mail](https://33mail.com/) - Email Aliasing
@@ -635,7 +633,7 @@
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
 * [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
-* [Dictionaries](https://github.com/pnlpal/dictionariez), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - Popup Dictionaries
+* [Dictionaries](https://github.com/pnlpal/dictionariez) or [phlinx](https://phlinx.com/) - Popup Dictionaries
 * [CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - Custom Right Click Menu
 * [BigSearch](https://github.com/garywill/BigSearch) or [SearchJumper](https://hoothin.github.io/SearchJumper/) - Context Search
 * [Selecton](https://github.com/emvaized/selecton-extension) - Text Context Menu
@@ -871,7 +869,6 @@
 * [Hackers Arise OSINT](https://www.hackers-arise.com/osint) - OSINT Guides
 * [What is OSINT?](https://www.recordedfuture.com/blog/open-source-intelligence-definition) - Article
 * [The Key to Unlocking the Web's Secrets](https://www.einvestigator.com/open-source-intelligence-tools/) - Article
-* [Toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/) - Search OSINT Resources
 * [Malfrat's OSINT Map](https://map.malfrats.industries/) - Interactive Map
 * [OH SHINT!](https://ohshint.gitbook.io/oh-shint-its-a-blog/) - OSINT Blog
 

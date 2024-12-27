@@ -31,22 +31,23 @@
 * [Arch Linux Community](https://discord.gg/3m6dbPR) - Linux Discord Server
 * [Discord-Linux](https://discord.gg/discord-linux) - Linux Discord Server
 * [Linux.org](https://linux.org/) - Linux Forum
+* [ArchWiki](https://bbs.archlinux.org/) - Linux Forum
+* [Gentoo Forums](https://forums.gentoo.org/) - Linux Forum
 
 ***
 
 ## ▷ Linux Guides
 
 * ↪️ **[Bash / CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
-* ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
+* ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Arch Linux Guide / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * [GameShell](https://github.com/phyver/GameShell) - Unix Shell Learning Game
 * [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) - Gentoo Guides
 * [LinuxJourney](https://linuxjourney.com/) - Interactive Linux Guides
 * [HowToLinux](https://howtolinux.vercel.app) - Linux Desktop Guides
-* [FUTO](https://wiki.futo.org/) - Self-Hosting Guides
-* [HowtoForge](https://www.howtoforge.com/) - Linux Sever Software Guides
+* [HowtoForge](https://www.howtoforge.com/) - Linux Server Software Guides
 * [Sindresorhus Guides](https://github.com/sindresorhus/guides) - Linux Guides For Node.js Developers
 * [Erik Dubois](https://www.youtube.com/c/ErikDubois) - Arch-centric Linux Video Tutorials
-* [Linuxtopia](https://www.linuxtopia.org/) - Linux Guides, 
+* [Linuxtopia](https://www.linuxtopia.org/) - Linux Guides
 * [Vim Tutorials](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-) - Vim Tutorial Playlist by Mental Outlaw
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
 
@@ -59,7 +60,7 @@
 * ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
 * ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
 * [Impression](https://gitlab.com/adhami3310/Impression) - Create Bootable USB Linux Drives
-* [DistroSea](https://distrosea.com/), [anuraOS](https://github.com/MercuryWorkshop/anuraOS) - Linux Browser Emulator
+* [anuraOS](https://github.com/MercuryWorkshop/anuraOS) / [Instance](https://anura.pro/) - Linux Browser Emulator
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [Webmin](https://webmin.com/) - Web-Based System Admin Tool / [GitHub](https://github.com/webmin/webmin) 
 * [screenFetch](https://github.com/KittyKatt/screenFetch) - Bash Screenshot Information Tool
@@ -84,6 +85,7 @@
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
 * [CoreELEC](https://coreelec.org) / [GitHub](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) - Kodi-Based Operating System
 * [WSL](https://learn.microsoft.com/en-us/windows/wsl/) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
+* [DistroSea](https://distrosea.com/) - Virtual Machine
 * [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Virtualization Kernel module
 * [WebVM](https://webvm.io/) - Browser Virtual Machine / [Discord](https://discord.gg/yTNZgySKGa)
@@ -155,7 +157,7 @@
 * [QR Scan](https://github.com/sayanarijit/qrscan) - QR Code Scanner
 * [libimobiledevice](https://libimobiledevice.org) - Communicate with iOS Devices
 * [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
-* [Client Evolution](https://help.gnome.org/users/evolution/stable/) - Calendar
+* [Client Evolution](https://help.gnome.org/users/evolution/stable/) or [dLine](https://github.com/jazz-it/dline) - Calendars
 * [todo](https://github.com/sioodmy/todo/) or [Planify](https://github.com/alainm23/planify) - To-Do Apps
 * [Timestrap](https://timestrap.bythewood.me/) or [Mindfulness at the Computer](https://fswb.codeberg.page/mindfulness-at-the-computer/) - Productivity Managers
 * [SafeEyes](https://slgobinath.github.io/SafeEyes/) - Break Reminders
@@ -179,13 +181,13 @@ Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 * 🌐 **[Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/)** - FOSS Software Index
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[RuTracker](https://rutracker.org/forum/viewforum.php?f=1381)** / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
+* ⭐ **[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)**
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
 * [Awesome Linux Minimalism](https://github.com/knassar702/awesome-linux-minimalism) - FOSS Software
 * [Awesome KDE](https://github.com/francoism90/awesome-kde) - FOSS Software
 * [FOSS Torrents](https://fosstorrents.com/) - FOSS Software Torrents
 * [Linux FOSS Image](https://i.ibb.co/KyTkKHz/ae00a5177857.png) - FOSS Software List
 * [KDE Applications](https://apps.kde.org/) - KDE Apps
-* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)
 * [LinuxAlt](https://www.linuxalt.com/)
 * [Plan9Port](https://9fans.github.io/plan9port/) / [GitHub](https://github.com/9fans/plan9port)
@@ -236,7 +238,7 @@ Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 * [Audacious](https://audacious-media-player.org/) - Audio Player
 * [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Audio Player
 * [Amberol](https://gitlab.gnome.org/World/amberol) - Audio Player
-* [Subsonic](https://github.com/twostraws/Subsonic) - Audio Player
+* [Subsonic](https://github.com/twostraws/Subsonic) - Audio Player / [Import Spotify](https://github.com/blastbeng/spotisub)
 * [Fooyin](https://github.com/ludouzi/fooyin) - Audio Player
 * [g4music](https://gitlab.gnome.org/neithern/g4music) - Audio Player
 * [dopamine](https://github.com/digimezzo/dopamine) - Audio Player
@@ -263,7 +265,7 @@ Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 ## ▷ Linux Images
 
 * ⭐ **[Flameshot](https://flameshot.org/)** or [Scrot](https://github.com/resurrecting-open-source-projects/scrot) - Screenshot Tools
-* ⭐ **[TextSnatcher](https://textsnatcher.rf.gd/)** or [Frog](https://getfrog.app/) / [GitHub](https://github.com/TenderOwl/Frog/) - Image to Text
+* ⭐ **[TextSnatcher](https://textsnatcher.rf.gd/)** - Image to Text / [GitHub](https://github.com/TenderOwl/Frog/)
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [V4L2Loopback](https://github.com/umlaeute/v4l2loopback) - Create Virtual Cameras
 * [Drawing](https://maoschanz.github.io/drawing/) - Drawing App
@@ -282,13 +284,14 @@ Tool Index / [Discord](https://discord.gg/pQVYgjzM3w)
 Linux Gaming Guide
 * 🌐 **[Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)** - Anti-Cheat Game Database / GNU/Linux & Wine/Proton Compatibility
 * ⭐ **[Comprehensive Gaming Guide](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)** / [2](https://github.com/rimsiw/linux-gaming-omg) / [3](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) / [4](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - Linux Gaming Guides
-* ⭐ **[protondb](https://www.protondb.com/)**- Proton Compatibility / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension)
+* ⭐ **[protondb](https://www.protondb.com/)** - Proton Compatibility / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension)
 * ⭐ **[Lutris](https://lutris.net/)** - Games Manager
 * ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** - Play Windows Games on Linux / [Guide](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/)
 * ⭐ **[ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/)** - Install / Manage Proton-GE for Steam and Wine-GE for Lutris
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Support](https://gitlab.com/jc141x/portal)
+* [⁠Melroy Games](https://games.melroy.org/) - Linux Games
 * [linuxgames](https://rentry.co/FMHYBase64#linux-games) - Linux Games
 * [GameHub](https://tkashkin.github.io/projects/gamehub/), [Gnome Games](https://wiki.gnome.org/Apps/Games), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Libraries / Launchers
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
@@ -307,6 +310,7 @@ Linux Gaming Guide
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) - Epic Games Launcher / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
+* [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [Limo](https://github.com/limo-app/limo) - Nexus Mods Manager for Linux
 * [CWordle](https://github.com/velorek1/cwordle) - Wordle in Unix Terminal
 * [NVBurner](https://github.com/iloveichigo/NVBurner) or [CoreCTRL](https://gitlab.com/corectrl/corectrl) - Overclocking Tool
@@ -316,7 +320,6 @@ Linux Gaming Guide
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [PortMaster](https://portmaster.games/) - Port Games to Linux Handheld Devices / [Discord](https://discord.gg/JxYBp9HTAY)
-* [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox / [Studio Only](https://vinegarhq.org/Home/rol_faq.html) / [Sober](https://sober.vinegarhq.org/)
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - Genshin Impact Launcher / [Discord](https://discord.gg/ck37X6UWBp)
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in Your Terminal
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
@@ -409,6 +412,7 @@ Linux Gaming Guide
 * [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Client
 * [ZapZap](https://rtosta.com/zapzap-web/) - WhatsApp Client / [GitHub](https://github.com/rafatosta/zapzap)
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer), [Pipe Viewer](https://github.com/trizen/pipe-viewer) or [Pipeline](https://gitlab.com/schmiddi-on-mobile/pipeline) - YouTube Clients
+* [GrayJay](https://grayjay.app/desktop/) - Combines YouTube, Twitch, Rumble etc.
 * [BetterDiscordctl](https://github.com/bb010g/betterdiscordctl) - Modded Discord Client / [Guide](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172)
 * [Nextcord](https://docs.nextcord.dev/) - Discord API Wrapper
 * [Discover](https://github.com/trigg/Discover) - Discord Overlay
@@ -480,7 +484,7 @@ Linux Gaming Guide
 * [Distrobox](https://distrobox.it/) - Use Distros via Terminal
 * [htop](https://htop.dev/) or [Zenith](https://github.com/bvaisvil/zenith) - Interactive Process Viewers
 * [eza](https://eza.rocks/) - Modern ls replacement
-* [explainshell.com](https://explainshell.com/) or [shell.how](https://www.shell.how/) - Match Command-Line Arguments to Help Text
+* [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer / [Cheatsheet](https://tmuxcheatsheet.com/)
 * [Zellij](https://zellij.dev/) - Terminal Workspace
@@ -503,7 +507,6 @@ Linux Gaming Guide
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
 * [Polybar (X11)](https://github.com/polybar/polybar) / [Themes](https://github.com/adi1090x/polybar-themes), [Iron Bar](https://github.com/JakeStanger/ironbar) (Wayland) or [Waybar](https://github.com/Alexays/Waybar) (Wayland) - Customizable Status Bars
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme
-* [Windows-10](https://b00merang.weebly.com/windows-10.html) - Windows 10 Theme
 * [xScreensaver](https://www.jwz.org/xscreensaver/) - Linux Screensavers
 * [Fondo](https://github.com/calo001/fondo), [varietywalls](https://github.com/varietywalls/variety), [HydraPaper](https://hydrapaper.gabmus.org/), [styli.sh](https://github.com/thevinter/styli.sh) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - Wallpaper Managers
 * [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) or [Hidamari](https://github.com/jeffshee/hidamari) - Use Videos as Animated Wallpapers
@@ -526,7 +529,7 @@ Linux Gaming Guide
 * ⭐ **[NearDrop](https://github.com/grishka/NearDrop)** or [maestral](https://maestral.app/) - File Sharing Apps
 * ⭐ **[shottr](https://shottr.cc/)** or [MagicCap](https://magiccap.me/) - Screenshot Tool
 * ⭐ **[Aptonic](https://aptonic.com/)** - Mac Productivity App
-* ⭐ **[Alfred](https://www.alfredapp.com/)**, [Quicksilver](https://qsapp.com/), [SOL](https://sol.ospfranco.com/) or [Raycast](https://www.raycast.com/) - Keystroke Launchers
+* ⭐ **[Alfred](https://www.alfredapp.com/)**, [Albert](https://albertlauncher.github.io/), [Quicksilver](https://qsapp.com/), [SOL](https://sol.ospfranco.com/) or [Raycast](https://www.raycast.com/) - Keystroke Launchers
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Alt-Tab for Mac
 * [Advanced macOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
@@ -551,7 +554,7 @@ Linux Gaming Guide
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - Install New macOS on Unsupported Devices
 * [rEFind](https://www.rodsbooks.com/refind/) - Boot Manager
 * [Conky](https://conky.cc) / [Colors](https://github.com/helmuthdu/conky_colors), [eul](https://github.com/gao-sun/eul), [Stats](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors
-* [Hot](https://github.com/macmade/) - CPU Monitor
+* [Hot](https://github.com/macmade/hot) - CPU Monitor
 * [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
 * [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress
 * [Pearcleaner](https://github.com/alienator88/Pearcleaner) - System Cleanup / Uninstallers
@@ -629,6 +632,7 @@ Linux Gaming Guide
 * [Plash](https://sindresorhus.com/plash) - Use Website as Wallpaper
 * [100 macOS Screensavers](https://github.com/bjdehang/100-macos-screensavers) - Minimalist Screensavers
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
+* [GrayJay](https://grayjay.app/desktop/) - Combines YouTube, Twitch, Rumble etc.
 * [IINA](https://iina.io/) - Video Player
 * [Yattee](https://github.com/yattee/yattee) - YouTube Player
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling

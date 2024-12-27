@@ -6,7 +6,7 @@
 
 # ► Adblocking
 
-* **Note** - Don't run multiple general adblockers (e.g., uBlock Origin and Adblock Plus) simultaneously to [avoid breakage](https://twitter.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine.
+* **Note** - Don't run multiple general adblockers (e.g., uBlock Origin and AdGuard) simultaneously to [avoid breakage](https://twitter.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine.
 
 ***
 
@@ -37,8 +37,8 @@
 ## ▷ Redirect Bypass
 
 * ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)**
-* ⭐ **[bypass.city](https://bypass.city/)**, [2](https://adbypass.org/) / [Userscript](https://bypass.city/how-to-install-userscript) / [Discord](https://discord.com/invite/uMEtrpRvAf)
-* [Bypass.vip](https://bypass.vip/) / [API](https://api.bypass.vip/)
+* ⭐ **[Bypass.vip](https://bypass.vip/)** / [API](https://api.bypass.vip/)
+* [bypass.city](https://bypass.city/), [2](https://adbypass.org/) / [Userscript](https://bypass.city/how-to-install-userscript) / [Discord](https://discord.com/invite/uMEtrpRvAf)
 * [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser)
 * [Bypass-Links](https://bypass-links.vercel.app) / [GitHub](https://github.com/amitsingh-007/bypass-links)
 * [Yuumari](https://yuumari.com/bypass/) / [Extension](https://chromewebstore.google.com/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh) / [Script](https://yuumari.com/m-links/#js-code)
@@ -105,7 +105,7 @@
 * [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) - Full Virtual Machine Sandbox Environment
 * [ESET](https://rentry.co/FMHYBase64#eset) - Antivirus
 * [Dangerzone](https://dangerzone.rocks/) - Convert Malicious PDFs to Safe Files / [GitHub](https://github.com/freedomofpress/dangerzone)
-* [Triage](https://tria.ge/) or [Cuckoo](https://cuckoo.cert.ee/) - Online Sandboxes
+* [Triage](https://tria.ge/) - Online Sandboxes
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Ransomware Decryption Tools
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
 * [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Configure Windows Defender Settings
@@ -180,6 +180,7 @@
 * ⭐ **[simplewall](https://github.com/henrypp/simplewall)** - Firewall / Network Monitor
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
+* [⁠XrayUIGroup](https://github.com/MHSanaei/3x-ui) - DIY Privacy Network
 * [Fort](https://github.com/tnodir/fort) - Firewall
 * [WFC](https://www.binisoft.org/wfc.php) - Firewall
 
@@ -216,7 +217,7 @@
 * [JustDeleteMe](https://justdeleteme.xyz/) - Find / Terminate Old Accounts
 * [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
 * [DNS Jumper](https://www.majorgeeks.com/files/details/dns_jumper.html) - DNS Switcher
-* [Element](https://element.io/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/), [Tox](https://tox.chat/) or [Bitmask](https://bitmask.net/) - Encrypted Messaging / Video Calls
+* [Element](https://element.io/), [linphone](https://www.linphone.org/), [Jami](https://jami.net/) or [Tox](https://tox.chat/)  - Encrypted Messaging / Video Calls
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
 * [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
 * [GPGTools](https://gpgtools.org/) - Encrypt & Sign Data / Communications
@@ -245,7 +246,7 @@
 ## ▷ Password Privacy / 2FA
 
 * 🌐 **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
-* ⭐ **[Ente Auth](https://ente.io/auth/)** - All Platforms / 2FA / [Audit](https://ente.io/blog/cryptography-audit/) / [GitHub](https://github.com/ente-io/ente)
+* ⭐ **[Ente Auth](https://ente.io/auth/)** - All Platforms / 2FA / [GitHub](https://github.com/ente-io/ente)
 * ⭐ **[Aegis](https://getaegis.app/)** - Android 2FA
 * ⭐ **[Stratum](https://stratumauth.com)** - Android 2FA
 * ⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)** - Password Breach Check
@@ -281,6 +282,7 @@
 * ⭐ **[Proton Mail](https://proton.me/mail)** - Encrypted Email / [.onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) / [GitHub](https://github.com/ProtonMail/WebClients)
 * [Tuta](https://tuta.com/) - Encrypted Email
 * [Disroot](https://disroot.org/en/services/email) - Encrypted Email
+* [Mailvelope](https://mailvelope.com/) - Give Emails PGP Encryption
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
 * [SecLists](https://seclists.org/) - Security Mailing List Archive
 
@@ -337,15 +339,16 @@
 * 🌐 **[VPN Comparisons](https://redd.it/171h9qa)** or [Techlore Chart](https://techlore.tech/vpn) - VPN Comparison Charts
 * 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)**, [2](https://windscribe.com/vpnmap) - VPN Relationship Chart
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - Discussion Forum
-* ⭐ **[Windscribe](https://windscribe.com)** - Has Free Plan 
+* ⭐ **[Warp](https://one.one.one.one/)** - Free VPN / Unlimited / [CLI](https://github.com/ViRb3/wgcf) / [Mobile Client](https://github.com/bepass-org/oblivion) / [Desktop Client](https://github.com/bepass-org/oblivion-desktop)
+* ⭐ **[Windscribe](https://windscribe.com)** - Has Free Plan / 10GB Monthly
+* ⭐ **[Proton](https://protonvpn.com)** - No Torrenting with Free Plan / Unlimited / [Config Generation](https://protonvpn.com/support/wireguard-configurations) / [GitHub](https://github.com/ProtonVPN/)
+* ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free / Unlimited  / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator)
 * ⭐ **[AirVPN](https://airvpn.org/)** - Paid 
-* ⭐ **[Proton](https://protonvpn.com)** - No Torrenting with Free Plan / [Config Generation](https://protonvpn.com/support/wireguard-configurations) / [GitHub](https://github.com/ProtonVPN/)
-* ⭐ **[Warp](https://one.one.one.one/)** - Free VPN / [CLI](https://github.com/ViRb3/wgcf) / [Mobile Client](https://github.com/bepass-org/oblivion) / [Desktop Client](https://github.com/bepass-org/oblivion-desktop)
-* ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator)
 * [Mullvad](https://mullvad.net/) - Paid / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [IVPN](https://www.ivpn.net/) - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
-* [PrivadoVPN](https://privadovpn.com/) - Free / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
+* [PrivadoVPN](https://privadovpn.com/) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
 * [LEAP](https://leap.se/) - Free VPNs
+* [Bitmask](https://bitmask.net/) - Free VPN
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts
 
 ***
@@ -409,6 +412,7 @@
 * [ProxyOf2](https://proxyof2.com/)
 * [Proxy-URLs](https://www.proxy-urls.com/)
 * [Sitenable](https://freeproxy.io/)
+* [PlainProxies](https://plainproxies.com/resources/free-web-proxy)
 * [UnblockSites](https://unblocksites.online/)
 * [Proxyium](https://proxyium.com/)
 * [Google Translate](https://translate.google.com/) / [Proxy Explanation](https://redd.it/fawkjy), [2](https://ibb.co/BtWc8ML)

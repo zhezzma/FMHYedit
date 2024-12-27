@@ -8,6 +8,7 @@
 
 * ⭐ **[Blender](https://www.blender.org/)**
 * ⭐ **[Shap-e](https://github.com/openai/shap-e)**
+* [Goo Engine](https://www.dillongoostudios.com/tech) - Anime Blender Mod
 * ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app) / [Plugins](https://t.me/blenderplugs) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
 
 [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [POV-Ray](https://www.povray.org/), [Vectary](https://www.vectary.com/), [Art of Illusion](https://aoi.sourceforge.net/), [Posturize](https://get.posturize-app.com/), [Morflax](https://studio.morflax.com/), [Polycam](https://poly.cam/), [Womp](https://beta.womp.com/)
@@ -51,13 +52,10 @@
 
 ### Privacy Based
 
-* 🌐 **[Privacy Browser Comparisons](https://divestos.org/pages/browsers)**
-* ⭐ **[Mull](https://gitlab.com/divested-mobile/mull-fenix)**
 * ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
 * [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
 * [Brave](https://brave.com/) - Chromium Based Browser
-* [Browser Tuning](https://divestos.org/pages/browsers#tuning) - Browser Privacy Settings Guide
 
 ***
 
@@ -148,8 +146,9 @@
 ## Background Removers
 
 * ⭐ **[Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web)**
+* ⭐ **[remove.bg](https://www.remove.bg/)**
 
-[remove.bg](https://www.remove.bg/), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [BGBye](https://bgbye.fyrean.com/), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [magic-copy](https://github.com/kevmo314/magic-copy),  [ormbg](https://huggingface.co/spaces/schirrmacher/ormbg)
+[RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [BGBye](https://bgbye.fyrean.com/), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [magic-copy](https://github.com/kevmo314/magic-copy),  [ormbg](https://huggingface.co/spaces/schirrmacher/ormbg), [pixelcut](https://www.pixelcut.ai/)
 
 ### Object Removers
 
@@ -253,7 +252,7 @@
 * 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** CSS Frameworks Index
 * 🌐 **[Classless CSS](https://github.com/dbohdan/classless-css)** - Classless CSS Themes & Frameworks
 * 🌐 **[Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)** - Tailwind CSS Resources
-* ⭐ **[Tailwind CSS](https://tailwindcss.com/)** - CSS Framework
+* ⭐ **[Tailwind CSS](https://tailwindcss.com/)** or [UnoCSS](https://unocss.dev/) - CSS Framework
 * [Tailwind Toolbox](https://tailwindtoolbox.com/) - Tailwind Starter Templates & Components
 * [Tailsc](https://tailsc.com/), [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui), [Aceternity UI](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Tailwind CSS Components
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
@@ -272,7 +271,7 @@
 * [Bar Graph Maker](https://www.bargraphmaker.net/) - Create Bar Graphs
 * [Vinnslu](https://maltsev.github.io/vinnslu/) - Tabular Data Parser
 
-[DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](https://www.chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Dia](http://dia-installer.de/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [graphonline](https://graphonline.ru/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt), [Diagram.codes](https://www.diagram.codes/), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/)
+[DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](https://www.chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Dia](http://dia-installer.de/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [graphonline](https://graphonline.ru/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt), [Diagram.codes](https://www.diagram.codes/), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [app.diagrams](https://app.diagrams.net/)
 
 ***
 
@@ -293,11 +292,19 @@
 
 ***
 
+## Digital Brushes
+
+* ⭐ **[ART Library](https://t.me/+7Mztd4kkHFowNDQ6)**
+
+[brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](https://wowbrushes.com/), [getbrushes](https://getbrushes.com/), [gfxfever](https://www.gfxfever.com/), [fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/), [tala](https://t.me/tala_photoshop_brushes)
+
+***
+
 ## DNS Filters
 
 * ⭐ **[OISD](https://oisd.nl/)**
 
-[hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [MVPS HOSTS](https://winhelp2002.mvps.org/hosts.htm), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [Anudeep's Blacklist](https://github.com/anudeepND/blacklist), [Lightswitch05](https://www.github.developerdan.com/hosts/), [black-mirror](https://github.com/T145/black-mirror), [Scam Blocklist](https://github.com/durablenapkin/scamblocklist), [hBlock](https://hblock.molinero.dev/), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [neodevhost](https://github.com/neodevpro/neodevhost), [Piperun's IP-Logger Filter](https://github.com/piperun/iploggerfilter), [GoodbyeAds](https://jerryn70.github.io/GoodbyeAds/), [mullvad blocklists](https://github.com/mullvad/dns-blocklists), [1Hosts](https://o0.pages.dev/)
+[hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [Anudeep's Blacklist](https://github.com/anudeepND/blacklist), [Lightswitch05](https://www.github.developerdan.com/hosts/), [black-mirror](https://github.com/T145/black-mirror), [Scam Blocklist](https://github.com/durablenapkin/scamblocklist), [hBlock](https://hblock.molinero.dev/), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [neodevhost](https://github.com/neodevpro/neodevhost), [Piperun's IP-Logger Filter](https://github.com/piperun/iploggerfilter), [GoodbyeAds](https://jerryn70.github.io/GoodbyeAds/), [mullvad blocklists](https://github.com/mullvad/dns-blocklists), [1Hosts](https://o0.pages.dev/)
 
 ***
 
@@ -652,7 +659,7 @@
 
 ### Trakt Tools
 
-[Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/) / [Create Lists](https://listrr.pro/) / [Anilist Sync](https://anitrakt.huere.net/)
+[Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/) / [Create Lists](https://listrr.pro/) / [Anilist Sync](https://anitrakt.huere.net/) / [List Import](https://github.com/damienhaynes/TraktRater)
 
 ### Letterboxd Tools
 
@@ -690,13 +697,11 @@
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)**
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)**
 
-[The Retro Saga](https://theretrosaga.com/), [CrocDB](https://crocdb.net/), [WebRCade](https://www.webrcade.com/), [RetroGames](https://www.retrogames.cz/), [retrogames.cc](https://www.retrogames.cc/), [ClassicReload](https://classicreload.com/), [Retro Games Bot](https://retrogamesbot.com/), [Vizzed](https://www.vizzed.com/), [Free80sArcade](https://www.free80sarcade.com/), [Retro Uprising](https://www.retrouprising.com/), [Retro Games](https://www.retrogames.onl/), [Play Classic Games](https://playclassic.games/), [ClassicGames](https://www.classicgames.me/), [Emulator.Games](https://www.emugames.net/), [GamulatoR](https://www.gamulator.com/roms), [AfterPlay](https://afterplay.io/), [Aurora](https://skitty.xyz/aurora/). [Emulator.online](http://emulator.online/), [Online.OldGames](https://online.oldgames.sk/), [Retro Games Online](https://www.playretrogames.com/), [PlayEmulator](https://playemulator.online/), [2](https://www.playemulator.io/games/), [Emulator Games Online](https://gamesfrog.com/), [Virtual Consoles](https://virtualconsoles.com/), [OldGameShelf](https://oldgameshelf.com/), [Emulator Online](https://emulatoronline.com/), [PlayRetroGames](https://playretrogames.net/), [Retro Games Free](https://retrogamesfree.com/), [PlayRetroGames](https://playretrogames.com/), [Piepacker](https://piepacker.com/), [Tiny8bit](https://floooh.github.io/tiny8bit/), [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/)
+[The Retro Saga](https://theretrosaga.com/), [CrocDB](https://crocdb.net/), [WebRCade](https://www.webrcade.com/), [RetroGames](https://www.retrogames.cz/), [retrogames.cc](https://www.retrogames.cc/), [ClassicReload](https://classicreload.com/), [Retro Games Bot](https://retrogamesbot.com/), [Vizzed](https://www.vizzed.com/), [Free80sArcade](https://www.free80sarcade.com/), [Retro Uprising](https://www.retrouprising.com/), [Retro Games](https://www.retrogames.onl/), [Play Classic Games](https://playclassic.games/), [ClassicGames](https://www.classicgames.me/), [Emulator.Games](https://www.emugames.net/), [GamulatoR](https://www.gamulator.com/roms), [AfterPlay](https://afterplay.io/), [Aurora](https://skitty.xyz/aurora/). [Emulator.online](http://emulator.online/), [Online.OldGames](https://online.oldgames.sk/), [Retro Games Online](https://www.playretrogames.com/), [PlayEmulator](https://playemulator.online/), [2](https://www.playemulator.io/games/), [Emulator Games Online](https://gamesfrog.com/), [Virtual Consoles](https://virtualconsoles.com/), [OldGameShelf](https://oldgameshelf.com/), [Emulator Online](https://emulatoronline.com/), [PlayRetroGames](https://playretrogames.net/), [Retro Games Free](https://retrogamesfree.com/), [PlayRetroGames](https://playretrogames.com/), [Tiny8bit](https://floooh.github.io/tiny8bit/), [ClassicGame](https://www.classicgame.com/), [ClassicGamesArcade](https://classicgamesarcade.com/), [Radyolojinet](https://www.radyolojinet.com/retro/), [WePlayOld](https://www.weplayold.com/)
 
 ***
 
 ## Multireddits
-
-* ⭐ **[Explore All Multireddits](https://www.reddit.com/r/multihub/top/?sort=top&t=all)**
 
 [Piracy](https://www.reddit.com/user/nbatman/m/piracy/) / [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) / [3](https://www.reddit.com/user/nanomuto/m/piracyhub/) / [4](https://www.reddit.com/user/goretsky/m/piracy_counterfeit_goods/), [Random](https://www.reddit.com/user/nbatman/m/random/) / [2](https://www.reddit.com/user/nbatman/m/random2/), [Streaming](https://www.reddit.com/user/nbatman/m/streaming/), [Cord Free TV](https://www.reddit.com/user/efidol/m/cordfreetv/), [Piracy Leaks](https://www.reddit.com/user/nbatman/m/leaks/), [News](https://www.reddit.com/user/nbatman/m/news/), [Tech](https://www.reddit.com/user/goretsky/m/win_itpro/), [Left](https://www.reddit.com/user/nbatman/m/left/) / [2](https://www.reddit.com/user/nbatman/m/left_2/), [Mysteries](https://www.reddit.com/user/nbatman/m/mysteries/), [Aliens](https://www.reddit.com/user/nbatman/m/aliens/), [Paranormal](https://www.reddit.com/user/nbatman/m/paranormal/), [Metaphysics](https://www.reddit.com/user/nbatman/m/metaphysics/), [Minimalism](https://www.reddit.com/user/rainbowlemon/m/minimalist_lifestyle/), [Countries](https://www.reddit.com/user/sneaky5erpent/m/countries/) / [2](https://www.reddit.com/user/sneaky5erpent/m/countries2/), [International AskARedditor](https://www.reddit.com/user/sneaky5erpent/m/ask_people_nationality/), [Text Only](https://www.reddit.com/user/aokaga/m/stories), [Chess](https://www.reddit.com/user/korfor/m/chess/), [Engineering](https://www.reddit.com/user/nbatman/m/engineering/)
 
@@ -785,6 +790,7 @@
 
 ## NextChat Instances
 
+* https://restless-dew-17e3.safineymah.workers.dev/ - o1-preview/4o/gemini 1.5
 * https://ai.yyr1201.fun/ - gpt-3.5 turbo
 * https://aii.tzwlxh.com/ - gpt-3.5 turbo / gpt-4o
 * https://b.smallmoon.net/ - gpt-3.5 turbo / gemini 1.5 pro / gemini 1.5 flash
@@ -838,7 +844,7 @@
 * [PPTX](https://github.com/AmNotAGoose/Python-PPTX-ChatGPT-Presentation-Generator) - AI Presentation Generator
 * [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
 
-[Marp](https://marp.app/), [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/) / [Downloader](https://www.slidesdownloader.com/)
+[Marp](https://marp.app/), [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/) / [Downloader](https://www.slidesdownloader.com/), [Excalideck](https://app.excalideck.com/)
 
 ### Presentation Templates
 
@@ -850,7 +856,7 @@
 
 ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
-[Free-Proxy-List](https://free-proxy-list.net/), [Proxy4Parsing](https://github.com/proxy4parsing) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [freeproxy](https://freeproxy.world/)
+[Free-Proxy-List](https://free-proxy-list.net/), [Proxy4Parsing](https://github.com/proxy4parsing) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://openproxylist.com/), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hide.mn/en/proxy-list/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [freeproxyupdate](https://freeproxyupdate.com/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [proxydb](https://proxydb.net/), [advanced.name](https://advanced.name/freeproxy), [monosans list](https://github.com/monosans/proxy-list), [freeproxy](https://freeproxy.world/), [premiumproxy](https://premiumproxy.net/)
 
 ***
 
@@ -998,7 +1004,7 @@
 * ⭐ **[Mod Authority](https://rentry.co/FMHYBase64#mod-authority)**
 * [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Discord](https://discord.com/invite/bs9TMxMJk9)
 
-[SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader)
+[SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader), [WallpaperEngineWorkshopDownloader](https://github.com/oureveryday/WallpaperEngineWorkshopDownloader)
 
 ***
 
@@ -1109,7 +1115,7 @@
 
 ## Text Adventures
 
-[IFDB](https://ifdb.org/) (Index), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/), [Level 13](https://nroutasuo.github.io/level13/), [Year 01](https://year01.life/)
+[IFDB](https://ifdb.org/) (Index), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/), [Level 13](https://nroutasuo.github.io/level13/)
 
 ***
 
@@ -1152,7 +1158,6 @@
 * ⭐ **[CouponScorpion](https://couponscorpion.com/)**
 * [Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) - Auto Course Enrollment
 * [GUdemyBot](https://t.me/GUdemyBot), [UdemyBot](https://github.com/gautamajay52/UdemyBot) or [UdemyPy](https://github.com/dylannalex/UdemyPy) - Udemy Course Bots
-* [Giga Course](https://gigacourse.com/) - Udemy Courses / Torrent
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
 

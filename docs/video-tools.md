@@ -66,7 +66,7 @@
 * [Shar.ec](https://shar.ec/)
 * [Screen Recorder](https://github.com/akon47/ScreenRecorder)
 * [ScreenREC](https://screen-rec.vercel.app/)
-* [KazCap](https://recorder.kazcap.com/)
+* [KazCap](https://recorder.kuan.sh/)
 * [RecordScreen](https://recordscreen.io/)
 * [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG)
 * [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder)
@@ -111,7 +111,7 @@
 ## ▷ FFmpeg Tools
 
 * [FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) or [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - Autobuild Tools
-* [FFmpeg Libav](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - Guides
+* [FFmpeg Libav](https://github.com/leandromoreira/ffmpeg-libav-tutorial) or [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - Guides
 * [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730), [FFmpeg Commander](https://alfg.dev/ffmpeg-commander/) or [FFmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Command Lists
 * [WebMConverter](https://argorar.github.io/WebMConverter/) - WebM Converter
 * [PureMPV](https://github.com/4ndrs/PureMPV) - Info Copy Tool
@@ -206,7 +206,7 @@
 * [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795) - Virtual Computer Embed
 * [Trast](https://trast.live/),  [OpenTogetherTube](https://opentogethertube.com/), [TurtleTV](https://turtletv.app/) or [twoseven](https://twoseven.xyz/) - Online Player
 * [bear.cat](https://bear.cat/) - Online Virtual Machine / Allows NSFW
-* [Metastream](https://getmetastream.com/) - Online Extension
+* [Metastream](https://getmetastream.com/) - Online Extension / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream) / [X](https://twitter.com/getmetastream)
 * [Caracal Club](https://caracal.club/) - Online Video Player
 * [CyTube](https://cytu.be/) - Online Video Player
 * [VideoTogether](https://2gether.video/en-us/) - App
@@ -342,6 +342,7 @@
 * [CD(R)M-Project](https://cdm-project.com/) - StreamFab Download / [Discord](https://discord.gg/zvGBza34JP)
 * [TubeOffline](https://www.tubeoffline.com/) - Multi-Site / Online
 * [VideoFK](https://www.videofk.com/) - Multi-Site / Online
+* [YouTubeDownload](https://youtubedownload.uk/) - Multi-Site / Online
 * [you-get](https://you-get.org/) - Multi-Site / CLI
 * [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site / Software
 * [Yout](https://yout.com/) - Multi-Site / Online

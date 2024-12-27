@@ -13,7 +13,7 @@
 * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines / Signup Required
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / NSFW / [.onion](http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion) / [Proxies](https://proxygalaxy.me/)
-* ⭐ **[m0nkrus](https://w14.monkrus.ws/)** / [2](https://vk.com/m0nkrus) - Adobe Software Archive / [Search Engine](https://monkrus.dvuzu.com/) / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb)
+* ⭐ **[m0nkrus](https://monkrus.dvuzu.com/)** / [2](https://vk.com/m0nkrus) - Adobe Software Archive / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb)
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
 * [1337x](https://1337x.to/) - Video / Audio / NSFW
 * 1337x Tools - [Mirrors](https://1337x-status.org/), [2](https://1337x.to/about), [3](https://ibb.co/py0RCz9) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
@@ -37,9 +37,8 @@
 
 ***
 
-* ⭐ **[BTDigg](https://btdig.com/index.htm)** - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [i2p](http://btdigg.i2p/)
+* ⭐ **[BTDigg](https://btdig.com/)** / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [i2p](http://btdigg.i2p/)
 * ⭐ **[Knaben](https://knaben.eu/)**
-* [Torrent Finder](https://torrent-finder.com/)
 * [TorrentDownload](https://www.torrentdownload.info/)
 * [TorrentQuest](https://torrentquest.com/)
 * [TorrentCORE](https://torrentcore.xyz/)
@@ -55,7 +54,7 @@
 * [iDope](https://idope.se/)
 * [BT4G](https://bt4gprx.com/)
 * [snowfl](https://snowfl.com/)
-* [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
+* [Torlock](https://www.torlock.com/)
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/)
 * [0Mag](https://www.0mag.net/), [2](https://16mag.net/)
 * [TorrentDownloads](https://www.torrentdownloads.pro/)
@@ -118,6 +117,7 @@
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
 * [/r/Seedboxes](https://www.reddit.com/r/seedboxes/) - Seedbox Subreddit
+* [Seedbox Guide](https://seedboxgui.de/seedbox/) - Seedbox Comparisons
 
 ***
 
@@ -135,6 +135,7 @@
 * [QBT Gdrive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - Gdrive Upload Script
 * [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
 * [qBitEndpoints](https://rentry.co/qBitEndpoints) - API Endpoints
+* [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton
 
 ***
 
@@ -185,7 +186,7 @@
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [InfoTorrent](https://infotorrent.tnl.one/) or [Webtorrent Checker](https://checker.openwebtorrent.com/) - Check Torrent File Health
 * [TorrentTags](https://torrenttags.com/) - Check Torrents for Copyright Claims
-* [MagLit](https://maglit.me/) - Magnet Link Shorteners
+* [MagLit](https://maglit.me/) - Magnet Link Shorteners / [GitHub](https://github.com/NayamAmarshe/thiss.link)
 * [Magnet Link Generator](https://magnetlinkgenerator.com/) - Magnet Link Generator
 * [magnet2list](https://hutstep.github.io/magnet2list/) - Convert Magnets to Tracker Lists
 * [OpenWebTorrent](https://openwebtorrent.com/) - Free Webtorrent Tracker

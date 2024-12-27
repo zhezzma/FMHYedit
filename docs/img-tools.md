@@ -21,7 +21,7 @@
 
 ## ▷ Editing Software
 
-* ⭐ **[Photoshop](https://w14.monkrus.ws/)** - Use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) + [Client](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)
+* ⭐ **[m0nkrus](https://monkrus.dvuzu.com/)** / [2](https://vk.com/m0nkrus) - Adobe Software Archive / Use VPN / [Block Adobe](https://rentry.co/FMHYBase64#a-dove-is-dumb)
 * ⭐ **[GIMP](https://www.gimp.org/)**
 * ⭐ **GIMP Tools** - [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Batch Editor](https://github.com/alessandrofrancesconi/gimp-plugin-bimp)
 * ⭐ **[Pinta Project](https://www.pinta-project.com/)**
@@ -76,7 +76,7 @@
 * [upscaler](https://icons8.com/upscaler) - Image Upscaling
 * [image-upscaling.net](https://image-upscaling.net/) - Image Upscaling
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling
-* [Ilaria Upscaler](https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler) - Image Upscaling
+* [Ilaria Upscaler](https://huggingface.co/spaces/tuan2308/Ilaria_Upscaler) - Image Upscaling
 * [Crunch](https://github.com/chrissimpkins/Crunch) - Image Upscaling
 * [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale) - Image Upscaling
 * [Photo Magic AI](http://photomagicai.com/) - Image Upscaling
@@ -151,7 +151,6 @@
 * [Hugin](https://hugin.sourceforge.io/) - Panorama Image Generator
 * [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks
 * [CharacterCreator](https://charactercreator.org/) - Character Generator
-* [99 Avatars](https://99avatars.com/) - Create Doodle Avatar
 * [Picrew](https://picrew.me/) - Animated Character Maker
 * [FontSVG](https://fontsvg.com/) - Convert Font, Icon, Glyph to SVG
 * [Mimi](https://mimi-panda.com/) - Create Coloring Pages from Photos
@@ -160,12 +159,12 @@
 * [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator
 * [NoiseDeck](https://noisedeck.app/) - Art Generator
 * [Pulp-O-Mizer](https://thrilling-tales.webomator.com/derange-o-lab/pulp-o-mizer/pulp-o-mizer.html ) - Vintage Magazine Cover Generator
-* [Mirro-Ai](https://mirror-ai.com/) - Get Stickers with Your Face
 
 ***
 
 ## ▷ Painting
 
+* 🌐 **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - Download Brushes
 * ⭐ **[Krita](https://krita.org/en/)** - Painting App
 * ⭐ **Krita Tools** - [Custom Backend](https://github.com/Interpause/auto-sd-paint-ext) / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [Forums](https://krita-artists.org/)
 * ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - Browser Painting
@@ -181,7 +180,6 @@
 * [HeavyPaint](https://www.heavypaint.com/) - Water Color Painting
 * [Mixbox Painter](https://scrtwpns.com/mixbox/painter/) - Realistic Paint Mixing
 * [Vervette](https://www.taron.de/Vervette/sandbox/) - Realistic Fluid Painting
-* [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](https://wowbrushes.com/), [getbrushes](https://getbrushes.com/), [gfxfever](https://www.gfxfever.com/), [fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/) or [tala](https://t.me/tala_photoshop_brushes) - Digital Art Brushes
 
 ***
 
@@ -362,7 +360,7 @@
 * [TextureLab](https://njbrown.itch.io/texturelab) - Procedural Texture Generator / [GitHub](https://github.com/njbrown/texturelab) / [Discord](https://discord.com/invite/975NdQPsSc)
 * [Material Maker](https://rodzilla.itch.io/material-maker) - Procedural Texture Creator
 * [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [more.graphics](https://more.graphics/), [Valentina](https://gitlab.com/smart-pattern/valentina), [Patternizer](https://www.patternizer.com/) or [Haikei](https://app.haikei.app/) - Pattern Generators
-* [Noise & Gradient](https://www.noiseandgradient.com/), [PhotoGradient](https://photogradient.com/), [Gradient Designer](https://gradient-designer.csspost.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
+* [Noise & Gradient](https://www.noiseandgradient.com/), [PhotoGradient](https://photogradient.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
 * [Hide.Lizz](https://hide.lizz.website/) - Camouflage Pattern Generator
 * [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
 * [Generative Landscapes](https://generativelandscapes.wordpress.com/) - Generative Landscape Blog
@@ -382,7 +380,6 @@
 * [Freeject](https://www.freeject.net/)
 * [Cg_peers](https://t.me/Cg_peers)
 * [PNGTree](https://pngtree.com/)
-* [NitroGFX](https://nitrogfx.pro/)
 * [TianUI](https://www.titanui.com/)
 * [Designer Candies](https://designercandies.net/category/freebies/)
 * [GraphixTree](https://graphixtree.com/)
@@ -506,39 +503,43 @@
 
 ## ▷ Stock Images
 
+* **Note** - Royalty-free implies images free for personal or commercial use with some usage restrictions (see sites TOS). CC0 stands for Creative Commons Zero and means images are public domain. Sites not tagged have licensing that varies.
+
+***
+
 * 🌐 **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - Stock Photo Index
 * ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[DownPic](https://downpic.cc)**, **[Downloader.la](https://downloader.la/)** or [istock](https://istock.7xm.xyz/) - Paid Stock Photo Downloaders
 * ⭐ **[EveryPixel](https://www.everypixel.com/)**, [O-DAN](https://o-dan.net/en/) or [LibreStock](https://librestock.com/) - Stock Photo Search Engines
-* [PxHere](https://pxhere.com/) - Stock Photos
-* [Adobe Stock](https://stock.adobe.com/free) - Stock Photos
-* [themeisle](https://mystock.themeisle.com/) - Stock Photos
-* [Unsplash](https://unsplash.com/) - Stock Photos
+* [Adobe Stock](https://stock.adobe.com/free) - Stock Photos / Royalty-Free
+* [Unsplash](https://unsplash.com/) - Stock Photos / Royalty-Free
+* [Pixnio](https://pixnio.com/) - Stock Photos / Royalty-Free
+* [Pikwizard](https://pikwizard.com/) - Stock Photos / Royalty-Free
+* [diverseui](https://diverseui.com/) - Human Face Photos / Royalty-Free
+* [themeisle](https://mystock.themeisle.com/) - Stock Photos / CC0
+* [PxHere](https://pxhere.com/) - Stock Photos / CC0
+* [focastock](https://focastock.com/) - Stock Photos / CC0
+* [Foodiesfeed](https://www.foodiesfeed.com/) - Food Photos / CC0
+* [freenaturestock](https://freenaturestock.com/) - Nature Photos / CC0
 * [burst](https://burst.shopify.com/) - Stock Photos
 * [Hippopx](https://www.hippopx.com/) - Stock Photos
 * [BarnImages](https://barnimages.com/) - Stock Photos
-* [Pixnio](https://pixnio.com/) - Stock Photos
 * [Pixabay](https://pixabay.com/) - Stock Photos
-* [focastock](https://focastock.com/) - Stock Photos
-* [Pikwizard](https://pikwizard.com/) - Stock Photos
 * [Lummi](https://www.lummi.ai/) - AI Generated Stock Photos
 * [Smithsonian Open Access](https://www.si.edu/OpenAccess) - Smithsonian High-Quality Photos
 * [desirefx](https://desirefx.me/category/stock_images/) - Stock Photo Overlays
 * [creativity103](https://creativity103.com/) - Abstract Background Photos
-* [freenaturestock](https://freenaturestock.com/) - Nature Photos
 * [Warren Photographic](https://www.warrenphotographic.co.uk/index.php) - Animal Photos
 * [PhyloPic](https://www.phylopic.org/) - Animal Silhouettes
-* [diverseui](https://diverseui.com/) - Human Face Photos
-* [Foodiesfeed](https://www.foodiesfeed.com/) - Food Photos
 * [iwaria](https://iwaria.com/) - African Photos
-* [twnsnd](https://nos.twnsnd.co/) - Vintage Photos
-* [PNGIMG](https://pngimg.com/) or [stickpng](https://www.stickpng.com/) - PNG Photos
+* [twnsnd](https://nos.twnsnd.co/) - Vintage Photos / Public Domain
+* [PNGIMG](https://pngimg.com/) or [stickpng](https://www.stickpng.com/) - PNG Photos / Noncommercial License
 * [gfxmountain](https://gfxmountain.com/stock-photos/) - Stock Photo Collections
 * [FreePik Downloader](https://freepik-downloader.beatsnoop.com/) or [freepikuz_pro](https://t.me/freepikuz_pro) - FreePik Downloaders
 * [Flickr Commons](https://www.flickr.com/commons) - Public Photo Archives / [Downloader](https://github.com/beaufour/flickr-download) 
 * [Shutterstock Premium](https://t.me/shutterstockpremium), [freestockphotos](https://t.me/freestockphotos) or [Shutter](https://t.me/Shutter) - Shutterstock Telegram Downloaders
 * [Nohat](https://nohat.cc/), [FreeImages](https://www.freeimages.com/), [cgispread](https://cgispread.com/), [Vecteezy](https://www.vecteezy.com/) or [FreeDesignFile](https://freedesignfile.com/) - Misc Stock Photos / Vectors
 * [argfx](https://argfx.co/), [publicdomainvectors](https://publicdomainvectors.org/), [Free Vector](https://www.freevector.com/), [VectorJunky](https://www.vectorjunky.com/), [freevectors](https://www.freevectors.net/) or [vector4free](https://www.vector4free.com/) - Misc Vectors
-* [VectorPortal](https://www.vectorportal.com/) - Vector Collections
+* [VectorPortal](https://www.vectorportal.com/) - Vector Collections / Creative Common Attribution
 * [123freevectors](https://www.123freevectors.com/) - Background Vectors
 
 ***
@@ -577,10 +578,8 @@
 
 * [Download all Images](https://webextension.org/listing/save-images.html)
 * [Cute Save Button](https://github.com/Dezaimasu/cute-button)
-* [DownAlbum](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppoken)
 * [Save Images](https://github.com/belaviyo/save-images/)
 * [svgexport](https://svgexport.io/)
-* [svg-grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg)
 * [SVG Gobbler](https://github.com/rossmoody/svg-gobbler)
 * [Image Picka](https://github.com/eight04/image-picka)
 
@@ -601,7 +600,7 @@
 * [PicSynth](https://www.picsynth.me/), [Ribbet](https://ribbet.ai/), [RedKetchup](https://redketchup.io/), [Img2Go](https://www.img2go.com/), [fffuel](https://fffuel.co/) or [Mara](https://mara.photos/) - Multi-Tool Sites
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
-* [Librerest](https://librerest.bunk.lol/) / [GitHub](https://github.com/emppu-dev/librerest) or [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontends
+* [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontends
 * [/r/Photography Guide](https://www.reddit.com/r/photography/wiki/introduction) or [Cambridge In Colour](https://www.cambridgeincolour.com/) - Photography / Camera Guides
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
 * [PixelPeeper](https://pixelpeeper.com/) - Extract Lightroom Edits / Settings
@@ -742,6 +741,7 @@
 * [Google Photos Toolkit](https://github.com/xob0t/Google-Photos-Toolkit) - Manage / Delete Google Photos
 * [Google Takeout](https://takeout.google.com/) - Export from Google Photos / [Script](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper)
 * [GPhotos Guide](https://github.com/g8row/gphotos-guide) - Unlimited Google Photos Storage Guide
+* [Google Photos EXIF](https://github.com/mattwilson1024/google-photos-exif) - Populate Missing EXIF metadata in Google Photos
 
 ***
 
@@ -750,15 +750,14 @@
 * ⭐ **[ImgBB](https://imgbb.com/)**
 * ⭐ **[Postimages](https://postimages.org/)**
 * ⭐ **[Catbox.moe](https://catbox.moe/)**
-* [lookimg](https://lookimg.com/)
 * [Imgur](https://imgur.com/)
 * Imgur Tools - [Frontends](https://git.voidnet.tech/kev/imgin), [2](https://codeberg.org/rimgo/rimgo), [3](https://codeberg.org/3np/rimgu), [4](https://rimgo.bus-hit.me/)
 * [pixelfed](https://pixelfed.org/)- Decentralized Image Host / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_pixelfed_tools)
 * [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)
-* [WebOasis IPFS](https://weboasis.app/ipfs/)
 * [FreeImage.Host](https://freeimage.host/)
 * [imgbox](https://imgbox.com/)
 * [vgy](https://vgy.me/)
+* [⁠PixVid](https://pixvid.org/)
 * [Catimage](https://catimages.org/)
 * [i](https://tikolu.net/i/)
 * [tixte](https://tixte.com/)
@@ -854,7 +853,7 @@
 * [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [OnlineEXIFViewer](https://onlineexifviewer.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter), [CameraSummary](https://camerasummary.com/) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - EXIF / Metadata Viewers
 * [exiftool](https://exiftool.org/), [2](https://github.com/FrankBijnen/ExifToolGui/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [exifpurge](https://exifpurge.com/), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
-* [TheExifer](https://www.thexifer.net/index.php), [Photini](https://github.com/jim-easterbrook/Photini) - Image EXIF Data Editors
+* [TheExifer](https://www.thexifer.net/index.php), [Photini](https://github.com/jim-easterbrook/Photini) or [ColorPilot](https://www.colorpilot.com/exif.html)- Image EXIF Data Editors
 * [Base64 Image](https://www.base64-image.de/) - Encrypt / Decrypt Images
 * [BetaFace](https://www.betaface.com/demo.html) - Facial Recognition
 * [FaceCheck](https://facecheck.id/) or [Faceagle](https://faceagle.com/) - Face Recognition Search Engines

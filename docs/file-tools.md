@@ -68,6 +68,7 @@
 * [ezyZip](https://www.ezyzip.com/) - Zip Files Online
 * [unzip-online](https://unzip-online.com/en) - Unzip Files Online
 * [Unrar online](https://unrar.online/) - Unrar Files Online
+* [UPX](https://upx.github.io/) - Executable File Compressor / [GitHub](https://github.com/upx/upx)
 
 ***
 
@@ -353,12 +354,12 @@
 
 ***
 
-* 🌐 **[Cloud Storage Comparisons](https://eylenburg.github.io/cloud_comparison.htm)** or [ComparisonTabl.es](https://comparisontabl.es/cloud-storage/) - Compare Cloud Storage Sites
+* 🌐 **[ComparisonTabl.es](https://comparisontabl.es/cloud-storage/)** - Compare Cloud Storage Sites
 * ⭐ **[Google Drive](https://drive.google.com/)** - 15GB Free / 2 Years / ~$3 for 1TB
-* ⭐ **[mega](https://mega.nz/)** - 20GB Free / 3 Months / ~$4.50 for 1TB / [GitHub](https://github.com/meganz)
+* ⭐ **[mega](https://mega.io/)** - 20GB Free / 3 Months / ~$4.50 for 1TB / [GitHub](https://github.com/meganz)
 * ⭐ **[filen](https://filen.io/)** - 10GB Free / 3 Months / ~$8 for 1TB
 * [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / $2 for 1TB
-* [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB / [Downloader](https://indexsubtitle.cc/terabox-direct-link-generator)
+* [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB
 * [dropbox](https://www.dropbox.com/) - 1 or 2 GB Free/ 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
 * [mediafire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
 * [icedrive](https://icedrive.net/) - 10GB Free / 3 Months / $5 for 1TB
