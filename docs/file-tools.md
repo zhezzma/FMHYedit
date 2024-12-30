@@ -364,6 +364,7 @@
 * [mediafire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
 * [icedrive](https://icedrive.net/) - 10GB Free / 3 Months / $5 for 1TB
 * [PCloud](https://www.pcloud.com/) - 10GB Free / 1 Year / ~$4 for 1TB
+* [⁠FebBox](https://www.febbox.com/) - 1TB Free / 1 Month / ~$4 for 2TB
 * [Proton Drive](https://proton.me/drive) - 2GB Free (or 5GB for tasks) / 1 Year / ~$10 for 1TB
 * [JumpShare](https://jumpshare.com/) - 2GB Free / 1 Year / $8.25 for 1TB
 * [CyberFile](https://cyberfile.me/) - 10GB Free
