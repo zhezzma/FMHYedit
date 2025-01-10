@@ -65,7 +65,7 @@
 
 ## ▷ Upscale / Restore
 
-* ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/)
+* ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/), [3](https://waifu2x.pro/)
 * ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling
 * ⭐ **[Upscayl](https://www.upscayl.org/)** - Image Upscaling / [GitHub](https://github.com/upscayl/upscayl)
 * ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** - Image Upscaling
@@ -414,12 +414,9 @@
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)**, [Yeggi](https://www.yeggi.com/), [MakerWorld](https://makerworld.com/) or [YouImagine](https://www.youmagine.com/) - 3D Printer Models
 * [ModelViewer](https://modelviewer.dev/) or [F3D](https://f3d.app/) - 3D Model Viewers
 * [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - Make 3D Images
-* [TripoSR](https://huggingface.co/spaces/stabilityai/TripoSR) - 2D to 3D Image Converter
-* [Vectary](https://www.vectary.com/) - Online 3D Image Editor
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
 * [3DThis](https://3dthis.com/) - 3D Animation Tools
 * [PaintUp](http://technohippy.github.io/teddyjs/) - Make 2D Art into 3D
-* [MyMiniFactory](https://www.myminifactory.com/) - Mini 3D Printer Models
 * [Embossify](https://www.embossify.com/) - Turn Images into 3D Printer Models
 * [CosplayStaticFigure](https://t.me/CosplayStaticFigure) - Cosplay / Figurine 3D Models
 * [3DBrute](https://3dbrute.com/), [3DZip](https://3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - 3D Furniture Models
@@ -548,6 +545,7 @@
 
 * ⭐ **[Kemono](https://kemono.su/)** - Patreon Content / Some NSFW / Use Adblock
 * ⭐ **[DeviantArt](https://www.deviantart.com/)** - User-Made Art / Fanart / [Downloader](https://github.com/NC22/KellyC-Image-Downloader)
+* ⭐ **[ArtStation](https://www.artstation.com/)** - User-Made Art / Fanart / [Downloader](https://github.com/findix/ArtStationDownloader)
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
 * ⭐ **Pixiv Tools** - [Downloader](https://github.com/Nandaka/PixivUtil2), [2](https://github.com/xuejianxianzun/PixivBatchDownloader) / [Rankings](https://pixiv.navirank.com/) / [Frontend](https://pixiv.pics/), [2](https://codeberg.org/VnPower/pixivfe) / [Preview](https://github.com/NightLancer/PixivPreview), [2](https://github.com/ppixiv/ppixiv) / [Android](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md)
 * ⭐ **[Danbooru](https://safebooru.donmai.us/)**, [Sankaku Complex](https://chan.sankakucomplex.com/) or [yande.re](https://yande.re/) - Anime-Style Image Booru / [Downloader](https://github.com/kuanyui/BooruShinshi)
@@ -557,7 +555,6 @@
 * [Artfol](https://www.artfol.co/) - User-Made Art / Fanart
 * [Cara](https://cara.app/) - User-Made Art / Fanart
 * [InkBlot](https://inkblot.art/) - User-Made Art / Fanart
-* [ArtStation](https://www.artstation.com/) - User-Made Art / Fanart / [Downloader](https://github.com/findix/ArtStationDownloader)
 * [Gelbooru](https://gelbooru.com/), [Safebooru](https://safebooru.org/) or [TBIB](https://tbib.org/) - Image Boorus
 * [icons8](https://icons8.com/illustrations), [3D Illustrations](https://3d.khagwal.co/), [3dbay](https://clouddevs.com/3dbay/) or [NS-illustration-pack](https://github.com/nsobolewart/NS-illustration-pack) - 3D Illustrations
 * [StorySet](https://storyset.com/), [unDraw](https://undraw.co/illustrations), [blush](https://blush.design/) or [Humaaans](https://www.humaaans.com/) - Customizable Illustrations
