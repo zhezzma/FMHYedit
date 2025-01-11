@@ -53,7 +53,7 @@
 * [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
 * [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/) / [Mirror](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
 * [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
-* or [Free For Life](https://github.com/wdhdev/free-for-life/) - Tool Index
+* [Free For Life](https://github.com/wdhdev/free-for-life/) - Tool Index
 * [OSS Insight](https://ossinsight.io/) or [Open Source Heroes](https://opensource-heroes.com/) - GitHub Project Indexes
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
@@ -949,6 +949,7 @@
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [/r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
+* [Kolors](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
 * [Buycott](https://www.buycott.com/campaign/browse) - See How Manufacturers Match Your Principles
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [Fuck Nestlé](https://www.fucknestle.art/) - Nestlé Brand Database
@@ -978,7 +979,6 @@
 * [Mouse Ratings](https://www.rtings.com/mouse/reviews/best), [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
 * [Gamepadla](https://gamepadla.com/) - Gamepad / Controller Latency Tests
 * [Hackerboards](https://hackerboards.com/) - Single-Board Computer Comparisons
-* [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
 * [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) - Audio Equipment Discussion
 * [Scarbir](https://www.scarbir.com/), [Crinacle Graphs](https://graph.hangout.audio/) or [Crinacle](https://crinacle.com/) - Headset & Earphone Comparisons
 * [Consoomer_Guide](https://rentry.org/consoomer_guide) - Earphone Shopping Guide
@@ -1001,7 +1001,7 @@
 
 ## ▷ Games
 
-* [⭐ **GG.deals](https://gg.deals/deals/)**
+* ⭐ **[GG.deals](https://gg.deals/deals/)**
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)**
 * ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales
 * [SteamBase](https://steambase.io/sales) - Steam Sales
@@ -1445,6 +1445,7 @@
 * [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - Lego Building Software
 * [Instructables](https://www.instructables.com/) or [CreativePark](https://creativepark.canon/en/index.html) - Free Projects / Crafts
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
+* [PaperToys](https://www.papertoys.com/) - Printable Paper Toys
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [TwistyPuzzles](https://twistypuzzles.com/) or [HyperCubing](https://hypercubing.xyz/) - Twisty Puzzle Wikis
 * [Game a-b-street](https://a-b-street.github.io/docs/) - Traffic Simulation
@@ -1481,13 +1482,13 @@
 * 🌐 **[404PageFound](https://www.404pagefound.com/)** - Old Websites
 * ↪️ **[Random Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_generators)**
 * ⭐ **[Vijay's Virtual Vibes](https://vijaysvibes.uk/)** - Find Random Sites / [iFrame Version](https://vijaysvibes.uk/iframe-version.html)
-* ⭐ **[Project Random](https://0xbeef.co.uk/random)** or [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generators
 * ⭐ **[Copypasta Text](https://copypastatext.com/)** or [CopyPastaDB](https://copypastadb.com/) - Copypasta Databases
 * ⭐ **[CreepyPasta](https://www.creepypasta.com/)** - Creepypasta Database
 * ⭐ **[TheOnion](https://theonion.com/)** or [DailyWrong](https://dailywrong.com/) - Fake News Articles
 * ⭐ **[Uncyclopedia](https://en.uncyclopedia.co/)** - Wikipedia Parody
 * ⭐ **[WhatBeatsRock](https://www.whatbeatsrock.com/)** - Guess What Beats What
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
+* [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
 * [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites 
 * [Sharkle!](https://sharkle.com/) - Find Random Sites 

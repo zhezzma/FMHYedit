@@ -30,12 +30,13 @@
 * [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists) - Blocklist Collection
 * [FilterLists](https://filterlists.com/) - Filter and host lists directory
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
+
 ***
 
 ## ▷ Redirect Bypass
 
 * ⭐ **[Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)** - Bypass link Shorteners
-* ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Discord](https://bypass.vip/discord)
+* ⭐ **[Bypass.vip](https://bypass.vip/)** - Ad Links Bypasser / [Userscript](https://github.com/bypass-vip/userscript/raw/refs/heads/main/bypass-vip.user.js) / [Discord](https://bypass.vip/discord)
 * [bypass.city](https://bypass.city/), [2](https://adbypass.org/) - Bypass Link Shorteners / [Discord](https://discord.gg/bypass-city)
 * [BypassUnlock](https://bypassunlock.com/) - Bypass Link Shorteners
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ad Counters / [GitHub](https://github.com/adsbypasser/adsbypasser) 
@@ -314,7 +315,7 @@
 
 * 🌐 **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons / [GitLab](https://gitlab.com/nitrohorse/search-engines-compare)
 * 🌐 **[Instance Scores](https://searx.neocities.org/instancescores)** or [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - Searx Instance Indexes
-* ⭐ **[searx.space](https://searx.space/)** / [Onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) or [searx.be](https://searx.be/) - SearXNG Instances / [GitHub](https://github.com/searxng)
+* ⭐ **[searx.space](https://searx.space/)** / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) or [searx.be](https://searx.be/) - SearXNG Instances / [GitHub](https://github.com/searxng)
 * ⭐ **[Araa](https://araa.extravi.dev/)** - Google (searches) / Qwant (images) / DDG (auto-completes) / [GitHub](https://github.com/Extravi/araa-search) 
 * ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - Own Crawler + Third Parties / [Shortcuts](https://duckduckgo.com/bangs), [2](https://github.com/dmlls/yang) / [Subreddit](https://www.reddit.com/r/duckduckgo/)
 * [Fuck Off Google](https://search.fuckoffgoogle.net/), [searx.neocities](https://searx.neocities.org/), [nixnet](https://searx.nixnet.services/) or [monocles](https://monocles.de/) - Searx Instances 
@@ -340,14 +341,14 @@
 
 ***
 
-* 🌐 **[VPN Comparisons](https://redd.it/171h9qa)** or [Techlore Chart](https://techlore.tech/vpn) - VPN Comparison Charts
+* 🌐 **[Techlore Chart](https://techlore.tech/vpn)** - VPN Comparison Charts
 * 🌐 **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)**, [2](https://windscribe.com/vpnmap) - VPN Relationship Chart
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - Discussion Forum
 * ⭐ **[Warp](https://one.one.one.one/)** - Free VPN / Unlimited / [CLI](https://github.com/ViRb3/wgcf) / [Mobile Client](https://github.com/bepass-org/oblivion) / [Desktop Client](https://github.com/bepass-org/oblivion-desktop)
 * ⭐ **[Windscribe](https://windscribe.com)** - Has Free Plan / 10GB Monthly / [Subreddit](https://www.reddit.com/r/Windscribe/) / [GitHub](https://github.com/windscribe) 
 * ⭐ **[Proton VPN](https://protonvpn.com)** - No Torrenting with Free Plan / Unlimited / [Config Generation](https://protonvpn.com/support/wireguard-configurations) / [Subreddit](https://www.reddit.com/r/ProtonVPN/) / [Telegram](https://t.me/proton_privacy) / [GitHub](https://github.com/ProtonVPN/)
-* ⭐ **[RiseupVPN](https://riseup.net/en/vpn)** - Free / Unlimited / [Onion](https://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion) / [GitHub](https://github.com/riseupnet) / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator)
-* ⭐ **[AirVPN](https://airvpn.org/)** - Paid / [Onion](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/) / [GitHub](https://github.com/AirVPN) / [GitLab](https://gitlab.com/AirVPN) 
+* ⭐ **[RiseupVPN](https://riseup.net/en/vpn)** - Free / Unlimited / [.onion](https://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion) / [GitHub](https://github.com/riseupnet) / [Config CLI Script](https://github.com/kmille/riseup-vpn-configurator)
+* ⭐ **[AirVPN](https://airvpn.org/)** - Paid / [.onion](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/) / [GitHub](https://github.com/AirVPN) / [GitLab](https://gitlab.com/AirVPN) 
 * [Mullvad VPN](https://mullvad.net/) - Paid / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/) / [GitHub](https://github.com/mullvad)
 * [IVPN](https://www.ivpn.net/) - Paid / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/) / [Subreddit](https://www.reddit.com/r/IVPN/) / [GitHub](https://github.com/ivpn)
 * [PrivadoVPN](https://privadovpn.com/) - Free / 10GB Monthly / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
@@ -411,6 +412,7 @@
 * [Free Proxy Servers](https://www.free-proxy-servers.com/)
 * [CroxyProxy](https://www.croxyproxy.com/), [2](https://croxyproxy.best/)
 * [Proxy Site](https://www.proxysite.cc/), [2](https://unblocksites.online/)
+* [proxysite.one](https://proxysite.one/)
 * [ProxyOf2](https://proxyof2.com/)
 * [Proxy URLs](https://www.proxy-urls.com/)
 * [Sitenable](https://freeproxy.io/)

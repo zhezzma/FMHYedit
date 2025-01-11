@@ -17,7 +17,6 @@
 * ⭐ **[Game Pauser](https://madebyjase.com/game-pauser/)** - Pause Unpausable Cutscenes
 * ⭐ **[Valve Archive](https://valvearchive.com/)** - Rare Valve Data Archive
 * [NIWA](https://www.niwanetwork.org/) - Nintendo Independent Wiki Alliance / [Discord](https://discord.gg/59Mq6qB )
-* [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
 * [Gog To Free](https://greasyfork.org/en/scripts/481134) - Add Piracy Site Links to GOG Store
 * [The Models Resource](https://www.models-resource.com/) - Game Models
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites
@@ -38,6 +37,7 @@
 * [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - J2ME Resources
 * [GARbro](https://github.com/morkt/GARbro/) - Browse / Extract Visual Novel Resources
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
+* [Archiverse](https://archiverse.pretendo.network/) - Miiverse Archive
 * [How Denuvo Works](https://rentry.co/FMHYBase64#how-denuvo-works)
 * [Game Cracking / Repacking Guides](https://rentry.co/FMHYBase64#game-cracking-guides)
 
@@ -52,7 +52,7 @@
 * ⭐ **[Unsteam](https://cs.rin.ru/forum/viewtopic.php?f=20&t=134707&hilit=unsteam)** - Online Steam DRM Bypass / Cracked Servers Only / Multiplayer Emulator
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)**, [2](https://github.com/Detanup01/gbe_fork) / [GUI](https://github.com/brunolee-GIT/GSE-Generator) / [Guide](https://rentry.co/goldberg_emulator) / [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - Offline Steam DRM Bypass / Multiplayer Emulator
-* ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
+* ⭐ **[Steam-Auto-Crack](https://github.com/SteamAutoCracks/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
 * ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Epic, Origin, EA and Uplay
 * ⭐ **[SteamDB](https://steamdb.info/)** or [Steambase](https://steambase.io/) - Steam Insights Tools / [Extension](https://steamdb.info/extension/)
 * ⭐ **[SDD GUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI)** or [DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam Depot Downloaders
@@ -89,7 +89,7 @@
 * [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
 * [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Confirmation
 * [Steam Currency Converter](https://github.com/Solidet-com/steam-currency-converter) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#steam-currency-converter-note) - Steam Currency Converter
-* [Millennium](https://steambrew.app/) - Steam Client Customization / [Discord](https://steambrew.app/discord) / [GitHub](https://github.com/SteamClientHomebrew/Millennium)
+* [Millennium](https://steambrew.app/) - Steam Client Customization / [Discord](https://steambrew.app/discord) / [GitHub](https://github.com/shdwmtr/millennium)
 * [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD) - Command-Line Steam Client
 * [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
 * [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
@@ -111,9 +111,8 @@
 * [Hydra](https://github.com/hydralauncher/hydra) - Game Launcher / Torrent Client / [Plugins](https://hydralinks.cloud/) / [Discord](https://discord.com/invite/hydralaunchercommunity) / [Telegram](https://t.me/hydralauncher)
 * [OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Gamepad Native Launcher
 * [Arc](https://www.arcgames.com/en/about/client) - Gearbox Game Launcher / Library
-* [JackboxUtility](https://jackboxutility.com/) - Jackbox Games Launcher / [Discord](https://discord.gg/ffKMZeb88m) / [GitHub](https://github.com/AlexisL61/JackboxUtility/)
+* [JackboxUtility](https://jackboxutility.com/) - Jackbox Games Launcher / [Discord](https://discord.gg/ffKMZeb88m) / [GitHub](https://github.com/JackboxUtility/JackboxUtility)
 * [GameVault](https://gamevau.lt) - Self-Hosted Gaming Platform / [Discord](https://discord.gg/NEdNen2dSu)
-* [XIVLauncher](https://goatcorp.github.io/) - Fixed FFXIV Launcher
 
 ***
 
@@ -203,7 +202,6 @@
 * [YourSaveGames](https://www.yoursavegames.com/) - PC / PSP
 * [SaveGame.Pro](https://savegame.pro/) - PC
 * [Saves For Games](https://savesforgames.com/) - PC
-* [SaveGameFiles](https://www.savegamefiles.com/) - PC
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 
 ***
@@ -228,7 +226,6 @@
 ## ▷ Git Gud
 
 * 🌐 **[Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/)** - Mousepad Comparison Chart
-* 🌐 **[Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/)** - Mouse Click Latency Tests
 * 🌐 **[Gamepadla](https://gamepadla.com/)** - Gamepad / Controller Latency Tests
 * ⭐ **[Before I Play](https://beforeiplay.com/)** - Tips for any Game
 * ⭐ **[GamingSmart](https://gamingsmart.com/)** or [Mouse Sensitivity](https://www.mouse-sensitivity.com/) - Game Sensitivity Converters / Tools
@@ -255,7 +252,6 @@
 * ⭐ **[IGDB](https://www.igdb.com/)**, **[GiantBomb](https://www.giantbomb.com/games/)**, [LaunchBox Games Database](https://gamesdb.launchbox-app.com/), [GameFAQs](https://gamefaqs.gamespot.com/), [Rawg](https://rawg.io/), [Moby Games](https://www.mobygames.com/), [rate.house](https://rate.house/chart/game), [listal](https://www.listal.com/) or [FrontierNav](https://frontiernav.net/) - Game Database
 * ⭐ **[TasteDive](https://tastedive.com/games )**, [50GamesLike](https://www.50gameslike.com/), [Mythic Maps](https://mythicmap.com/) / [Discord](https://discord.gg/xw6cgmjDzB) or [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Game Recommendation Guides
-* [GameGauntlets](https://gamegauntlets.com/) - Find Random Games
 * [Incendar](https://incendar.com/) - Game Release Date Tracker
 * [GG App](https://ggapp.io/), [Gamelib](https://gamelib.app/explore), [Backloggery](https://backloggery.com/) or [Exophase](https://www.exophase.com/) - Game Trackers
 * [IMDb Advanced Search](https://www.imdb.com/search/) - Game Search
@@ -311,7 +307,6 @@
 * 🌐 **[Multiplayer Mods](https://docs.google.com/spreadsheets/d/e/2PACX-1vSV41AswEt3EpzSyd85YRVtoJaIIXWjtBy347dISJg4fs6xSNPqcgfsh76TxX_l-mnT7pjMlSqTW-87/pubhtml)** or [Unmoddable](https://unmoddable.com/) - Multiplayer Mods for Single-Player Games
 * ⭐ **[Plutonium](https://plutonium.pw/)** - COD BO1/BO2, MW3 and WaW Multiplayer Client / [Setup Guide](https://guides.viren070.me/plutonium) / [Video Guide](https://youtu.be/8F7hv98t8ck) / [Offline Launcher](https://github.com/JugAndDoubleTap/LanLauncher) / [Discord](https://discord.gg/d95y8ah)
 * [AlterWare](https://alterware.dev/) - COD MW2 (2009), MW3, BO3, AW and Ghosts Multiplayer Client  / [Discord](https://discord.gg/2ETE8engZM) / [GitHub](https://github.com/mxve/alterware-launcher)
-* [MRON Warzone](https://www.mronwarzone.ru/mron-mod) - MW (2019) Multiplayer Client / [Guide](https://www.mronwarzone.ru/verdansk) / [Video Guide](https://youtu.be/mDAVpNILA7s) / [Discord](https://discord.gg/mronwarzone)
 * [HorizonMW](https://discord.gg/horizonmw) - Modern Warfare Remastered Multiplayer Client / [Guide](https://youtu.be/BgfTZMXeQ8E) / [Servers / Info](https://master.iw4.zip/) / [Tools](https://github.com/z6m/h2m-tool)
 * [CoD4x Mod](https://cod4x.ovh/) - COD4 (2007) Multiplayer Project / Requires MP Key / [Discord](https://discord.com/invite/fMGb7BGVvy)
 * [Venice Unleashed](https://veniceunleashed.net/) / [Discord](https://discord.com/invite/dpJwaVZ) or [Warsaw Revamped](https://warsaw.gg/) / [Discord](https://discord.com/invite/C9Zrh4G) - Battlefield Mod Projects
@@ -453,7 +448,7 @@
 * [MemcardRex](https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
 * [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) or [/r/VitaHacks](https://reddit.com/r/vitahacks/) - PSVita Homebrew Subreddits
 * [PSP Archive](https://psp-archive.github.io/) - PSP Homebrew Archive / [Discord](https://discord.gg/VZcjFvy3mT)
-* [VitaDB](https://vitadb.rinnegatamante.it/) - PS Vita Homebrews
+* [VitaDB](https://www.rinnegatamante.eu/vitadb) - PS Vita Homebrews
 * [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set PS Vita Volume without Buttons
 * [PSPunk](https://www.pspunk.com/) - PSP Homebrew Info
 
@@ -471,6 +466,7 @@
 * [Bazzite](https://bazzite.gg/) - Alt Steam Deck OS
 * [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
 * [HoloISO](https://github.com/HoloISO/releases) - SteamOS 3 (Holo) Archiso Config / [Telegram](https://t.me/HoloISO)
+* [Steam Deck Repo](https://steamdeckrepo.com/) - Steam Deck Boot Videos
 
 ***
 
@@ -582,7 +578,7 @@
 * [Minecraft Earth Map](https://earth.motfe.net/) - Earth Maps
 * [MapartCraft](https://rebane2001.com/mapartcraft/) or [Cartographer](https://cartographer-mc.com/) - Mapart Schematic / map.dat Generator
 * [BlueMap](https://bluemap.bluecolored.de/) - Create 3D Map Models / [GitHub](https://github.com/BlueMap-Minecraft/BlueMap)
-* [⁠Arnis](https://github.com/louis-e/arnis) - Generate Minecraft Versions of any Locations
+* [⁠Arnis](https://github.com/louis-e/arnis) - Generate Real-world Locations in Minecraft
 * [Chunker](https://oss.chunker.app/) - Java / Bedrock Format Converter
 * [Minecraft Map Converter](https://archive.org/details/Minecraft-map-converter) - PS3/360 Format Converter
 * [Amidst](https://github.com/toolbox4minecraft/amidst) - Minecraft World Overview Display Tool
@@ -643,9 +639,7 @@
 * 🌐 **[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania)** - Trackmania Resources
 * 🌐 **[ACNH.Directory](https://acnh.directory/)** - Animal Crossing: New Horizons Resources
 * [Half Life Project Beta](https://hl2-beta.ru/?language=english) - Unreleased / Cut Half-Life Content
-* [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
 * [Palworld.gg](https://palworld.gg/), [PalworldTrainer.com](https://palworldtrainer.com/) or [Paldb.cc](https://paldb.cc/) - Palworld Databases
-* [Palworld Host Save Fix](https://github.com/xNul/palworld-host-save-fix) - Palworld Save Bug Fix
 * [Warzone Loadout](https://warzoneloadout.games/) or [WZHub](https://wzhub.gg/) - Warzone Loadouts and Builds
 * [Braytech](https://bray.tech/) - Destiny 2 Stats
 * [The Halo Archive (Discord)](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - Halo Assets Archive
@@ -716,7 +710,7 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 * [pkNX](https://github.com/kwsch/pkNX) - Switch Pokémon ROM Editor / Randomizer
 * [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/) - Randomize Pokémon (works for GBA to 3DS)
 * [NYCPokeMap](https://nycpokemap.com/) - Real-Time Pokémon GO Map for NYC
-* [PkmnCards](https://pkmncards.com/) - Pokémon Card Database
+* [PkmnCards](https://pkmncards.com/) or [Limitless](https://limitlesstcg.com/) - Pokémon Card Databases / Resources
 * [TCG ONE](https://tcgone.net/) - Online Pokémon Card Game / [Discord](https://discord.gg/MTBGxVE)
 * [unite-db](https://unite-db.com/) - Pokémon Unite Database
 * [HelixChamber](https://helixchamber.com/) - Unused Pokémon Material
@@ -878,6 +872,7 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 * [FantasiaArchive](https://fantasiaarchive.com/) - World Building / Documenting Tool
 * [DnD World Building](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - Fantasy World Building Guides
 * [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
+* [DnD Rules](https://www.dndbeyond.com/sources/dnd/free-rules) - Dungeons & Dragons Rules
 * [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
 * [WarGamer](https://www.wargamer.com/) - Tabletop RPG Guides
 * [Roll20](https://roll20.net/) or [Rolisteam](https://rolisteam.org/) - Tabletop RPG Streaming
@@ -885,4 +880,5 @@ generate various codes codes for the Pokémon Mystery Dungeon series
 * [Eigengrau's Generator](https://eigengrausgenerator.com/) - Town / NPC Generator
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans
+* [Yugipedia](https://yugipedia.com/) or [YGOPRODeck](https://ygoprodeck.com/) - Yu-Gi-Oh! Resources / Card Lists
 * [Untap.in](https://untap.in/) - Test Card Game Decks
