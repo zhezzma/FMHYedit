@@ -386,7 +386,6 @@
 * [by.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
 * [sum.vn](https://sum.vn/) - `sum.vn/DTrXk`
 * [picsee](https://picsee.io/) - `psee.io/5pye68`
-* [pxmd](https://pxmd.co/) - `pxmd.co/8HDku`
 * [jii.li](https://jii.li/) - `jii.li/hNFXP`
 * [u.nu](https://u.nu/) - `u.nu/5nhzi`
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
@@ -499,7 +498,7 @@
 
 ***
 
-* ⭐ **[MailPro](https://smailpro.com/temporary-email)** - Gmail & Outlook / Forever / N/A / 20+ Domains
+* ⭐ **[SmailPro](https://smailpro.com/temporary-email)** - Gmail & Outlook / Forever / N/A / 20+ Domains
 * ⭐ **[Zemail](https://zemail.me/)** - Gmail / Forever / 1 Day / 7 Domains
 * ⭐ **[Gmailnator](https://emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
 * ⭐ **[Tempr.email](https://tempr.email/en/)** - Forever / 1 Month / 50+ Domains
@@ -541,7 +540,6 @@
 * [MinuteInbox](https://minuteinbox.com/), [10minemail.com](https://10minemail.com/), [10minutesemail.net](https://10minutesemail.net/) or [10minutemail.com](https://10minutemail.com/) - 10 Minute Lifespan Emails
 * [PhantomSign](https://phantomsign.com/)
 * [mail-temp.com](https://mail-temp.com/) or [emailfake.com](https://emailfake.com/) - 50+ Domains
-* [1secMail](https://www.1secmail.com/) - 8 Domains
 * [AnonymMail.net](https://anonymmail.net/), [Tmail.gg](https://tmail.gg/) or [Mail.td](https://mail.td/) - 5 Domains
 * [Linshi Email](https://www.linshi-email.com/en) - Custom Domains
 * [EmailOnDeck](https://www.emailondeck.com/), [EmailTemp](https://emailtemp.org/), [Haribu](https://haribu.net/), [Maildax](https://maildax.com/) or [tempmaili.com](https://tempmaili.com/) - 1 Domain
@@ -762,7 +760,6 @@
 
 * [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) - Safari Userscript Manager
 * [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12) or [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) - Dark Mode
-* [Amerigo](https://apps.apple.com/us/app/amerigo-file-manager/id605569663) - File Download Manager
 * [PiPifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture Mode
 * [Web Inspector](https://apps.apple.com/us/app/web-inspector/id1584825745) - Inspect Element Tools for Safari
 

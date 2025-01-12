@@ -33,7 +33,6 @@
 
 ***
 
-* ⭐ **[UpStream](https://upstream.to/)** - 10GB / 30 Days / Account Required
 * ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / Temporary
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
@@ -437,6 +436,7 @@
 * [flex_cg_vfx](https://t.me/flex_cg_vfx)
 * [VFXLoot](https://vfxloot.com/)
 * [Download Pirate](https://www.downloadpirate.com/) - **Use Adblock / Avoid Fake Download Buttons** / [Discord](https://discord.gg/ucTvVtBz9Z)
+* [Team V.R](https://codec.kyiv.ua/ad0be.html) - After Effects
 * [ShareAE](https://www.shareae.com/) - After Effects
 * [HunterAE](https://hunterae.com/) - After Effects
 * [Visual Effects Pack](https://t.me/visual_effects_pack) - After Effects
