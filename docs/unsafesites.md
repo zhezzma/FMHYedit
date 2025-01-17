@@ -41,13 +41,17 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * CracksHash - Caught with [malware](https://redd.it/lklst7)
 * haxNode - Caught with [malware](https://rentry.org/scurvy_malware) / [2](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
 * IGI30 - Caught with malware
+* 4Download / Download93 - Caught with [malware](https://tria.ge/250116-pcl47azkfw) 
+* MicroTech - Caught with [malware](https://tria.ge/250116-qxj11atmdl) 
+* Softgozar - Caught with [malware](https://tria.ge/250116-ra8aravjfr) 
+* Patoghu - Caught with [malware](https://tria.ge/250116-rrdsgavjbs)
 * MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note that Magisk Module MRepo is unrelated
 * YASDL - Uploaded versions of stardock / jetbrains with malware
 * AllPCWorld - Uploaded KMS Matrix which is known malware
 * RSLOAD - Uploaded the same version of malwarebytes that got FileCR in trouble / [utorrent malware](https://i.ibb.co/QXrCfqQ/Untitled.png)
 * Taiwebs - Uploaded same version of [stardocks](https://pastebin.com/nPjVKYM9), [2](https://imgur.com/a/aeLoaTS) that got FileCR in trouble
-* AppDoze - Sources content from unsafe sites like FileCR. Comparison:  [FileCR](
-https://tria.ge/250113-r2t77sxqbj) / [AppDoze](https://tria.ge/250113-ryfkmsxnfq)
+* AppDoze - Caught with [malware](https://tria.ge/250116-n26dpayphx), sources content from unsafe sites like FileCR. Comparison:  [FileCR](https://tria.ge/250113-r2t77sxqbj) / [AppDoze](https://tria.ge/250113-ryfkmsxnfq)
+* Pesktop - Caught with [malware](https://tria.ge/250116-nwnxfszkdq), sources content from [FileCR](https://ibb.co/1KjkKVR), [2](https://imgur.com/a/VS4w6ag), has filecr logo under theirs on some apps.
 * Appnee - Not very careful with uploads, has multiple [unsafe activators](https://i.imgur.com/ZwjYBfr.png) / [2](https://i.ibb.co/7jKVtSR/ZwjYBfr.png)
 * AppValley / TutuBox / Ignition - History of [ddos attacks](https://github.com/fmhy/edit/pull/307)
 * CNET / Download.com / ZDNET / Softonic - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/) / [2](https://ibb.co/tLc5KR7)
