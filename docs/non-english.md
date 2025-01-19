@@ -420,7 +420,7 @@
 
 ## ▷ Torrenting / Télecharger
 
-* [YGGTorrent](https://www.yggtorrent.in/) - Video / Audio / ROMs / Books
+* [YGGTorrent](https://www.ygg.re/) - Video / Audio / ROMs / Books
 * [Torrent9](https://www.torrent9.site/), [2](https://torrent9.app/) - Video / Audio / ROMs / Books
 * [Cpasbien](https://feminalpes.fr/), [2](https://www.cpasbien.tw/) - Video / Audio / ROMs / Books
 * [Sharewood](https://www.sharewood.tv/) - Video / Audio / ROMs / Books
@@ -619,7 +619,7 @@
 
 ***
 
-# ► Indian Languages / भारतीय भाषाएँ
+# ► Indian Languages
 
 * [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Android Keyboard
 * [Bhashini](https://bhashini.gov.in/) - Live Translation App / Text and Speech
@@ -636,6 +636,8 @@
 * ⭐ **[AToZ Cartoonist](https://atozcartoonist.me/)** - Cartoons / Anime / Sub / Dub / 1080p / [Link Bypasser](https://greasyfork.org/en/scripts/484907) / [Discord](https://discord.com/invite/ZUW8yzDutd)
 * ⭐ **[ToonsHub](https://www.toonshub.xyz/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://discord.com/invite/2mPFKykW4j)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
+* ⭐ **[TamilBlasters](https://1tamilblasters.net/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
+* ⭐ **[TamilMV](https://www.1tamilmv.app/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
 * [SkyMovies](https://skymovieshd.toys/) - Movies / TV / Anime / Some NSFW
 * [OOMoye](https://www.oomoye.life/) - Movies / TV / Anime / Some NSFW
 * [Mallumv](https://mallumv.guru/) - Movies / Sub / Dub / 1080p / [Telegram](https://t.me/MalluMvoff)
@@ -684,7 +686,6 @@
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [ToonBaba](https://toonbaba.site/) - Anime
 * [9xmovies](https://9xmovies.fund/), [2](https://9kmovies.com/) - Movies / TV / Sub / Dub / 1080p / 4K
-* [streamblasters](https://streamblasters.pm/) - Movies / TV / Sub / Dub / 1080p
 * [MovieRulzHD](https://movierulzhd.taxi/) - Movies / TV / Sub / 1080p
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/playdesi/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
@@ -701,7 +702,7 @@
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudy_pk)
 * [MovieHDPlus](https://www.moviehdplus.com/) - South Asian Movies / TV / Sub / Dub / 720p
 * [HindiPix](https://hindipix.com/) - Movies / TV / Dub / 720p
-* [StreamBlasters](https://streamblasters.pm/)  - Movies / TV / Dub
+* [StreamBlasters](https://streamblasters.pm/)  - Movies / TV / Sub / Dub / 720p / 1080p / 4K / Anime / Indian Langauges
 * [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies / TV / Dub / 720p
 * [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 720p
 * [cinemakick](https://www.cinemakick.com/) - Movies / TV / Dub / 720p
@@ -1124,7 +1125,6 @@
 ## ▷ Streaming
 
 * ⭐ **[Cineby](https://www.cineby.app/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
-* ⭐ **[CriaFlix](https://criaflix.live/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/z72kQpKRUP)
 * ⭐ **[Gyn Cursos](https://gyncursos.com.br)**, **[Curso em Vídeo](https://www.cursoemvideo.com)**, **[iEstudar Cursos](https://iestudar.com)** or **[Pensar Cursos](https://www.pensarcursos.com.br)** - Courses
 * [Redecanais](https://redecanais.fi/) - Movies / TV / Anime / Dub / 1080p
 * [WarezCDN](https://warezcdn.com) - API for Movies / TV / Anime
