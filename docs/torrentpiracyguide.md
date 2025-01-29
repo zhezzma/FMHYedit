@@ -56,6 +56,7 @@
 * [0Mag](https://www.0mag.net/), [2](https://16mag.net/)
 * [TorrentDownloads](https://www.torrentdownloads.pro/)
 * [concen](https://www.concen.org/torrents)
+* [YourBitTorrent](https://yourbittorrent.com/)
 * [BTSearch](https://www.btsearch.love/en)
 * [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) - Telegram Torrent Search
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Web App Search
@@ -124,7 +125,7 @@
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
 * [Docker QBT](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
 * [QBT Mega](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) - Mega Upload Script
-* [QBT Gogle Drive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - Google Drive Upload Script
+* [QBT Google Drive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - Google Drive Upload Script
 * [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
 * [qBitEndpoints](https://rentry.co/qBitEndpoints) - API Endpoints
 * [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton

@@ -100,7 +100,7 @@
 
 ## ▷ Downloading / ডাউনলোডিং
 
-* [MLSBD](https://mlsbd.shop/) - Movies / TV / WEB / Bangla Natok / Some NSFW / Adblocker Recomended / 1080p
+* [MLSBD](https://mlsbd.shop/) - Movies / TV / WEB / Bangla Natok / Some NSFW / Adblocker Recommended / 1080p
 * [Bangla Song](https://www.music.com.bd/) - Bangla Song / Music / Radio / MP3
 
 ***
@@ -354,6 +354,7 @@
 
 ## ▷ Reading
 
+* [xTrance](https://xtrance.info/) - Books / Download / Account Required
 * [PDF Books](https://pdfknihy.maxzone.eu/index.html) - Public Domain Books
 * [databazeknih](https://www.databazeknih.cz/) - Czech Book Database
 * [prirucka](https://prirucka.ujc.cas.cz) - Dictionary
@@ -597,6 +598,7 @@
 * [gamatomovies](https://gamatomovies.info/) - Movies / TV
 * [ertflix](https://www.ertflix.gr/en/) - Movies / TV
 * [An1me](https://an1me.to/) - Anime / Sub / Dub / 1080p
+* [GRecoTM Builds](https://grecotm.club/) - Kodi Builds / [Guide](<https://web.archive.org/web/20210925022803/https://en.iguru.gr/odigos-egkatastasis-ellinikou-build-sto-kodi/>) / [Discord](https://discord.com/invite/zVVfbDY)
 * [GreekTV](https://greektv.app/) - IPTV
 * [Subs4series](https://www.subs4series.com/), [xsubs](http://xsubs.tv), [greeksubs](https://greeksubs.net) or [subs4free](https://www.subs4free.club/) - Greek Subtitles
 
@@ -806,6 +808,7 @@
 * [eurekaddl](https://eurekaddl.makeup/) - Video / Audio / Books / Magazines / Newspapers / Comics / NSFW / Sub / 1080p
 * [OverDay](https://overday.info/) - Courses / Books
 * [HD4Me](https://hd4me.net/) - Movies / TV / Sub / 720p
+* [StreamingCommunity](https://github.com/Lovi-0/StreamingCommunity) - Movie / TV / Download Script
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
 
 ## ▷ Torrenting
@@ -816,7 +819,6 @@
 
 ## ▷ Streaming
 
-* ⭐ **[CB01](https://cb01new.pics/)** - Movies / TV / Sub / Dub / 1080p / 4K
 * [Altadefinizione](https://altadefinizione.prof/) - Movies / Sub / Dub / 1080p / 4K
 * [CasaCinema](https://casacinema.boats/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K
 * [filmsenzalimiti](https://filmsenzalimiti.giving/) - Movies / TV / Sub / Dub / 1080p / 4K
@@ -826,6 +828,10 @@
 * [SerieHD](https://www.seriehd.sbs/) - TV / Dub / 1080p
 * [toonitalia](https://toonitalia.xyz/) - TV / Anime
 * [Arcoiris TV](https://www.arcoiris.tv/) - Italian TV / 720p
+* [Kodi On Demand](https://guruhitech.com/kodi-on-demand-kod-kodi-add-on-tutte-le-info/) - Streaming Kodi Addon
+
+Italian 
+
 * [AnimeSaturn](https://www.animesaturn.nl/) - Anime / Sub / 1080p
 * [AnimeUnity](https://www.animeunity.to/) - Anime / Sub / 1080p
 * [AnimeWorld](https://www.animeworld.so/) - Anime / Sub / 1080p
@@ -1591,7 +1597,7 @@
 ## ▷ Streaming / Streamear
 
 * ⭐ **[Cineby](https://www.cineby.app/)** - Movies / TV / Anime / 1080p / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
-* ⭐ **[Playdede](https://playdede.in/)** -  Movies / TV / Anime / 1080p / Signup Required
+* ⭐ **[Playdede](https://privacidad.me/@playdede)** -  Movies / TV / Anime / 1080p / Signup Required / [Discord](https://discord.com/invite/Ruu7ZpwkBE)
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino
 * ⭐ **[LaQuay TDT Channels](https://www.tdtchannels.com/)** - Live TV / Live Radio / IPTV / Castilian / [GitHub](https://github.com/LaQuay/TDTChannels)
 * ⭐ **[Flipax](https://flipax.es/)** - Live Sports
