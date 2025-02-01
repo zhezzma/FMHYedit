@@ -476,7 +476,6 @@
 * [Game UI Database](https://www.gameuidatabase.com/) - Game UI Database
 * [Game-icons](https://game-icons.net/) - Game Icons
 * [r/GameAssets](https://www.reddit.com/r/gameassets/) - Reddit Community
-* [UnityAssets4Free](https://unityassets4free.com/) - Free Paid Unity Assets
 * [AssetRipper](https://github.com/AssetRipper/AssetRipper) / [Discord](https://discord.gg/XqXa53W2Yh) or [AssetStudio](https://github.com/zhangjiequan/AssetStudio) - Extract Assets from Unity Files 
 * [CraftPix](https://craftpix.net/freebies/) - 2D Game Assets
 * [xonotic](https://github.com/xonotic) or [Warsow](https://github.com/Warsow) - FPS Game Assets
@@ -515,9 +514,9 @@
 
 * ⭐ **[Hackintosh](https://hackintosh.com/)** - Hackintosh Building Guides
 * ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Building Guides
-* ⭐ **Hackintosh Guides** - Hackintosh Building Guides / [Fix Graphics](https://rentry.org/fix-graphics)
 * ⭐ **[r/Hackintosh](https://www.reddit.com/r/hackintosh/)** - Hackintosh Community / Subreddit / [Discord](https://discord.gg/u8V7N5C)
 * [r/Hackintosh Tools](https://www.reddit.com/r/hackintosh/comments/npvuqg/hackintosh_macos_free_tools/) or [hackintosh-tools](https://rentry.org/hackintosh-tools)  - Hackintosh Tools
+* [Hackintosh Graphics Fix](https://rentry.org/fix-graphics)
 * [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines using QEMU
 * [VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide) - Install macOS in Vmware Workstation
 * [Download VMware](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/) - Download VMware Workstation from VMware  / [Notes](https://rentry.org/VMware-guide)
@@ -640,7 +639,7 @@
 * ⭐ **Suwayomi Tools** - [Extensions](https://keiyoushi.github.io/), [2](https://discord.gg/3FbCpdKbdY) / [Desktop Client](https://github.com/Suwayomi/Tachidesk-Server)
 * ⭐ **[Houdoku](https://houdoku.org/)** / [GitHub](https://github.com/xgi/houdoku)
 
-[AllMangasReader](https://allmangasreader.com/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer), [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer), [LANraragi](https://github.com/Difegue/LANraragi), [Mangayomi](https://github.com/kodjodevf/mangayomi), [Unyo](https://github.com/K3vinb5/Unyo)
+[AllMangasReader](https://allmangasreader.com/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer), [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer), [LANraragi](https://github.com/Difegue/LANraragi), [Unyo](https://github.com/K3vinb5/Unyo)
 
 ### Self-Hosted
 
