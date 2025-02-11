@@ -76,25 +76,25 @@
 * [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / [GitHub](https://github.com/jsummers/deark)
 * [text2img](https://master.ayra.ch/text2img/) - Online NFO Files to Image Converter
-* [CloudConvert](https://cloudconvert.com/) - Convert Files / 1 GB
-* [FreeConvert](https://www.freeconvert.com/) - File Converter / 1 GB
-* [videoutils](https://www.videoutils.com/) - File Converter / 500 MB
-* [Xconvert](https://www.xconvert.com) - File Converter / 400 MB
-* [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250 MB
-* [Convertio](https://convertio.co/) - File Converter / 100 MB
-* [AnyConvert](https://anyconv.com/) - File Converter / 100 MB
-* [onlineconvertfree](https://onlineconvertfree.com/) - File Converter / 100 MB
-* [MiConv](https://miconv.com/) - File Converter / 75 MB
-* [Converter 365](https://www.converter365.com/) - File Converters / 200 MB
-* [Aconvert](https://www.aconvert.com/) - Various Converters / 40 MB
-* [LetsConvert](https://letsconvert.io/) - Image/Audio Converter / 250 MB
+* [CloudConvert](https://cloudconvert.com/) - Convert Files / 1GB
+* [FreeConvert](https://www.freeconvert.com/) - File Converter / 1GB
+* [videoutils](https://www.videoutils.com/) - File Converter / 500MB
+* [Xconvert](https://www.xconvert.com) - File Converter / 400MB
+* [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250MB
+* [Convertio](https://convertio.co/) - File Converter / 100MB
+* [AnyConvert](https://anyconv.com/) - File Converter / 100MB
+* [onlineconvertfree](https://onlineconvertfree.com/) - File Converter / 100MB
+* [MiConv](https://miconv.com/) - File Converter / 75MB
+* [Converter 365](https://www.converter365.com/) - File Converters / 200MB
+* [Aconvert](https://www.aconvert.com/) - Various Converters / 40MB
+* [LetsConvert](https://letsconvert.io/) - Image/Audio Converter / 250MB
 * [Online Convert](https://www.online-convert.com/) - Online File Converter
 * [Zamzar](https://www.zamzar.com/) - File Converter / 200 MB
 * [Online Converter](https://www.onlineconverter.com/) - Online Simple Media / Unit Converter
 * [Convert Town](https://convert.town/) - Online Text / Image Converter
-* [Docspal](https://www.docspal.com/) - Various Converters / 50 MB Image, Documents / 200 MB Video, Archive, Audio
-* [Better Converter](https://better-converter.com/) - Text-Focused Converters / 10 MB
-* [go4convert](https://go4convert.com/) - Online Document Converter / 100 MB
+* [Docspal](https://www.docspal.com/) - Various Converters / 50 MB Image, Documents / 200MB Video, Archive, Audio
+* [Better Converter](https://better-converter.com/) - Text-Focused Converters / 10MB
+* [go4convert](https://go4convert.com/) - Online Document Converter / 100MB
 
 ***
 
@@ -150,7 +150,7 @@
 
 * ⭐ **[SyncThing](https://syncthing.net/)** - Cross-Platform File Sync / [Tray Support](https://martchus.github.io/syncthingtray/) / [GitHub](https://github.com/syncthing/syncthing)
 * ⭐ **[FreeFileSync](https://freefilesync.org/)** - Open-Source File Sync
-* [MyPhoneExplorer](https://www.fjsoft.at/),[SyncFolder](https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US) - Phone and Desktop Sync
+* [MyPhoneExplorer](https://www.fjsoft.at/), [SyncFolder](https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US) - Phone and Desktop Sync
 * [allwaysync](https://allwaysync.com/) - File Sync Utility
 * [Resilio](https://www.resilio.com/individuals/) - P2P File Sync
 * [SmartFTP](https://www.smartftp.com/) - FTP File Sync
@@ -213,7 +213,7 @@
 
 ## ▷ PDF Tools
 
-* ⭐ **[Sejda](https://www.sejda.com/)** / [Unlock](https://rentry.co/FMHYBase64#sejda), [ILovePDF](https://www.ilovepdf.com/), [DigiPDF](https://digipdf.app/?lang=en_US), [PDF2Go](https://www.pdf2go.com/) or [SimplePDF](https://simplepdf.com/) - Online PDF Toolkits
+* ⭐ **[Sejda](https://www.sejda.com/)**, [ILovePDF](https://www.ilovepdf.com/), [DigiPDF](https://digipdf.app/?lang=en_US), [PDF2Go](https://www.pdf2go.com/) or [SimplePDF](https://simplepdf.com/) - Online PDF Toolkits
 * ⭐ **[PDFGear](https://www.pdfgear.com/)**, **[PDF24](https://www.pdf24.org/)**, [Foxit](https://www.foxit.com/pdf-reader/), [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://photown.github.io/private-pdf/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - Offline PDF Toolkits
 * [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Self-Hosted PDF Toolkit
 * [PDFGrep](https://pdfgrep.org/) or [⁠OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
