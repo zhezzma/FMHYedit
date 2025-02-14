@@ -761,24 +761,25 @@
 
 ## ▷ Downloading / Mengunduh
 
+* ⭐ **[Lendrive](https://lendrive.web.id/)** - Movies / Anime / Sub / Dub / 1080p / x265
 * [sontolfilm](https://sontolfilm.xyz/) - Movies / TV / Anime
 * [ngefilm21](https://www.ngefilm21.pw/) - Movies / TV / Anime / Use "Mirror"
 * [Kusonime](https://kusonime.com/) - Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/4A7RqFraZW)
 * [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime / Dub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
+* [Doronime](https://doronime.id/) - Anime / Sub / 1080p
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
 * [madrotter-treasure-hunt](https://madrotter-treasure-hunt.blogspot.com/) - Music
 
 ## ▷ Streaming / Menyiarkan
 
-* [sontolfilm](https://sontolfilm.xyz/) - Movies / TV / Anime
+* ⭐ **[OtakuDesu](https://otakudesu.cloud/)** - Anime / Sub / 720p
+* ⭐ **[sontolfilm](https://sontolfilm.xyz/)** - Movies / TV / Anime
 * [ngefilm21](https://www.ngefilm21.pw/) - Movies / TV / Anime
-* [anoBoy](https://anoboy.baby/) - Anime / Sub / 1080p
+* [anoBoy](https://ww1.anoboy.app/) - Anime / Sub / 1080p
 * [MyNimeku](https://www.mynimeku.com/) - Anime /Sub / 1080p
 * [Samehadaku](https://samehadaku.care/) - Anime / Sub / 1080p / [Telegram](https://t.me/samehadaku_care)
-* [OtakuDesu](https://otakudesu.cloud/) - Anime / Sub / 720p
-* [Kuramanime](https://kuramanime.boo/) - Anime / Sub / 720p
-* [Lesics](https://youtube.com/@LesicsIndo) - Sabins Civil Engineering
+* [Kuramanime](https://v6.kuramanime.boo/) - Anime / Sub / 720p
 * [Best Release](https://best-release.koisuru.web.id/) - Anime Release Info
 * [Silveryasha](https://db.silveryasha.id/) - Anime Subtitles
 * [Irama Nusantara](https://www.iramanusantara.org/en) - Music / [Downloader](https://irnus-dl.slickerius.com/)
@@ -1428,6 +1429,7 @@ Italian
 * [ontivi](https://ip.ontivi.net/) - Live TV
 * [Glaz.tv](https://glaz.tv/) - Live TV
 * [DomaTV](http://live.domatv.net/) - Live TV
+* [myfootball](https://myfootball.top/) - Live Football 
 * [Tancpol](https://tancpol.net/) - Music
 * [z3.fm](https://z3.fm/) - Music
 * [E:/Music/](https://vk.com/e_music) - Music
