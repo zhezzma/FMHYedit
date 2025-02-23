@@ -409,8 +409,8 @@
 
 ## ▷ Online Editors
 
+* ⭐ **[⁠wide.video](https://wide.video/)** / [Discord](https://discord.gg/Q54kW97yj5)
 * ⭐ **[Pikimov](https://pikimov.com/)** / Requires Chromium
-* ⭐ **[⁠wide.video](https://wide.video/)**
 * ⭐ **[Mastershot](https://mastershot.app/)** / Signup Required
 * [VideoInu](https://videoinu.com/)
 * [Clideo](https://clideo.com/)
