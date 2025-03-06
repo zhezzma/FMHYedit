@@ -34,7 +34,7 @@
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Apps](https://my.jdownloader.org/apps/)
 * ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager
 * ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / [GitHub](https://github.com/amir1376/ab-download-manager) / [Telegram](https://t.me/abdownloadmanager_discussion)
-* [Go Speed](https://gopeed.com/) - Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
+* [Go Speed](https://gopeed.com/) - Download Manager / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
 * [imFile](https://imfile.io/) - Download Manager / Updated Motrix Fork / [GitHub](https://github.com/imfile-io/imfile-desktop)
 * [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/)
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
@@ -140,7 +140,7 @@
 * ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encrypter
 * ⭐ **[age](https://github.com/FiloSottile/age)** - File Encrypter
 * [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Lightweight File Encrypter
-* [⁠gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encrypter
+* [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encrypter
 * [Hat](https://hat.sh/) - Browser-Based Encrypter
 * [Kryptor](https://www.kryptor.co.uk/) - File Encrypter
 
@@ -154,7 +154,7 @@
 * [allwaysync](https://allwaysync.com/) - File Sync Utility
 * [Resilio](https://www.resilio.com/individuals/) - P2P File Sync
 * [SmartFTP](https://www.smartftp.com/) - FTP File Sync
-* [rsync](https://rsync.samba.org) - Command-line File Sync / [GitHub](https://github.com/WayneD/rsync)
+* [rsync](https://rsync.samba.org) - Command-line File Sync / [GitHub](https://github.com/RsyncProject/rsync)
 * [Unison](https://github.com/bcpierce00/unison) - Bidirectional File Sync
 
 ***
@@ -270,7 +270,7 @@
 * [TransferNow](https://www.transfernow.net/en)
 * [Horizon Send](https://send.hrzn.cool/)
 * [Salad Room](https://saladroom.net/)
-* [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web)
+* [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop)
 * [sendfilesencrypted.com](https://sendfilesencrypted.com/)
 * [LIGHTNING SHARE](https://lightning-share.vercel.app/)
 * [rDrop](https://rdrop.link/)
@@ -387,8 +387,8 @@
 ## ▷ Cloud Managers
 
 * ⭐ **[Rclone](https://rclone.org/)** - Cloud Storage Manager
-* ⭐ **Rclone Tools** - [Guide](https://telegra.ph/Simple-rclone-usage-01-13) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Telegram](https://t.me/rclonexbot) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool)
-* ⭐ **[gclone](https://github.com/dogbutcat/gclone)** - Cloud Storage Manager / [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20)
+* ⭐ **Rclone Tools** - [Guide](https://rentry.co/simple-rclone-usage) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Telegram](https://t.me/rclonexbot) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool)
+* ⭐ **[gclone](https://github.com/dogbutcat/gclone)** - Cloud Storage Manager
 * ⭐ **[Air Explorer](https://airexplorer.net/en/)** - Cloud Storage Manager
 * ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser / [GitHub](https://github.com/iterate-ch/cyberduck)
@@ -416,7 +416,6 @@
 * [GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) or [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) / [GitHub](https://github.com/jsmsj/GdriveCloneBot) - Copy Google Drives
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive
-* [Google drive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - Google Drive Guide
 * [DriveRename](https://driverename.iblogbox.com/) - Bulk Google Drive File Rename
 * [Sharer](https://sharer.pw), [YuShare](https://yushare.my.id) or [GDToT](https://new10.gdtot.dad) - Google Drive File Sharing
 
