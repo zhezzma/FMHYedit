@@ -645,12 +645,11 @@
 * [deadbeef](https://deadbeef.sourceforge.io/)
 * [Swing](https://swingmx.com/) / [Telegram](https://t.me/+9n61PFcgKhozZDE0) / [GitHub](https://github.com/swingmx/swingmusic)
 * [Museeks](https://museeks.io/)
-* [Swing Music](https://swingmx.com/)
 * [Nora](https://github.com/Sandakan/Nora)
 * [Hyperchroma](https://hyperchroma.app/)
 * [Melodie](https://feugy.github.io/melodie/)
 * [Dopamine](https://digimezzo.github.io/site/)
-* [LED FX](https://www.ledfx.app/) - LED Music Sync
+* [LedFx](https://www.ledfx.app/) - LED Music Sync
 * [RockBox](https://www.rockbox.org/) - Custom Player for Audio Devices
 * [VinylEngine](https://www.vinylengine.com/) - Record Player / Vinyl Info
 
@@ -699,7 +698,7 @@
 * ⭐ **[WatZatSong](https://www.watzatsong.com/en)** - Song Identification Forum
 * [/r/NameThatSong](https://reddit.com/r/NameThatSong) - Song Identification Subreddit
 * [FlairMax](https://apps.microsoft.com/detail/9pdzvj34ztxg)
-* [Midomi](https://www.midomi.com/)
+* [SoundHound](https://www.soundhound.com/soundhound)
 * [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online)
 * [AudioTag](https://audiotag.info/)
 * [SampleSeek](https://www.sampleseek.co.uk/) - Find Sample Origins
@@ -741,7 +740,7 @@
 * [Oemer](https://github.com/BreezeWhite/oemer) - OMR Tool / [Colab](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb) / [Demo](https://breezewhite.github.io/oemer/)
 * [Sheet Music Scanner](https://sheetmusicscanner.com/) - Mobile OMR App
 * [music-reader](https://music-reader.com/) - Practice Reading Sheet Music
-* [Sound Slice](https://soundslice.com/) or [Nootka](https://nootka.sourceforge.io/) - Sheet Music Learning
+* [Sound Slice](https://soundslice.com/) or [Nootka](https://sourceforge.net/projects/nootka/) - Sheet Music Learning
 * [Nutkus](https://sourceforge.net/projects/nutkus/) - Notation Learning Game
 
 ***
