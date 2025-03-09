@@ -228,7 +228,7 @@
 * 🌐 **[Music Education Masterlist](https://rentry.co/FMHYBase64#music-education-masterlist)**
 * 🌐 **[Awesome Music Theory](https://github.com/vpavlenko/study-music)** - Music Theory Resources
 * 🌐 **[Music Outfitters](https://musicoutfitters.com/)** - Music Services / Information
-* ↪️ **[Sheet Music / Notation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sheet_music)**
+* ↪️ **[Sheet Music / Notation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sheet_music_.2F_notation)**
 * ⭐ **[Muted](https://muted.io/)**, **[Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)** / [2](https://openmusictheory.github.io/), [Chromatone](https://chromatone.center/), [Teoria](https://www.teoria.com/index.php), [SimplifyingTheory](https://www.simplifyingtheory.com/), [LightNote](https://www.lightnote.co/) or [Music Theory](https://www.musictheory.net/) - Music Theory
 * [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
 * [MusicKit](https://musickit.jull.dev/) or [Tone Generator](https://www.szynalski.com/tone-generator/) - Metronome, Tuner & Tone Generators
@@ -243,7 +243,7 @@
 * [Piano Trainer](https://zaneh.itch.io/piano-trainer), [Chord Nebula](https://chords.yottanami.com/), [sightread](https://sightread.dev/) or [PianoCheetah](https://pianocheetah.app) - Piano Practice
 * [Keyboard Connect](https://keyboardconnect.com/) - Keyboard Tutoring App
 * [TrueToneGuitar](https://www.truetoneguitar.co.uk/tools/guitar-practice-routine-generator), [Songsterr](https://www.songsterr.com/) / [Premium](https://rentry.co/FMHYBase64#songsterr), [FAChords](https://www.fachords.com/) or [ChordBook](https://chordbook.com/) - Guitar Tools
-* [FretFlip](https://fretflip.com/guitar-scales), [Oolimo](https://www.oolimo.com/en/index.php), [StringScales](https://stringscales.com/), [⁠My Fretboard Trainer](https://myfretboardtrainer.com/home/) or [GuitarScale](https://www.guitarscale.org/) - Learn Guitar Scales / Chords
+* [FretFlip](https://fretflip.com/guitar-scales), [Oolimo](https://www.oolimo.com/en/index.php), [StringScales](https://stringscales.com/), [My Fretboard Trainer](https://myfretboardtrainer.com/home/) or [GuitarScale](https://www.guitarscale.org/) - Learn Guitar Scales / Chords
 * [JamStart](https://jamstart.app/) - Spotify Chord Charts
 * [#fretflip](https://fretflip.com/) - Create / Print Guitar Scales & Chord Charts
 * [JustinGuitar](https://www.justinguitar.com/) or [Guitarsix](https://guitarsix.com/) - Guitar Lessons
@@ -421,7 +421,7 @@
 * ↪️ **[Math and Physics Books](https://rentry.co/FMHYBase64#math-and-physics-books)**
 * ⭐ **[phys](https://phys.org/)** - Latest / News / Article / Physics
 * ⭐ **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - Physics Lectures
-* ⭐ **[Bartosz Ciechanowski](https://ciechanow.ski/)**, [Isaac Physics](https://isaacphysics.org/) [PhysicsClassroom](https://www.physicsclassroom.com/), [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/), [MotionMountain](https://www.motionmountain.net/index.html) or [Splung](https://www.splung.com/) - Physics Lessons / Learning
+* ⭐ **[Bartosz Ciechanowski](https://ciechanow.ski/)**, [Isaac Physics](https://isaacphysics.org/), [PhysicsClassroom](https://www.physicsclassroom.com/), [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/), [MotionMountain](https://www.motionmountain.net/index.html) or [Splung](https://www.splung.com/) - Physics Lessons / Learning
 * ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/google-deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
 * [TIB AV-Portal](https://av.tib.eu/) - Science Videos
 * [PhysicsTravelGuide](https://physicstravelguide.com/) - Physics Explanations
@@ -570,7 +570,7 @@
 * [Formulia](https://play.google.com/store/apps/details?id=m4.enginary) - Engineering Formulas / Tools
 * [MatWeb](https://www.matweb.com/) - Materials Info Databse
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
-* [CESDB](https://www.cesdb.com/) - Civil Engineering Software
+* [⁠Lavteam](https://lavteam.org/) or [CESDB](https://www.cesdb.com/) - Engineering Software
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
 * [VisRo Robotics](https://vis-ro.web.app) - Robotics Learning / [Discord](https://discord.com/invite/TfwZ3hH2D2)
@@ -621,7 +621,8 @@
 
 ## ▷ Biology
 
-* ⭐ **[Wikispecies](https://species.wikimedia.org/)**, [A-Z Animal](https://a-z-animals.com/) or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Databases
+* ⭐ **[Wikispecies](https://species.wikimedia.org/)** or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Databases
+* ⭐ **[Animalia](https://animalia.bio/)** or [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia 
 * ⭐ **[OneZoom](https://www.onezoom.org/)** - Tree of Life Explorer
 * ⭐ **[Lost and Found Nature](https://www.lostandfoundnature.com/)** - Re-Discovered Animals / Plants
 * ⭐ **[Open Source Society University](https://github.com/ossu/bioinformatics)** - Bioinformatics Roadmap / [Discord](https://discord.gg/wuytwK5s9h)
@@ -714,7 +715,7 @@
 * 🌐 **[LexiLogos](https://www.lexilogos.com/english/index.htm)** - Multi-Language Dictionary Index
 * ↪️ **[Translation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
 * ⭐ **[Language Transfer](https://www.languagetransfer.org/)** - Language Learning Lectures
-* ⭐ **[Language Reactor](https://www.languagereactor.com/)**, [⁠LLPlayer](https://github.com/umlx5h/LLPlayer), [Trancy](https://www.trancy.org/) or [Easysubs](https://easysubs.cc/) - Learn Languages via Videos
+* ⭐ **[Language Reactor](https://www.languagereactor.com/)**, [LLPlayer](https://github.com/umlx5h/LLPlayer), [Trancy](https://www.trancy.org/) or [Easysubs](https://easysubs.cc/) - Learn Languages via Videos
 * ⭐ **[Readlang](https://readlang.com/)** - Learn a Language via Web Browsing
 * [Duolingo](https://rentry.co/FMHYBase64#duolingo) / [Tips](https://duome.eu/tips), [Memrise](https://rentry.co/FMHYBase64#memrise), [LingoDeer](https://www.lingodeer.com/) or [Busuu](https://rentry.co/FMHYBase64#busuu) - Language Learning Lessons
 * [Language Learners](https://forum.language-learners.org/) - Language Learning Forum / Community

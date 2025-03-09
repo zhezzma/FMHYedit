@@ -113,7 +113,7 @@
 * [distort-grid](https://github.com/snorpey/distort-grid) - Grid-Based Image Distortion
 * [Change Image Hue](https://www.imageonlinetools.com/change-image-hue) or [Tinter](https://tinter.uxie.io/) - Hue Editor
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/), [Ditherista](https://github.com/robertkist/ditherista/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering
-* [Fotosketcher](https://fotosketcher.com/) or [PhotoMaker](https://huggingface.co/spaces/TencentARC/PhotoMaker) [Stylized](https://huggingface.co/spaces/TencentARC/PhotoMaker-Style) - Turn Photos into Artwork
+* [Fotosketcher](https://fotosketcher.com/) or [PhotoMaker](https://huggingface.co/spaces/TencentARC/PhotoMaker), [Stylized](https://huggingface.co/spaces/TencentARC/PhotoMaker-Style) - Turn Photos into Artwork
 * [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGANv3) - Turn Photos into Anime
 * [AIDraw](https://ai-draw.tokyo/en/) - Turn Photos into Line Art
 * [Rutt-Etra-Izer](https://airtightinteractive.com/demos/js/ruttetra/) - Scanned-line Images
@@ -722,7 +722,7 @@
 
 * ⭐ **[Postimages](https://postimages.org/)** - 32MB / Forever
 * [Imgur](https://imgur.com/) - 20MB Image / 200MB Animated / Forever / [Upload Limits](https://help.imgur.com/hc/en-us/articles/26511665959579-What-files-can-I-upload-Is-there-a-size-limit)
-* Imgur Tools - [Frontends](https://git.voidnet.tech/kev/imgin), [2](https://codeberg.org/rimgo/rimgo), [3](https://codeberg.org/3np/rimgu)
+* Imgur Tools - [Frontends](https://codeberg.org/rimgo/rimgo), [2](https://codeberg.org/3np/rimgu)
 * [tixte](https://tixte.com/) - 15GB Storage Total / Forever / Sign-Up Required
 * [lookimg](https://lookimg.com/) - 20MB / Forever / Sign-Up Required
 * [Horizon](https://horizon.pics/) - 75MB (500MB Storage) / Forever / Sign-Up Required
