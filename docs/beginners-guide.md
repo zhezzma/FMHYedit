@@ -35,7 +35,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 ### Movies / Shows
 
 * **Streaming: [Cineby](https://www.cineby.app/) / [Freek](https://freek.to/) / [movie-web Instances](https://erynith.github.io/movie-web-instances/) + [Setup Guide + 4K](https://vimeo.com/1059834885/c3ab398d42) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web-extension)**
-* **Downloading: [Pahe](https://pahe.ink/) + [Ad-Bypass](https://greasyfork.org/en/scripts/443277) / [PSARips](https://psa.wf/)**
+* **Downloading: [Drives / Directories](https://fmhy.net/videopiracyguide#drives-directories)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
 * **Drama Streaming: [KissAsian](https://kissasian.video/)**
@@ -72,7 +72,7 @@ For mobile we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browse
 
 ### Reading
 
-* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Bookracy](https://bookracy.ru) / [Library Genesis](https://libgen.li/) / [Z-Library](https://z-lib.gs/) / [Mobilism](https://forum.mobilism.org)**
+* **Downloading: [Anna's Archive](https://annas-archive.org/) / [Bookracy](https://bookracy.ru) / [Library Genesis](https://libgen.rs/) / [Z-Library](https://z-lib.gs/) / [Mobilism](https://forum.mobilism.org)**
 * **Audiobooks: [AudiobookBay](https://audiobookbay.lu/) / [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [Tokybook](https://tokybook.com/)**
 * **Manga: [ComicK](https://comick.io/) / [Weeb Central](https://weebcentral.com/) / [MangaDex](https://mangadex.org/)**
 * **Comics: [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
