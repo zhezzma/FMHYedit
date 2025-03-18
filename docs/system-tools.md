@@ -374,9 +374,9 @@
 # ► Customization
 
 * 🌐 **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)**, [Windows-Ricing](https://github.com/winthemers/wiki), or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Ricing Resources
-* ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Indexes
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Discord](https://discord.com/invite/rainmeter)
 * ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#openrbg-beta), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RGBSync](https://rgbsync.com/), [SignalRGB](https://www.signalrgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
+* ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Indexes
 * Styled Themes - [Anime](https://winmoes.com/) / [Modern Style](https://www.vinstartheme.com/) / [MacOS Style](https://redd.it/pd5ha6), [2](https://github.com/Runixe786/Macified-Windows) / [Old School Style](https://winclassic.boards.net/), [2](https://forum.spacehey.com/topic?id=94545)
 * [VirtualCustoms](https://virtualcustoms.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities
 * [Desktops](https://deskto.ps/) - Customization Showcases
@@ -387,7 +387,7 @@
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) or [CursorOS](https://cursor.design/) - MacOS Style Cursors
 * [Mechvibes](https://mechvibes.com/) / [GitHub](https://github.com/hainguyents13/mechvibes) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Sound Effects
 * [ElectricSheep](https://electricsheep.org/) or [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Screensavers
-* [FolderMarker](https://foldermarker.com/), [⁠Flaired Folder](https://flaired-folders.vercel.app/), [CustomFolder](https://www.gdzsoft.com/) - Custom Folder Icons
+* [FolderMarker](https://foldermarker.com/), [Flaired Folder](https://flaired-folders.vercel.app/), [CustomFolder](https://www.gdzsoft.com/) - Custom Folder Icons
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - Visual Style Editor
 * [StartIsBack](https://www.startisback.com/) or [StartAllBack](https://www.startallback.com/) - Start Menu Customization
@@ -410,7 +410,7 @@
 
 * ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9) or **[Catppuccin](https://catppuccin.com/)** / [Discord](https://discord.gg/r6Mdz5dpFc) - Custom App Themes
 * ⭐ **[terminal.sexy](https://terminal.sexy/)**, [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
-* [Rosé Pine](https://rosepinetheme.com/) / [Discord](https://discord.gg/r6wf35KVJW), [Aura Theme](https://github.com/daltonmenezes/aura-theme),  or [theme.park](https://theme-park.dev/) - Custom App Themes
+* [Rosé Pine](https://rosepinetheme.com/) / [Discord](https://discord.gg/r6wf35KVJW), [Aura Theme](https://github.com/daltonmenezes/aura-theme), or [theme.park](https://theme-park.dev/) - Custom App Themes
 * [Totally Awesome List](https://forum.spacehey.com/topic?id=94545) - Old School App Themes
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon Terminal Themes
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - System Monitor Themes

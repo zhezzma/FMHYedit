@@ -13,7 +13,7 @@
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
 * ⭐ **[Custom YouTube Music](https://th-ch.github.io/youtube-music/)** - YouTube Music Client / [Themes](https://github.com/kerichdev/themes-for-ytmdesktop-player/)
 * ⭐ **[SpoTube](https://spotube.krtirtho.dev/)** - Spotify Client / [GitHub](https://github.com/KRTirtho/spotube)
-* [Deezer](https://www.deezer.com/) - Streaming
+* [Deezer](https://www.deezer.com/) - Streaming / [Extra Features](https://rentry.co/FMHYBase64#dzunlock)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Client
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
@@ -203,7 +203,7 @@
 * [Moon Phase Radio](https://www.moonphaseradio.com/) - Lofi Radio
 * [Ambient Sleeping Pill](https://ambientsleepingpill.com/) - Lofi Radio
 * [Ambicular](https://ambicular.com/) - Lofi Radio
-* [Lofi Music](https://lofimusic.app/) - 
+* [Lofi Music](https://lofimusic.app/) - Lofi Radio
 * [FreeCodeCamp](https://coderadio.freecodecamp.org/) - Lofi Radio
 * [Loofi](https://loofi.netlify.app/) - Lofi Radio
 * [lofi.cafe](https://www.lofi.cafe/) - Lofi Radio

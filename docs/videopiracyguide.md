@@ -6,7 +6,7 @@
 
 # ► Streaming Sites
 
-* **Note** - Check our [site grading system](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) to see scores for each site, and their respective pros & cons. 
+* **Note** - Check our [site grading system](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading) to see scores for each site, and their respective pros & cons.
 
 ***
 
@@ -86,7 +86,7 @@
 * [ShowBox](https://www.showbox.media/) - Movies / TV / Anime / / [4K Guide](https://rentry.co/febbox), [2](https://pastebin.com/raw/jtwMfCcq) / Use Throwaway Gmail
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / 480p / Auto-Next / [Clones](https://proxymirrorlookmovie.github.io/)
 * [YesMovie](https://yesmovies.ag/), [2](https://solarmovieru.com/home.html) - Movies / TV / 720p
-* [UniqueStream](https://uniquestream.net/)  - Movies / TV / Anime / 720p
+* [UniqueStream](https://uniquestream.net/) - Movies / TV / Anime / 720p
 * [FireFlix](https://fireflix.fun/) - Movies / TV / Anime / [Discord](https://discord.gg/aMEGepsr5A)
 * [FshareTV](https://fsharetv.co/) - Movies
 * [SpenFlix](https://watch.spencerdevs.xyz/) - Movies / TV / [Discord](https://discord.gg/RF8vMBRtTs)
@@ -224,6 +224,7 @@
 * [Einthusan](https://einthusan.tv/intro/) - Movies
 * [KissKH](https://kisskh.co/) - TV / Movies
 * [DramaHood](https://dramahood.top/), [2](https://kshow123.mom/) - TV / Movies
+* [KissKH.org](https://kisskh.run/), [2](https://kisskh.net.pl/) - TV
 * [KDramaHood](https://kdramahood.com/home2/) - TV / Movies
 * [RiveStream](https://rivestream.org/kdrama) - TV / Movies
 * [DramaFire](https://dramafire.com.pl/) - TV / Movies
@@ -235,7 +236,6 @@
 * [Dramacool.org](https://dramacooll.com.de/) - TV / Movies
 * [DramaCool.bg](https://dramacool.bg/) - TV / Movies
 * [dramacool](https://dramacool.com.cv/), [2](https://asianc.org.es/) - TV / Movies
-* [KissKH.org](https://kisskh.org.es/) - TV
 * [OnDemandChina](https://www.ondemandchina.com/) - TV / Movies
 
 ***
@@ -463,6 +463,7 @@
 * [MMA Streams](https://tonight.mmastreams.cc/) - MMA / Stream Aggregator
 * [StarLive](https://starlive.click/) - Rare MMA Events
 * [FootyBite](https://www1.footybite.cc/) - Football
+* [footybite.bz](https://footybite.bz/) - Football
 * [SoccerOnline](https://socceronline.me/) - Football
 * [Streamtonfoot](https://streamtonfoot.vercel.app/) - Football
 * [FlickSoccer](https://flicksoccer.com/) - Football
@@ -677,7 +678,7 @@
 * [One Eighty Eight](https://rentry.co/FMHYBase64#one-eighty-eight) - Movies / TV
 * [GDex](https://rentry.co/FMHYBase64#gdex) - Movies / TV
 * [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies / Telegram
-* [⁠SeriesBayX](https://t.me/SeriesBayX) - TV / Telegram
+* [SeriesBayX](https://t.me/SeriesBayX) - TV / Telegram
 * [SolidarityCinema](https://www.solidaritycinema.com/) - Movies
 * [Sinflix](https://rentry.co/FMHYBase64#sinflix) - Asian Drama
 
