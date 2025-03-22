@@ -453,7 +453,7 @@
 * 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
 * ⭐ **[jnovels](https://jnovels.com/)** or [MP4DIRECTS](https://mp4directs.com/) / Allows Downloads
-* [⁠Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
+* [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
 * [Just Light Novels](https://www.justlightnovels.com/) / Allows Downloads
 * [Web Novel Pub](https://www.webnovelpub.pro/)
 * [LightNovelHeaven](https://lightnovelheaven.com), [AllNovel](https://allnovel.org), [NovelFull](https://novelfull.com/) or [NOVGO](https://novgo.net/)
@@ -715,7 +715,7 @@
 * ⭐ **[ResearchGate](https://www.researchgate.net/)** - Research Papers / Publications
 * ⭐ **[SciLit](https://www.scilit.com/)** - Research Papers / Publications
 * ⭐ **[Mendeley](https://www.mendeley.com/)** - Research Papers / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
-* ⭐ **[PapersWithCode](https://paperswithcode.com/)**, [Catalyzex](https://www.catalyzex.com/), [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/), [AI RND](https://www.ai-rnd.com/) or [Daily Papers](https://huggingface.co/papers) - AI Research Papers
+* [Lumina](https://www.lumina.sh/) - AI Research Papaer Search / [Discord](https://discord.com/invite/YSsSK2g3rY)
 * [BulletPapers](https://www.bulletpapers.ai/) - Paper Summaries
 * [Springer](https://link.springer.com/) - Research Papers / Publications
 * [ScienceDirect](https://www.sciencedirect.com/) - Research Papers
@@ -761,6 +761,7 @@
 * [biorxiv](https://www.biorxiv.org/) - Biology Preprints
 * [Bioline](https://www.bioline.org.br/) - Bioscience Journals
 * [SSRN](https://www.ssrn.com/) - Early Stage Research Papers
+* [PapersWithCode](https://paperswithcode.com/), [Catalyzex](https://www.catalyzex.com/), [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/), [AI RND](https://www.ai-rnd.com/) or [Daily Papers](https://huggingface.co/papers) - AI Research Papers
 * [CensorBib](https://censorbib.nymity.ch/) or [censoredplanet.org](https://censoredplanet.org/) - Internet Censorship Research Papers
 * [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.com/) - Find Connected Academic Papers
 
