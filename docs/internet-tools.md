@@ -161,6 +161,7 @@
 * [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk) - RSS Reader
 * [Miniflux](https://miniflux.app/) - RSS Reader
 * [Photon](https://git.sr.ht/~ghost08/photon) - RSS Reader
+* [⁠Feed Flow](https://www.feedflow.dev/) - RSS Reader / [GitHub](https://github.com/prof18/feed-flow)
 * [selfoss](https://selfoss.aditu.de/) - RSS Reader
 * [gorss](https://github.com/Lallassu/gorss) - RSS Reader
 * [NewsPipe](https://github.com/cedricbonhomme/newspipe) - RSS Reader
@@ -485,7 +486,7 @@
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
-* [MailTickingl](https://www.mailticking.com/) - Gmail / 2 Domains
+* [MailTicking](https://www.mailticking.com/) - Gmail / 2 Domains
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
 * [TempMail.Plus](https://tempmail.plus/en/) - Forever / 7 Days / 9 Domains / [.onion](http://tempmail4gi5qfqzjs2bxo3wf6eurpelxmior6ohzq5vw7aeay67wiyd.onion/)
 * [instant-email.org](https://instant-email.org/) - Forever / 3 Days / 7 Domains
