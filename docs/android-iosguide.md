@@ -1260,7 +1260,7 @@
 * [Streamer](https://github.com/StreamerApp/Streamer) - Movies / TV
 * [Streamyfin](https://github.com/streamyfin/streamyfin) or [Swiftfin](https://apps.apple.com/app/id1604098728) - Jellyfin Client
 * [Tubi](https://apps.apple.com/app/id886445756) - Movies / TV
-* [⁠Channels Pro](https://apps.apple.com/us/app/channels-pro-iptv-player/id1491605049) - Live Sports / Insert "veve.pro" 
+* [Channels Pro](https://apps.apple.com/us/app/channels-pro-iptv-player/id1491605049) - Live Sports / Insert "veve.pro"
 * [Found TV](https://apps.foundtv.com/) - Found Footage Movies / Signup Required
 * [Viki](https://apps.apple.com/app/id445553058) - Asian Drama
 * [TVBAnywhere](https://apps.apple.com/app/id1191642382) - Chinese Drama
@@ -1271,7 +1271,7 @@
 
 ## ▷ iOS Anime
 
-* ⭐ **[Sulfur](https://apps.apple.com/app/sulfur/id6742741043)** - Extension-Based / [TestFlight](https://testflight.apple.com/join/qMUCpNaS) / [Discord](https://discord.gg/XR3SrmUbpd) / [GitHub](https://github.com/cranci1/Sora/)
+* ⭐ **[Sulfur](https://apps.apple.com/app/sulfur/id6742741043)** - Extension-Based / [Modules](https://sora.jm26.net/library/) / [TestFlight](https://testflight.apple.com/join/qMUCpNaS) / [Discord](https://discord.gg/XR3SrmUbpd) / [GitHub](https://github.com/cranci1/Sora/)
 * [Ketsu](https://ketsu.app/download.html) / [Discord](https://discord.gg/gjcy6MQ)
 * [MyAnimeList Client](https://apps.apple.com/app/id1469330778) or [Kitsune](https://apps.apple.com/app/id6466716447) - MyAnimeList Clients
 * [Otraku](https://github.com/lotusprey/otraku), [MyAnilist](https://apps.apple.com/us/app/myanilist/id741257899), [Ryuusei](https://ryuusei.moe/), [AniHyou](https://apps.apple.com/app/id1635777325) or [AniHyou](https://axiel7.github.io/anihyou) / [GitHub](https://github.com/axiel7/AniHyou-android) - AniList Apps

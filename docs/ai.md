@@ -11,6 +11,7 @@
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** or [Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md) - Online LLM Indexes
 * ⭐ **[ChatGPT](https://chatgpt.com/)** - GPT-4o / o3-mini Chatbot / [/r/OpenAI](https://www.reddit.com/r/OpenAI/) / [Subreddit](https://www.reddit.com/r/ChatGPT/) / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - Alibaba's Chatbots
+* ⭐ **[Grok](https://grok.com/)** - X.com Chatbot / Grok (Unlimited) / Grok 3 (10 Hourly) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - R1 + Deepseek V3 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.gg/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Gemini](https://gemini.google.com/)** or [AI Studio](https://aistudio.google.com/app/prompts/new_chat) - Google's Chatbot / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o / OpenAI o1 / No Sign-Up
@@ -18,7 +19,6 @@
 * ⭐ **[Mistral](https://chat.mistral.ai)** - Multiple Chatbots / [Discord](https://discord.gg/mistralai)
 * [Claude](https://claude.ai/) - Anthropic's Chatbot / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/zkrBaqytPW)
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / o3-mini / No Sign-Up
-* [Grok](https://grok.com/) - X.com Chatbot / Grok (Unlimited) / Grok 3 (10 Hourly) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [ChatK](https://chat.oaichat.cc/) or [LobeChat](https://lobechat.com/chat) / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat) - GPT-4o / Multiple Chatbots
 * [FFA Chat](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Multiple Chatbots / No Sign-Up
@@ -425,7 +425,7 @@
 * [TTSMaker](https://ttsmaker.com/) / No Sign-Up
 * [Tortoise TTS](https://github.com/neonbjb/tortoise-tts) / No Sign-Up
 * [Bark](https://huggingface.co/spaces/suno/bark) / No Sign-Up / [Colab](https://colab.research.google.com/drive/1eJfA2XUa-mXwdMy7DoYKVYHI1iTd9Vkt?usp=sharing) / [GitHub](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
-* [TTSOpenAI](https://ttsopenai.com/) / No Sign-Up
+* [TTSOpenAI](https://ttsopenai.com/) or [OpenAI.fm](https://www.openai.fm/) / No Sign-Up / OpenAI's Bot
 * [AI Speaker](https://ai-speaker.net/) / No Sign-Up
 * [edge-tts](https://github.com/rany2/edge-tts) / No Sign-Up / Python Module
 * [Voices](https://www.hailuo.ai/audio/)
