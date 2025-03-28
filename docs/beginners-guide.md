@@ -26,7 +26,9 @@ For mobile **[AdGuard Premium](https://fmhy.net/android-iosguide#android-adblock
 
 We recommend **[Firefox](https://www.mozilla.org/en-US/firefox/new/)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**, or **[Brave](https://brave.com/)** if you prefer Chromium.
 
-For mobile we recommend **[Brave](https://brave.com/)**, **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)**, **[Cromite](https://github.com/uazo/cromite)** or **[Orion](https://kagi.com/orion/)** for iOS.
+For Android  we recommend **[Brave](https://brave.com/)**, **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)** or **[Cromite](https://github.com/uazo/cromite)**.
+
+ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Safari + [Adguard](https://adguard.com/en/adguard-ios/overview.html).
 
 !!!note We recommend looking through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
 
@@ -34,7 +36,7 @@ For mobile we recommend **[Brave](https://brave.com/)**, **[Firefox](https://www
 
 ### Movies / Shows
 
-* **Streaming: [XPrime](https://xprime.tv/) / [Vidbox](https://vidbox.to/) / [Rive](https://rivestream.org/)**
+* **Streaming: [XPrime](https://xprime.tv/) / [Hexa](https://hexa.watch/) / [Rive](https://rivestream.org/)**
 * **Torrenting: [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [Sportsurge](https://v2.sportsurge.net/home4/)**
 * **Drama Streaming: [KissAsian](https://kissasian.video/)**
@@ -55,7 +57,7 @@ For mobile we recommend **[Brave](https://brave.com/)**, **[Firefox](https://www
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
 * **Downloading: [lucida](https://lucida.to/) / [Soulseek](https://slsknet.org/)**
-* **Mobile: [xManager](https://www.xmanagerapp.com/) / [OuterTune](https://github.com/OuterTune/OuterTune) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
+* **Mobile: [ReVanced Manager](https://revanced.app/) (Android) / [OuterTune](https://github.com/OuterTune/OuterTune) (Android) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***
