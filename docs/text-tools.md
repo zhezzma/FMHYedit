@@ -119,9 +119,10 @@
 * 🌐 **[DecodeUnicode](https://decodeunicode.org/)** - Unicode Decoding Database
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text / [GitHub](https://github.com/gchq/CyberChef)
 * ⭐ **[Base64 Decode](https://www.base64decode.org/)** or [Base64 Editor](https://nimadez.github.io/base64/) - Encode / Decode Base64
+* ⭐ **[Auto Decoder](https://greasyfork.org/en/scripts/485772)** - Auto-Decode B64 Links on Pastebins
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool
 * [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
-* [cryptii](https://cryptii.com/), [DenCode](https://dencode.com/) - Text / URL Encoding
+* [cryptii](https://cryptii.com/) or [DenCode](https://dencode.com/) - Text / URL Encoding
 * [Coder](https://www.den4b.com/tools/coder) - Text / File / URL Encoding
 * [Online Tools](https://emn178.github.io/online-tools/index.html) - Text / URL Encoding and Decoding
 * [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
@@ -485,8 +486,8 @@
 * ⭐ **[Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d)** - Multi-Site Font Search
 * ⭐ **[Font Piracy 101](https://rentry.co/FontPiracy)** - Font Download Guide
 * ⭐ **[Font Drives](https://rentry.co/FMHYBase64#font-collections)**
+* ⭐ **[BeFonts](https://befonts.com/)**
 * [Windows Fonts](https://wfonts.com/)
-* [BeFonts](https://befonts.com/)
 * [Free Fonts Family](https://freefontsfamily.org/)
 * [Cufon Fonts](https://www.cufonfonts.com/)
 * [FontsFree](https://fontsfree.net)

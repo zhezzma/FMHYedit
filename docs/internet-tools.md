@@ -501,6 +501,7 @@
 * [Adguard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html) - 7 Days / 1 Day / 1 Domain
 * [Tempmailo](https://tempmailo.com/) - 2 Days / 2 Days / N/A
 * [Vmail.DEV](https://vmail.dev/) - 1 Day / 1 Day / 2 Domains
+* [TempMail.love](https://tempmail.love/) - 1 Day / 1 Day / 1 Domain
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
 * [BottleMail](https://bottlemail.org/) - 14 Days / 1 Domain
 * [TemporaryMail.com](https://temporarymail.com/) - 6 Hours / 6 Hours / 7 Domains
@@ -617,6 +618,7 @@
 * ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
 * ⭐ **[Zoom WE](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#zoom-page-addons)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * ⭐ **[ScrollAnywhere](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#scrollanywhere-addons)** - Improves Scrolling Functionality
+* ⭐ **[Auto Tab Discard](https://add0n.com/tab-discard.html)** or [Tab Wrangler](https://github.com/tabwrangler/tabwrangler) - Discard Inactive Tabs
 * ⭐ **[Clipboard2File](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#clipboard2file-addons)** - Upload Images from Clipboard
 * ⭐ **[Redirector](https://einaregilsson.com/redirector/)** - Page Redirector
 * [CRX Viewer](https://robwu.nl/crxviewer/) - View Extension Source Code
@@ -629,7 +631,6 @@
 * [Custom Scrollbars](https://addons.wesleybranton.com/addon/custom-scrollbars/) - Custom Browser Scrollbars
 * [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch Between Current & Recently Closed Tabs
 * [User Agent Switcher](https://webextension.org/listing/useragent-switcher.html) - Switch Your User-Agent
-* [Auto Tab Discard](https://add0n.com/tab-discard.html) or [Tab Wrangler](https://github.com/tabwrangler/tabwrangler) - Discard Inactive Tabs
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
 * [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation

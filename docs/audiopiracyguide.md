@@ -122,7 +122,7 @@
 * ⭐ **[Drive n Listen](https://drivenlisten.com/)** - Radio Driving Simulators
 * [iHeartRadio](https://www.iheart.com/), [Mixcloud](https://www.mixcloud.com/), [myTuner](https://mytuner-radio.com/), [TuneIn](https://tunein.com/) or [Zeno](https://zeno.fm/) - Podcasts / Radio
 * [Archive.org](https://archive.org/details/audio?&sort=-downloads&page=1) - News / Classic Radio / Podcasts
-* [Dumb Old Time Radio](https://www.dumb.com/oldtimeradio/), [Relic Radio](https://www.relicradio.com/) or [Old Time Radio](https://oldtime.radio/) - Classic Radio
+* [Relic Radio](https://www.relicradio.com/) or [Old Time Radio](https://oldtime.radio/) - Classic Radio
 * [Old Time Radio Downloads](https://www.oldtimeradiodownloads.com/) - Classic Radio Downloads
 * [Braggoscope](https://www.braggoscope.com/) - BBC In Our Time Archive
 * [AudioFilesDrive](https://t.me/AudioFilesDrive) - Radio Drama Downloads
@@ -826,7 +826,7 @@
 * [Roland50.studio](https://roland50.studio/) or [Acid Machine 2](https://errozero.co.uk/acid-machine/) - Drum Machine / TB-303 Bass Synth
 * [Efflux](https://www.igorski.nl/application/efflux/), [OnlineSequencer](https://onlinesequencer.net/) or [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/) - Online Sequencers
 * [Sequencer](https://sequencer.henryfellerhoff.com/), [Draw Audio](https://draw.audio/) or [DrawBeats](https://drawbeats.com/) - Scale Sequencers
-* [Petaporon](https://pixwlk.itch.io/petaporon) - Piano Sequencer / [Instrument Editor](https://pixwlk.itch.io/petaporon-editor)
+* [Petaporon](https://pixwlk.itch.io/petaporon) or [Pianoboi](https://pianoboi.site/) - Piano Sequencers / [Instrument Editor](https://pixwlk.itch.io/petaporon-editor)
 * [AudioMass](https://audiomass.co/) - Online Editor
 * [editor.audio](https://editor.audio/) - Online Editor
 * [TwistedWave](https://twistedwave.com/online) - Online Editor
