@@ -461,7 +461,6 @@
 * [JokerTV](https://jokertv.ru/) - Live Football
 * [remontadatv](https://remontadatv.ru/), [2](https://linktr.ee/streamonsport) - Live Football
 * [Doc4U](https://doc4u.top/) - Documentaries
-* [VoirCartoon](https://voircartoon.com/) - Cartoons / Dub / 720p
 * [CatoonHub](https://catoonhub.com/) - Cartoons / Dub / 720p / [Discord](https://discord.com/invite/M7gRTuXc6d)
 * [Lesics](https://youtube.com/@LesicsFR) - Sabins Civil Engineering
 * [Grafikart](https://grafikart.fr/) - Programming Courses
@@ -584,7 +583,6 @@
 * [gamatotv](https://gamatotv.info/) - Movies / TV
 * [movio](https://movio.club/) - Movies / TV
 * [greek-flix](https://greek-flix.com/) - Movies / TV
-* [gamatomovies1](https://gamatomovies1.gr/) - Movies / TV
 * [tainiesonline](https://tainiesonline.top/) - Movies / TV
 * [tainio-mania](https://tainio-mania.online), [2](https://tenies-online.best/), [3](https://voody-online.com/), [4](https://moomza.com/) - Movies / TV
 * [gamatomovies](https://gamatomovies.info/) - Movies / TV
