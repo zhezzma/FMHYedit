@@ -593,7 +593,7 @@
 * [BookGoldMine](https://www.bookgoldmine.com/)
 * [BitDL](https://rentry.co/FMHYBase64#bitdl)
 * [SuperKuh](http://erewhon.superkuh.com/library/)
-* [Non_Fic](https://vk.com/non_fic)
+* [Non-Fiction](https://vk.com/non_fic)
 * [FreePLRDownloads](https://freeplrdownloads.com/)
 * [E-Books Directory](https://www.e-booksdirectory.com/)
 * [Wikiversity](https://www.wikiversity.org/) - Learning Resources, Guides, Quizzes, Tools & More
@@ -610,7 +610,7 @@
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
 * [JEEBooksPDF](https://m.youtube.com/c/JEEBooksPDF) - JEE Material / [Telegram](https://telegram.me/jeebookspdf) / Downloads in Descriptions
 * [ck12](https://www.ck12.org/) - Interactive CK-12
-* [premium_ebooks](https://t.me/premium_ebooks) - Exam Books
+* [Bookishfrenzy](https://t.me/premium_ebooks) - Books / Exam Books
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - Online University Libraries
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - Academic Repository Search
 * [IntechOpen](https://www.intechopen.com/) - Science
@@ -770,7 +770,6 @@
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
 * ⭐ **[arXiv](https://arxiv.org/)** - Science / Math / Physics / [Search](https://searchthearxiv.com/), [2](https://papermatch.mitanshu.tech/) / [Chatbot](https://www.alphaxiv.org/), [2](https://explainarxiv.org/), [3](https://github.com/evanhu1/talk2arxiv) / [Mobile](https://github.com/dagmawibabi/ScholArxiv)
 * ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
-* ⭐ **[STC](https://libstc.cc/)** - Document / Article Text Search
 * ⭐ **[Nexus search](https://t.me/nexus_search/94)** - Science / Articles
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
 * [Heystacks](https://heystacks.com/) - Public Google Docs
@@ -813,7 +812,7 @@
 * [NAP](https://nap.nationalacademies.org/) - Reports
 * [WikiLeaks](https://wikileaks.org/) - Leaked Documents / [Index](https://file.wikileaks.org/)
 * [Cryptome](https://cryptome.org/) - Leaked Documents
-* [snowden-archive](https://github.com/iamcryptoki/snowden-archive) - Leaked Snowden Documents
+* [Snowden Archive](https://github.com/iamcryptoki/snowden-archive) - Leaked Snowden Documents
 * [Google Leaks](https://www.zachvorhies.com/google_leaks/) - Leaked Google Documents
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
 * [The American Presidency Project](https://www.presidency.ucsb.edu/) - Presidential Documents
@@ -836,7 +835,7 @@
 * [iFixIt](https://www.ifixit.com/) - Repair Manuals
 * [Restarters](https://wiki.restarters.net/) - Device Repair Wiki / Guides
 * [WonderHowTo](https://www.wonderhowto.com/) - Tech How-Tos
-* [manned.org](https://manned.org/) - Operating System Manuals
+* [Manned.org](https://manned.org/) - Operating System Manuals
 * [Exploitee.rs](https://www.exploitee.rs/) - Device Exploitation Wiki
 * [JDMFSM](https://jdmfsm.info/Auto/), [Charm](https://charm.li/), [CarPDFManual](https://www.carpdfmanual.com/) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
 * [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
@@ -902,7 +901,7 @@
 * [Nevix](https://nevix.com/) - Manga / Social Media
 * [Kitsu](https://kitsu.io/) - Manga
 * [Mangaki](https://mangaki.fr/) - Manga Recommendations
-* [spin.moe](https://spin.moe/) - Find Random Manga
+* [Spin.moe](https://spin.moe/) - Find Random Manga
 * [Anime-Planet](https://anime-planet.com/) - Manga
 * [kenmei](https://www.kenmei.co/) - Manga / [Discord](https://discord.gg/XeTFtYW)
 * [AllManga](https://allmanga.to/) - Manga / [Discord](https://discord.gg/YbuYYUwhpP)
@@ -924,7 +923,7 @@
 * ⭐ **[Spreeder](https://www.spreeder.com/app.php?intro=1)**, [BR Script](https://greasyfork.org/en/scripts/465635), [PlayText](https://playtext.app/), [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation), [Tailwind BR](https://crisanlucid.github.io/vite-react-tailwind-bionic-reading/) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
 * ⭐ **[papeer](https://papeer.tech/)** / [GitHub](https://github.com/lapwat/papeer) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
-* [ebook-converter-bot](https://t.me/ebook_converter_bot) - Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)
+* [eBook Converter Bot](https://t.me/ebook_converter_bot) - Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)
 * [CrowBook](https://github.com/crowdagger/crowbook) - Markdown to EPUB Converter
 * [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle
 * [Libby](https://libbyapp.com/) - Library Search / [Downloader](https://github.com/bookbonobo/libby-download-extension)
