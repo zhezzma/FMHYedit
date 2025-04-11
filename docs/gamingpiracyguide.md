@@ -244,10 +244,9 @@
 * ⭐ **[No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROMs
 * ⭐ **[ROM Heaven](https://romheaven.com/)**, [2](https://romheaven.su) - ROMs
 * ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
-* ⭐ **[RetroGameTalk](https://retrogametalk.com/)** - ROMs / [Discord](https://cdromance.org/discord)
+* ⭐ **[RetroGameTalk](https://retrogametalk.com/)**, [ROMhacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
 * ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiUSBHelper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * ⭐ **[Skraper](https://www.skraper.net/)** - ROM Cover / Metadata Scraper
-* [ROMhacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [Vimms Lair](https://vimm.net/) - Emulators / ROMs
 * [AliceISO](https://alice.al/) - ROMs
@@ -262,7 +261,7 @@
 * [Arquivista ROMs](https://rentry.co/FMHYBase64#arquivista) - ROMs
 * [FinalBurn Neo](https://rentry.co/FMHYBase64#finalburn-neo) - ROMs / Zip
 * [Romsie](https://roms2000.com/) - Emulators / ROMs
-* [⁠Retro Vault](https://www.retrospot.net/vault/) - Emulators / ROMs
+* [Retro Vault](https://www.retrospot.net/vault/) - Emulators / ROMs
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
 * [Romsever](https://romsever.com) - Emulators / ROMs
 * [ROMsGames](https://www.romsgames.net/roms/) - Emulators / ROMs

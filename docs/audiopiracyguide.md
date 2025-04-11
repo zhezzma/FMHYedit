@@ -13,7 +13,7 @@
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
 * ⭐ **[Custom YouTube Music](https://th-ch.github.io/youtube-music/)** - YouTube Music Client / [Themes](https://github.com/kerichdev/themes-for-ytmdesktop-player/)
 * ⭐ **[SpoTube](https://spotube.krtirtho.dev/)** - Spotify Client / [GitHub](https://github.com/KRTirtho/spotube)
-* [Deezer](https://www.deezer.com/) - Streaming / [HiFi Features]](https://rentry.co/FMHYBase64#dzunlock)
+* [Deezer](https://www.deezer.com/) - Streaming / [HiFi Features](https://rentry.co/FMHYBase64#dzunlock)
 * [Moosync](https://moosync.app/) - YouTube Music Client / [Discord](https://discord.gg/HsbqbRune3) / [GitHub](https://github.com/Moosync/Moosync)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Client
@@ -32,7 +32,7 @@
 ## ▷ Streaming Sites
 
 * ⭐ **[YouTube Music](https://music.youtube.com/)**, [Hyperpipe](https://hyperpipe.surge.sh), [Nonoki](https://nonoki.com/music/), [ytify](https://ytify.netlify.app/) or [Spotify One](https://spotfy.one/) - YouTube Music WebUIs
-* ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://github.com/sigma67/spotify_to_ytmusic), [2](https://github.com/linsomniac/spotify_to_ytmusic), [3](https://www.tunemymusic.com/) / [Better Lyrics](https://better-lyrics.boidu.dev/) /  [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/boidushya/better-lyrics)
+* ⭐ **YouTube Music Tools** - [Enhancements](https://themesong.app/), [2](https://github.com/Sv443/BetterYTM) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo) / [Spotify Playlist Import](https://github.com/sigma67/spotify_to_ytmusic), [2](https://github.com/linsomniac/spotify_to_ytmusic), [3](https://www.tunemymusic.com/) / [Better Lyrics](https://better-lyrics.boidu.dev/) / [Discord](https://discord.gg/UsHE3d5fWF) / [GitHub](https://github.com/boidushya/better-lyrics)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
 * [Spotify Web Client](https://open.spotify.com/) - Browser Music
@@ -574,7 +574,7 @@
 * [IDM Discovery](https://www.idmdiscovery.com/) - IDM Artist Archive
 * [TrackID](https://trackid.net/) or [1001Tracklists](https://www.1001tracklists.com/) - Live Set Tracklist Databases
 * [Rec Charts](https://pastebin.com/ayuqSpGR) - Music Recommendation Guides
-* [⁠Shfl](https://theshfl.com/) - Album Recommendations
+* [Shfl](https://theshfl.com/) - Album Recommendations
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
 * [Spoqify](https://spoqify.com/) - Anonymous Playlist Generator
 * [MusicTo](https://www.musicto.com/) - Musician Curated Playlists
@@ -587,7 +587,7 @@
 * [Acclaimed Music](https://www.acclaimedmusic.net/) - Discover Acclaimed Music of the Times
 * [Best Ever Albums](https://www.besteveralbums.com/index.php) - Discover Albums
 * [MusicGenreTree](https://www.musicgenretree.org/chart.html) - Discover New Music by Genre
-* [SecondHandSongs](https://secondhandsongs.com/), [⁠RemixSearch](https://remixsearch.net/) or [WhoSampled](https://www.whosampled.com/) - Cover / Remix Databases
+* [SecondHandSongs](https://secondhandsongs.com/), [RemixSearch](https://remixsearch.net/) or [WhoSampled](https://www.whosampled.com/) - Cover / Remix Databases
 * [SoundtrackTracklist](https://soundtracktracklist.com/) or [FilmMusicSite](https://www.filmmusicsite.com/en/) - Soundtrack Databases
 * [generasia](https://www.generasia.com/) - Asian Music Wiki
 * [dbkpop](https://dbkpop.com/), [KPop Fandom](https://kpop.fandom.com/wiki/) or [KPopping](https://kpopping.com/) - K-Pop Databases

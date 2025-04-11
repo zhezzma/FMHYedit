@@ -988,7 +988,7 @@
 * [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) - Audio Equipment Discussion
 * [Scarbir](https://www.scarbir.com/), [/r/Headphones Guide](https://sites.google.com/view/quipa/assistants), [Squiglink](https://squig.link/), [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/), [Crinacle Graphs](https://graph.hangout.audio/) or [Crinacle](https://crinacle.com/) - Headset / Headphone / Earphone Comparisons
 * [Consoomer_Guide](https://rentry.org/consoomer_guide) - Earphone Shopping Guide
-* [Crinacle's Ultimate IEM List](https://list.hangout.audio/iem/) - In-Ear Monitor Shopping Guide
+* [Crinacle's Ultimate IEM List](https://list.hangout.audio/iem/) or [⁠IEMGazette](https://4ciemg.github.io/IEMGazette/) - In-Ear Monitor Comparisons / Reviews
 * [SpeakerRanking](https://www.speakerranking.com/) - Speaker Comparisons / Reviews
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
 * [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
@@ -996,7 +996,7 @@
 * [Gamepadla](https://gamepadla.com/) - Gamepad / Controller Latency Tests
 * [RetroCatalog](https://retrocatalog.com/) or [Handheld Emulation Compatibility](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/) - Handheld Emulation Compatibility / Info
 * [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
-* [⁠DrawTab](https://docs.thesevenpens.com/drawtab) - Drawing Tablet Info / Wiki
+* [DrawTab](https://docs.thesevenpens.com/drawtab) - Drawing Tablet Info / Wiki
 * [Consolevariations](https://consolevariations.com/) - Game Console Rarity / Shopping
 * [Camera Decision](https://cameradecision.com/) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
 

@@ -333,7 +333,7 @@
 * [Beeceptor](https://beeceptor.com/) - Mock REST APIs
 * [Pipedream](https://pipedream.com/) - Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)
 * [FastAPI](https://fastapi.tiangolo.com/) - API Framework
-* [⁠Posting](https://posting.sh/) / [GitHub](https://github.com/darrenburns/posting), [Insomnia](https://insomnia.rest/) or [Yaak](https://yaak.app/) - API Clients
+* [Posting](https://posting.sh/) / [GitHub](https://github.com/darrenburns/posting), [Insomnia](https://insomnia.rest/) or [Yaak](https://yaak.app/) - API Clients
 * [Bruno](https://www.usebruno.com/) - API Testing Client
 * [ReDoc](https://redocly.github.io/redoc/) - Generate API Documentation
 * [Mockable](https://www.mockable.io/), [{JSON} Placeholder](https://jsonplaceholder.typicode.com/), [jsoning](https://jsoning.com/api/), [Mocky](https://designer.mocky.io/) or [MockLab](https://www.wiremock.io/) - Mock APIs
@@ -442,7 +442,7 @@
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Web App / Code Editor / Notepad
 * [Trinket](https://trinket.io/) - Web App / Live Preview / Sign-up / Online Workspace
-* [IDX](https://idx.dev/) - Gemini AI Cloud Webapp
+* [Firebase](https://studio.firebase.google.com/) - Gemini AI Cloud Webapp
 * [Helix](https://helix-editor.com/) - Kakuone / Neovim-Based Code Editor
 * [HaystackEditor](https://haystackeditor.com/) - Canvas-Based Code Editor
 * [Brackets](https://brackets.io/) - Webapp / Live Preview

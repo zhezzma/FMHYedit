@@ -48,26 +48,32 @@
 
 ## Ambient Sound Mixers
 
-[myNoise](https://mynoise.net/), [ambiphone](https://ambiph.one/), [Moodist](https://moodist.app/), [Moodli](https://www.moodil.com/), [Soundscape](https://soundescape.io/), [Nature Mixer](https://naturemixer.com/), [CalmyLeon](https://calmyleon.com/), [Noises Online](https://noises.online/), [Relaxing Sounds](https://www.shuteye.ai/relaxing-sounds/), [A Soft Murmur](https://asoftmurmur.com/), [EcoSounds](https://en.ecosounds.net/), [VirtOcean](https://virtocean.com/), [ASMRion](https://asmrion.com/), [Defonic](https://defonic.com), [IMissTheOffice](https://imisstheoffice.eu/), [Homesick](https://scoreascore.com/homesick), [Click Bath](https://hamishlang.github.io/clickbath/), [imissmycafe](https://imissmycafe.com/), [coffitivity](https://coffitivity.com/)
+* ⭐ **[myNoise](https://mynoise.net/)** - Customizable Ambient Sound Mixer
+* [ambiphone](https://ambiph.one/) or [Moodist](https://moodist.app/) - Simple Ambient Sound Mixers
+* [Click Bath](https://hamishlang.github.io/clickbath/) - Ambient Sound Mixer with Customizable Musical Scale / Instruments
+* [IMissTheOffice](https://imisstheoffice.eu/) - Ambient Office Sounds with Interactive UI
+* [Homesick](https://scoreascore.com/homesick) - Ambient Home Sounds
+* [VirtOcean](https://virtocean.com/) - Ambient Ocean Sounds
+* [imissmycafe](https://imissmycafe.com/) - Ambient Cafe Sounds
 
 ***
 
 ## Android Browsers
 
-* ⭐ **[Brave](https://brave.com/)** - Adblocking Browser
-* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
-* ⭐ **[Firefox](https://www.mozilla.org/)** - [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
-* ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
-
-[Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
+* ⭐ **[Brave](https://brave.com/)** - Chromium based Browser with Built-in Adblock
+* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Chromium Fork based on Bromite / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
+* ⭐ **[Firefox](https://www.mozilla.org/)** - Customizable Browser / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
+* ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-browser Updater
+* [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser) or [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp) - Light and Fast Browsers
+* [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android) - Plant Trees while Browsing
+* [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) or [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) - Customizable Browsers based on Firefox
 
 ### Privacy Based
 
-* ⭐ **[IronFox](https://gitlab.com/ironfox-oss/IronFox)**
-* ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-Routed Browser
-* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
-* [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
-* [Brave](https://brave.com/) - Chromium Based Browser
+* ⭐ **[IronFox](https://gitlab.com/ironfox-oss/IronFox)** - Mull Browser Fork 
+* ⭐ **[Tor](https://tb-manual.torproject.org/mobile-tor/)** - Onion-routed Browser
+* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Browser with Tracking Protection
+* [Privacy Browser](https://www.stoutner.com/privacy-browser-android/) - Customizable Browser focused on Privacy
 
 ***
 
@@ -453,6 +459,7 @@
 ### Static Page Hosting
 
 * ⭐ **[surge](https://surge.sh/)**
+* ⭐ **[Hugo](https://gohugo.io/)**
 * ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** / [Tunnel Client](https://github.com/cloudflare/cloudflared)
 * ⭐ **[GitHub Pages](https://pages.github.com/)**
 * ⭐ **[Firebase](https://firebase.google.com/products/hosting)**
@@ -589,7 +596,7 @@
 * [IG Helper](https://greasyfork.org/en/scripts/404535) or [IG Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Userscripts
 * [ESUIT](https://chromewebstore.google.com/detail/esuit-photos-downloader-f/adighedbfmnpjcjlloooichmbjdefane) or [Mass Downloader](https://chromewebstore.google.com/detail/jmpdoloapmhninneneekkepmkpmpkhjn) - Chrome Extensions
 
-[Pixnoy](https://www.pixnoy.com/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/), [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper), [FastDL](https://fastdl.app/en), [SaveFromWeb](https://www.savefromweb.com/), [Downloadgram](https://downloadgram.org/), [Dumpor](https://dumpor.io/), [GreatFon](https://greatfon.io/), [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [Instaloader](https://instaloader.github.io/) / [GitHub]https://github.com/instaloader/instaloader), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/), [anonyig](https://anonyig.com/), [mollygram](https://mollygram.com/)
+[Pixnoy](https://www.pixnoy.com/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/), [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper), [FastDL](https://fastdl.app/en), [SaveFromWeb](https://www.savefromweb.com/), [Downloadgram](https://downloadgram.org/), [Dumpor](https://dumpor.io/), [GreatFon](https://greatfon.io/), [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [Instaloader](https://instaloader.github.io/) / [GitHub](https://github.com/instaloader/instaloader), [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/), [anonyig](https://anonyig.com/), [mollygram](https://mollygram.com/)
 
 ***
 
@@ -1148,7 +1155,6 @@
 
 ## Website Creators
 
-* ⭐ **[Hugo](https://gohugo.io/)**
 * ⭐ **[vitepress](https://vitepress.dev/)**
 
 [retype](https://retype.com/), [Feather Wiki](https://feather.wiki/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/), [Google Sites](https://sites.google.com/new), [AngelFire](https://www.angelfire.lycos.com/), [Odoo](https://www.odoo.com/app/website), [Docusaurus](https://github.com/facebook/docusaurus), [Docsify](https://docsify.js.org/), [Odie](https://odie.us/)
@@ -1157,9 +1163,12 @@
 
 ## Website Templates
 
-* [Boilerplate](https://html5boilerplate.com/) - Website Frontend Template HTML5
-
-[Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates), [Templatemo](https://www.templatemo.com/), [Tooplate](https://www.tooplate.com/), [CSS Bed](https://www.cssbed.com/), [Repth Themes](https://repth.neocities.org/theme), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss), [free-css-templates](https://www.free-css.com/free-css-templates), [html5up](https://html5up.net/), [templated](https://templated.co/)
+* ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** or [Tooplate](https://www.tooplate.com/) - Free HTML Templates
+* ⭐ **[Boilerplate](https://html5boilerplate.com/)**, [html5up](https://html5up.net/) or [TEMPLATED](https://templated.co/) - Custom HTML Templates
+* [Templatemo](https://www.templatemo.com/) or [Free CSS](https://www.free-css.com/free-css-templates) - Free CSS Templates
+* [CSS Bed](https://www.cssbed.com/) - Classless CSS Templates / [GitHub](https://github.com/ubershmekel/cssbed)
+* [Beer CSS](https://www.beercss.com/) - Lightweight CSS Framework / [GitHub](https://github.com/beercss/beercss)
+* [Repth Themes](https://repth.neocities.org/theme) - Y2K Anime Themes
 
 ***
 
