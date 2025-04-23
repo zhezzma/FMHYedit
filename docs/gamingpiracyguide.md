@@ -15,7 +15,7 @@
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / Pre-Installs / [Discord](https://discord.gg/WkyjpA3Ua9) / PW: `1234` or `steamrip.com`
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Pre-Installs / [Discord](https://discord.gg/nnMnGzDbwg)
-* ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Signup Required / [Discord](https://discord.gg/yExgFYncMD) / [Telegram](https://t.me/onlinefix)
+* ⭐ **[Online Fix](https://online-fix.me/)** - Download / Torrent / Multiplayer / Sign-Up Required / [Discord](https://discord.gg/yExgFYncMD) / [Telegram](https://t.me/onlinefix)
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[Ova Games](https://www.ovagames.com/)** - Download / [Redirect Bypass Required](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_redirect_bypass)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download / Forum / Account Required
@@ -41,7 +41,6 @@
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
 * [IWannaPlay](https://sites.google.com/view/iwannaplay/список-игр) - Download / Telegram Required
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
-* [⁠Anti Denuvo Sanctuary](https://discord.com/invite/D4fYBbfzGG) - Free Denuvo Games
 * [ROM Heaven CSF](https://rentry.co/FMHYBase64#csf) - Download Clean Steam Files
 
 ***
@@ -182,7 +181,6 @@
 * [UnorthodoxFun](https://github.com/rarelygoeshere/UnorthodoxFun) - Games on Unorthodox Platforms
 * [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF) - PDF Games
 * [PyGames](https://www.pygame.org/) - Python Games
-* [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - ISO Collection
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
 * [/r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
 

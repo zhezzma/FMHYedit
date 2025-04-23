@@ -32,7 +32,7 @@
 * [456movie](https://456movie.net/), [2](https://345movie.net/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/4SJ5c9gZUQ)
 * [AlienFlix](https://alienflix.net/) - Movies / TV / Anime / Auto-Next
 * [CookedMovies](https://cookedmovies.xyz/) - Movies / TV / Anime / Auto-Next
-* [Broflix](https://broflix.cc/) - Movies / TV / Anime / Auto-Next
+* [Broflix](https://broflix.si/) - Movies / TV / Anime / Auto-Next
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/V8XUhQb2MZ)
 * [NetPlay](https://netplayz.ru/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/NCH4rzxJ36)
 * [Arabflix](https://www.arabiflix.com/) - Movies / TV / Anime / [Discord](https://discord.gg/AMQdQehThg)
@@ -112,12 +112,12 @@
 * [Crackle](https://www.crackle.com/) - Movies / TV / US Only
 * [Freevee](https://www.amazon.com/gp/video/storefront/?ie=UTF8&contentId=freetv) - Movies / TV / US Only
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV / US Only
-* [DarkRoom](https://www.darkroom.film/) - Movies / TV / US Only / Requires Sign-Up
+* [DarkRoom](https://www.darkroom.film/) - Movies / TV / US Only / Sign-Up Required
 * [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / US Only
 * [Fandango](https://athome.fandango.com/content/browse/free) - Movies / TV / US Only
 * [Shout! TV](https://shout-tv.com/) - Movies / TV / US + CA Only / Auto-Next
 * [Kanopy](https://kanopy.com/) or [hoopla](https://www.hoopladigital.com/) - Movies / TV / US Only / Library Card Required
-* [Found TV](https://watch.foundtv.com/) - Found Footage Movies / Requires Sign-Up
+* [Found TV](https://watch.foundtv.com/) - Found Footage Movies / Sign-Up Required
 * [7+](https://7plus.com.au/) - Movies / TV / US + AU Only
 * [Playary](https://www.playary.com/) - Movies / TV
 * [Filmzie](https://filmzie.com/) - Movies / TV
@@ -420,7 +420,7 @@
 * [NunFlix Sports](https://nunflix.org/sports)
 * [VidBox Sports](https://vidbox.to/sports)
 * [FlickyStream Sports](https://flickystream.com/sports)
-* [Broflix Sports](https://broflix.ci/live/sports)
+* [Broflix Sports](https://broflix.si/live/sports)
 * [LiveTV](https://livetv.sx/enx/)
 * [LiveMatches](https://livematches.net/)
 * [Strims](https://strimsy.top/)
@@ -773,7 +773,7 @@
 * ⭐ **[Heartive](https://heartive.pages.dev/)** - Movies / TV / Anime / Magnets on Files
 * ⭐ **[Kinozal](https://kinozal.tv/)** - Movies / TV / 4K / Sign-Up Required
 * ⭐ **[EZTV](https://eztvx.to/)** - TV / Anime
-* ⭐ **[Voyage](https://cobrakiki.lol/)** / [Discord](https://discord.gg/Bfd6Jj6bcn), **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**, [RGShows](https://www.rgshows.me/torrent/) or [Broflix](https://broflix.ci/) - Multi-Site Search
+* ⭐ **[Voyage](https://cobrakiki.lol/)** / [Discord](https://discord.gg/Bfd6Jj6bcn), **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**, [RGShows](https://www.rgshows.me/torrent/) or [Broflix](https://broflix.si/) - Multi-Site Search
 * [TPB Movies](https://thepiratebay.org/search.php?q=top100:200) - Movies / TV / 4K / **Avoid Software / Games**
 * [LimeTorrents](https://www.limetorrents.lol/) - Movies / TV
 * [Youplex Torrents](https://torrents.youplex.site/) - Movies / TV / Anime / 4K
@@ -827,7 +827,7 @@
 * [JustWatch](https://www.justwatch.com/) - Search Legal Streaming Hosts
 * [Box Office Mojo](https://www.boxofficemojo.com/) - Box Office Earnings
 * [GCDb](https://www.grindhousedatabase.com/) - Grindhouse Cinema
-- [Class Real](https://www.classreal.com/) - Weird / Trippy Movies
+* [Class Real](https://www.classreal.com/) - Weird / Trippy Movies
 * [FFCritic](https://foundfootagecritic.com/) - Found Footage
 * [Spaghetti Western Database](https://www.spaghetti-western.net/index.php/Main_Page) - Spaghetti Western
 * [HKMDB](https://hkmdb.com/db/index.php) - Hong Kong Movies

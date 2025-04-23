@@ -19,7 +19,7 @@
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - R1 + DeepSeek-V3-0324 / Unlimited / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.gg/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[Grok](https://grok.com/)** - X.com Chatbot / Grok 2 (30 Hourly) / Grok 3 (12 Per Two Hours) / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * ⭐ **[Microsoft Copilot](https://copilot.microsoft.com)** - GPT-4o / OpenAI o3-Mini-High / No Sign-Up
-* ⭐ **[Chatbot Arena](https://alpha.lmarena.ai/)** - Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
+* ⭐ **[Chatbot Arena](https://beta.lmarena.ai)** - Multiple Chatbots / No Sign-Up / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
 * ⭐ **[Mistral](https://chat.mistral.ai)** - Mistral Large 2411 / [Discord](https://discord.gg/mistralai)
 * [Claude](https://claude.ai/) - Claude 3.7 Sonnet / Phone # Required / [Usage Tracker](https://github.com/lugia19/Claude-Usage-Extension) / [Subreddit](https://www.reddit.com/r/ClaudeAI/) / [Discord](https://discord.com/invite/zkrBaqytPW)
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots / o3-Mini / No Sign-Up
@@ -27,7 +27,7 @@
 * [AI Assistant](https://aiassistantbot.pages.dev/) - Deepseek-R1 / Qwen QwQ-32B / Multiple Chatbots / No Sign-Up
 * [AI SDK](https://sdk.vercel.ai/) - Multiple Chatbots / [GitHub](https://github.com/vercel/ai)
 * [GizAI](https://www.giz.ai/) - Multiple Chatbots
-* [SciSpace](https://scispace.com/) (no Sign-Up) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Paper Chatbots
+* [SciSpace](https://scispace.com/) (No Sign-Up), [⁠Scinito](https://ekb.scinito.ai/ai/chat) or [Elicit](https://elicit.com/) / [GitHub](https://github.com/elicit) - Research Paper Chatbots
 * [HelixMind](https://helixmind.online/) - Multiple Chatbots / [Discord](https://discord.gg/7CmPjK87n3)
 * [HuggingChat](https://huggingface.co/chat/) - DeepSeek-R1-Distill-Qwen-32B / Qwen QwQ-32B / Multiple Open-Source Chatbots / [GitHub](https://github.com/huggingface/chat-ui)
 * [Infermatic](https://infermatic.ai/) - Multiple Chatbots / [Discord](https://discord.gg/9GUXmDx9GF)
@@ -41,7 +41,7 @@
 * [Lambda Chat](https://lambda.chat/chatui/) - Deepseek-R1 / Multiple Chatbots / Unlimited / No Sign-Up
 * [Maisa](https://maisa.ai/) - Vinci KPU Chatbot
 * [Meta AI](https://www.meta.ai/) - Llama 4 Chatbot
-* [⁠Baidu Chat](https://chat.baidu.com/) - Baidu's Chatbot / Phone # Required 
+* [Baidu Chat](https://chat.baidu.com/) - Baidu's Chatbot / Phone # Required
 * [MiniMax AI](https://chat.minimax.io/) - Deepseek-R1 / MiniMax-Text-01 Chatbot w/ Large Token Context Window / [GitHub](https://github.com/MiniMax-AI/MiniMax-01)
 * [Pi](https://pi.ai/) - Inflection AI's Chatbot
 * [Reka](https://www.reka.ai/) - Reka's Chatbot / [Discord](https://discord.gg/jtjNSD52mf)
@@ -172,7 +172,7 @@
 * [Noi](https://noi.nofwl.com/) - Desktop App / [Discord](https://discord.gg/kq2HXcpJSQ) / [GitHub](https://github.com/lencx/Noi)
 * [Chatbot UI](https://chatbotui.com) - Desktop App / [GitHub](https://github.com/mckaywrigley/chatbot-ui)
 * [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
-* [ChatPDF](https://www.chatpdf.com/) (no Sign-Up) or [AskYourPDF](https://askyourpdf.com/) - Turn Books / PDFs into Chatbots
+* [ChatPDF](https://www.chatpdf.com/) (No Sign-Up) or [AskYourPDF](https://askyourpdf.com/) - Turn Books / PDFs into Chatbots
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
 * [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI / [Discord](https://discord.com/invite/fjBugmvzZP)
 * [Concierge](https://askconcierge.ai/) - Connect Apps to AI
@@ -229,7 +229,7 @@
 ## ▷ AI Benchmarks
 
 * ⭐ **[Artificial Analysis](https://artificialanalysis.ai/)** - Chatbot Benchmarks
-* ⭐ **[Chatbot Arena](https://alpha.lmarena.ai/leaderboard)** - Chatbot Leaderboards / Benchmarks / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
+* ⭐ **[Chatbot Arena](https://beta.lmarena.ai/leaderboard)** - Chatbot Leaderboards / Benchmarks / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
 * ⭐ **[LiveBench](https://livebench.ai/)** - Chatbot Leaderboards / Benchmarks / [GitHub](https://github.com/livebench/livebench)
 * [SEAL LLM Leaderboards](https://scale.com/leaderboard) - Chatbot Leaderboards
 * [WildBench](https://huggingface.co/spaces/allenai/WildBench) - Chatbot Benchmarks / [GitHub](https://github.com/allenai/WildBench)
@@ -240,7 +240,7 @@
 * [The Fastest AI](https://thefastest.ai/) - Chatbot Latency Speeds / [GitHub](https://github.com/fixie-ai/thefastest.ai)
 * [OpenRouter](https://openrouter.ai/rankings) - Chatbot Popularity Rankings / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam)
 * [Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) - VLM Benchmark Leaderboard Aggregator
-* [⁠MathArena](https://matharena.ai/) - AI Mathematics Competitions / Benchmarks
+* [MathArena](https://matharena.ai/) - AI Mathematics Competitions / Benchmarks
 * [AI Elo](https://aielo.co/) - AI Game Competitions / Benchmarks
 
 ***
@@ -249,7 +249,7 @@
 # ► Text Generators
 
 * ⭐ **[TextFX](https://textfx.withgoogle.com/)** / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx) or [Rytr](https://rytr.me/) - AI Creative Writing Tools / No Sign-Up
-* [Scrip AI](https://scripai.com/) (no Sign-Up), [INK](https://app.inkforall.com/tools), [QuickPen AI](https://quickpenai.com/) - Online AI Text Tools
+* [Scrip AI](https://scripai.com/) (No Sign-Up), [INK](https://app.inkforall.com/tools), [QuickPen AI](https://quickpenai.com/) - Online AI Text Tools
 * [NovelAI](https://novelai.net/) - Story Writing AI / No Sign-Up / [Limit Bypass](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#novelai-bypass), [2](https://greasyfork.org/en/scripts/448926) / [Discord](https://discord.com/invite/novelai)
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [PerchanceStory](https://perchancestory.com/) - Story Writing AI
@@ -287,7 +287,7 @@
 * [Hailuo AI](https://hailuoai.video/) - 3 Daily / [Discord](https://discord.com/invite/hvvt8hAye6)
 * [Fusion Brain](https://fusionbrain.ai/en/) - Unlimited
 * [Vivago](https://vivago.ai/) - 1 Daily
-* [ChatGLM](https://chatglm.cn/) - Unlimited / Requires Signup & Phone # / SMS Generators Work
+* [ChatGLM](https://chatglm.cn/) - Unlimited / Requires Sign-Up & Phone # / SMS Generators Work
 * [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
 
 ***
@@ -301,12 +301,12 @@
 * ⭐ **[ComfyUI Online](https://www.runcomfy.com/comfyui-web)** / Unlimited
 * ⭐ **[Grok](https://grok.com/)** / 25 Per 2 Hours / [Subreddit](https://www.reddit.com/r/grok/) / [Discord](https://discord.com/invite/kqCc86jM55)
 * [Dezgo](https://dezgo.com/) / Unlimited / No Sign-Up / [Discord](https://discord.com/invite/RQrGpUhPhx)
-* [PicLumen](https://piclumen.com/) / Unlimited / [Discord](https://discord.gg/bAycHJgbD8)
 * [Fusion Brain](https://fusionbrain.ai/en/), [2](https://rudalle.ru/) / Unlimited / [Telegram Bot](https://t.me/kandinsky21_bot)
 * [Microsoft Designer](https://designer.microsoft.com/image-creator), [2](https://www.bing.com/images/create) / Unlimited
 * [Kling AI](https://klingai.com/) / 366 Monthly / [Characters](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Character-With-Flux) / [Portraits](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Portrait-with-Flux) / [Discord](https://discord.com/invite/8tj8YjSzKr)
 * [AI Gallery](https://aigallery.app/) / Unlimited / No Sign-Up
 * [Wan AI](https://wan.video/) / 100 Daily / No Sign-Up
+* [PicLumen](https://piclumen.com/) / 50 Daily / [Discord](https://discord.gg/bAycHJgbD8)
 * [Recraft](https://www.recraft.ai/) / 50 Daily / [Discord](https://discord.gg/recraft)
 * [imgsys](https://imgsys.org/) / Unlimited / Compare Generators / No Sign-Up
 * [NVIDIA NIM](https://build.nvidia.com/models?filters=usecase%3Ausecase_image_gen) / 50 Daily / No Sign-Up
@@ -331,7 +331,7 @@
 * [PixNova AI](https://pixnova.ai/ai-body-generator/) / Unlimited
 * [ChatK](https://chat.oaichat.cc/) / Unlimited
 * [Reve Image](https://preview.reve.art/) / 20 Daily
-* [⁠Baidu Chat](https://chat.baidu.com/) / Phone # Required 
+* [Baidu Chat](https://chat.baidu.com/) / Phone # Required
 * [ImageLabs](https://editor.imagelabs.net/) / Unlimited / No Sign-Up
 * [Qwen](https://chat.qwen.ai/) / Unlimited
 * [AIGazou](https://muryou-aigazou.com/) / Unlimited
@@ -438,7 +438,7 @@
 * [TTSOpenAI](https://ttsopenai.com/) or [OpenAI.fm](https://www.openai.fm/) / No Sign-Up / OpenAI's Bot
 * [AI Speaker](https://ai-speaker.net/) / No Sign-Up
 * [edge-tts](https://github.com/rany2/edge-tts) / No Sign-Up / Python Module
-* [⁠IndexTTS](https://github.com/index-tts/index-tts) / No Sign-Up
+* [IndexTTS](https://github.com/index-tts/index-tts) / No Sign-Up
 * [Voices](https://www.hailuo.ai/audio/)
 * [TextToSpeech.io](https://texttospeech.io/)
 * [LazyPy](https://lazypy.ro/tts/) / No Sign-Up / [GitHub](https://github.com/chrisjp/tts)
@@ -474,7 +474,7 @@
 * [Bark Voice Cloning](https://huggingface.co/spaces/kevinwang676/Bark-with-Voice-Cloning) - Voice Cloning / No Sign-Up / [Colab](https://colab.research.google.com/github/KevinWang676/Bark-Voice-Cloning/blob/main/Bark_Voice_Cloning.ipynb) / [GitHub](https://github.com/KevinWang676/Bark-Voice-Cloning)
 * [RVC Inference HF](https://huggingface.co/spaces/r3gm/RVC_HFv2) - Voice Cloning / No Sign-Up
 * [AnyVoiceLab](https://anyvoicelab.com/voice-cloning/) - Voice Cloning / No Sign-Up
-* [AllVoiceLab](https://www.allvoicelab.com/) - Voice Cloning / No Sign-Up
+* [AllVoiceLab](https://www.allvoicelab.com/) - Voice Cloning
 * [Zyphra](https://playground.zyphra.com/audio) - Voice Cloning / [GitHub](https://github.com/Zyphra/Zonos)
 
 ***

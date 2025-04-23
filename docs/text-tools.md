@@ -144,10 +144,10 @@
 * [DeepL Write](https://www.deepl.com/write)
 * [QuillBot](https://quillbot.com/grammar-check)
 * [Scribens](https://www.scribens.com/)
-* [EditGPT](https://www.editgpt.app/) - Signup Required
-* [Grammarly](https://www.grammarly.com/grammar-check) - Signup Required / [Extension](https://www.grammarly.com/browser)
-* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Signup Required
-* [Outwrite](https://www.outwrite.com/) - Signup Required
+* [EditGPT](https://www.editgpt.app/) - Sign-Up Required
+* [Grammarly](https://www.grammarly.com/grammar-check) - Sign-Up Required / [Extension](https://www.grammarly.com/browser)
+* [ProWritingAid](https://prowritingaid.com/grammar-checker) - Sign-Up Required
+* [Outwrite](https://www.outwrite.com/) - Sign-Up Required
 
 ***
 
@@ -189,7 +189,7 @@
 
 * ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
 * [Typing Guide](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o) - In-Depth Typing Guide
-* [Typing.io](https://typing.io/) - Typing Practice for Programming / Sign-up Required
+* [Typing.io](https://typing.io/) - Typing Practice for Programming / Sign-Up Required
 * [keybr](https://www.keybr.com/) - Typing Practice
 * [CyberType](https://cybertype.app/) - Typing Practice
 * [Typing.com](https://www.typing.com/) - Typing Lessons
@@ -246,7 +246,6 @@
 * [Joplin](https://joplinapp.org/) - Note-Taking / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/) / [Chrome](https://chromewebstore.google.com/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfeken-GB) / [GitHub](https://github.com/laurent22/joplin)
 * [AppFlowy](https://appflowy.com/) - Note-Taking / [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
 * [MicroPad](https://getmicropad.com/) - Note-Taking
-* [DeepNote](https://deepnote.com/) - Note-Taking
 * [WriteDown](https://writedown.app/) - Note-Taking
 * [DocMost](https://docmost.com/) - Note-Taking
 * [KeyNote NF](https://github.com/dpradov/keynote-nf) - Note-Taking

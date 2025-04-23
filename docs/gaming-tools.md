@@ -217,7 +217,7 @@
 * [Rawg](https://rawg.io/) - Game Database
 * [Moby Games](https://www.mobygames.com/) - Game Database
 * [rate.house](https://rate.house/chart/game) - Game Database
-* [listal](https://www.listal.com/) - Game Database 
+* [listal](https://www.listal.com/) - Game Database
 * [FrontierNav](https://frontiernav.net/) - Game Database
 * [JRPGC](https://jrpgc.com/) - JRPG Databases / [Discord](https://discord.com/invite/jrpgc)
 * [RPGCodex](https://rpgcodex.net/forums/) - RPG Database / Forum
@@ -379,7 +379,7 @@
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Pterodactyl](https://github.com/pterodactyl/panel) - Game Server Management Panel / [Discord](https://discord.gg/pterodactyl)
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server / [Discord](https://discord.com/invite/Mk3w6Tb)
-* [VRCList](https://vrclist.com/) - Find VRChat Worlds / Signup Required
+* [VRCList](https://vrclist.com/) - Find VRChat Worlds / Sign-Up Required
 * [OldUnreal](https://www.oldunreal.com/) - Unreal Tournement Servers / [Discord](https://discord.gg/thURucxzs6)
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
@@ -492,7 +492,7 @@
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
 * [/r/PS3Homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
 * [PS3 Disc Dumper](https://github.com/13xforever/ps3-disc-dumper) - Decrypted PS3 Disc Dumper
-* [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/), [Rusty Pan](https://github.com/RainbowCookie32/rusty-psn) - Update PS3 Games
+* [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Rusty Pan](https://github.com/RainbowCookie32/rusty-psn) - Update PS3 Games
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [PSONE](https://psone.online/) - Play PS1 Games Online / PS3 Required / [Discord](https://discord.com/invite/uhZuGX9)
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
@@ -575,7 +575,7 @@
 
 * ⭐ **[Prism Launcher](https://prismlauncher.org/)** - Feature-Rich Launcher / [Free Method](https://rentry.co/prism4free) / [Ely.by Version](https://github.com/ElyPrismLauncher/ElyPrismLauncher) / [Discord](https://discord.com/invite/ArX2nafFz2) / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 * ⭐ **[ATLauncher](https://atlauncher.com/)** or [Technic Launcher](https://www.technicpack.net/) - Modpack Launchers
-* ⭐ **[PojavLauncher](https://pojavlauncher.app/)** / [Discord](https://discord.com/invite/aenk3EUvER) / [GitHub](https://github.com/PojavLauncherTeam/PojavLauncher), [⁠ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android & iOS
+* ⭐ **[PojavLauncher](https://pojavlauncher.app/)** / [Discord](https://discord.com/invite/aenk3EUvER) / [GitHub](https://github.com/PojavLauncherTeam/PojavLauncher), [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.gg/ffhvuXTwyV) - Java Edition for Android & iOS
 * ⭐ **[Bedrock Launcher](https://bedrocklauncher.github.io/)** or [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Launcher for Bedrock Edition
 * [SkLauncher](https://skmedix.pl/) - User-friendly Launcher
 * [UltimMC](https://github.com/UltimMC/Launcher) - Launcher for Cracked Accounts
