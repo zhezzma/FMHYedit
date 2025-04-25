@@ -162,7 +162,6 @@
 * 🌐 **[sindresorhus's Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)** or [Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt) - AI Resources
 * 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
 * ↪️ **[AI API Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_api_tools)**
-* [AI Piracy Resources](https://rentry.org/aipiracyresources) - AI / LLM Piracy Guides
 * [tldraw computer](https://computer.tldraw.com/) - Create Component Workflows to Generate or Transform Data / [Discord](https://discord.com/invite/SBBEVCA4PG) / [GitHub](https://github.com/tldraw/tldraw)
 * [ChatGPT Box](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
 * [LLM](https://llm.datasette.io/) - LLM CLI / [Discord](https://discord.com/invite/RKAH4b8TvE) / [GitHub](https://github.com/simonw/llm)
@@ -183,6 +182,7 @@
 * [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats / [GitHub](https://github.com/pionxzh/chatgpt-exporter)
 * [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
 * [CanIRunThisLLM](https://www.canirunthisllm.net/) or [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM Requirement Calculators
+* [AI Piracy Resources](https://rentry.org/aipiracyresources) - AI Piracy Guide / Resources
 
 ***
 

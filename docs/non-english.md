@@ -235,6 +235,7 @@
 * [Sakura Animation](http://www.iyinghua.io/) - Anime / Sub / 1080p
 * [Anime1](https://anime1.me/) - Anime / Sub / 1080p
 * [Myself-BBS](https://myself-bbs.com/) - Anime / Sub / 1080p
+* [⁠dmd77](https://www.dmd77.com/) - Anime / Sub / 1080p
 * [dm530w](http://dm530w.co/) - Anime / Sub / 1080p
 * [74xz](https://74xz.com/) - Anime / Sub / 1080p
 * [AGE Anime](https://www.agedm.tv/) - Anime / Sub / 1080p
@@ -271,6 +272,7 @@
 * [Piaotian](https://www.piaotia.com/) - Books / Light-Novels
 * [369book](https://www.369book.cc/) - Light-Novels
 * [qqszz](https://www.qqszz.net/) - Books / Light-Novels / Sign-Up Required
+* [⁠yodu](https://www.yodu.org/) - Books / Light-Novels
 * [beqege](https://www.beqege.cc/) - Light-Novels
 * [jpxs123.cc](https://jpxs123.cc/) - Light-Novels / Use Adblock
 * [kanunu8](https://www.kanunu8.com/) - Light-Novels
@@ -703,11 +705,10 @@
 * ⭐ **[ToonStream](https://toonstream.love/)** - Cartoons / Anime / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[AniSAGA](https://anisaga.org/)** - Anime / Dub / 1080p
 * ⭐ **[FireFlix](https://fireflix.fun/)**, [2](https://fireflixhd1.netlify.app/) - Movies / TV / Anime
-* ⭐ **[HDDMovies](https://hhdmovies.baby/)** - Movies / TV / Anime
-* ⭐ **[MultiMovies](https://multimovies.today)** - Movies / TV
+* ⭐ **[MultiMovies](https://multimovies.guru)** - Movies / TV / .guru Always Redirects to Main
+* ⭐ **[Anime World India](https://theanimeworld.in/)** - Anime
 * [Einthusan](https://einthusan.tv/) - Movies / 1080p
 * [ToonBaba](https://toonbaba.site/) - Anime
-* [Anime World India](https://animeworld.co.in/) - Anime
 * [9xmovies](https://9xmovies.fund/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/playdesi/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
@@ -1682,6 +1683,8 @@
 
 # ► Thai / ไทย
 
+* [Thai Dictionary](https://dictionary.orst.go.th/)
+
 ## ▷ Streaming สตรีม
 
 * [moviehdfree](https://moviehdfree.net/) - Movies / TV
@@ -1868,7 +1871,6 @@
 * ⭐ **[LoiGiaiHay](https://loigiaihay.com/)** - Educational Books / Documents
 * ⭐ **[VNDoc](https://vndoc.com/)** - Educational Books / Documents
 * ⭐ **[Tech12h](https://tech12h.com/)** - Educational Books / Documents
-* [SachVui](https://sachvuii.com/) - Books / [Direct Links](https://greasyfork.org/en/scripts/488558)
 * [Thivien](https://www.thivien.net/) - Poetry
 * [MeTaiSach](https://metaisach.com/) - Books
 * [DocSachHay](https://docsachhay.net/) - Books

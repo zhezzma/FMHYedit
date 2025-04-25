@@ -542,6 +542,7 @@
 * [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - Calendar in Notifications
 * [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Calendar
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock), [Journal it](https://play.google.com/store/apps/details?id=org.de_studio.diary) or [TimePlanner](https://github.com/v1tzor/TimePlanner) - Planner Apps
+* [⁠Daily You](https://github.com/Demizo/Daily_You) - Daily Journal / Picture / Mood tracker 
 * [FamilyWall](https://www.familywall.com/) - Family Organization Planner
 * [Sleep Cycle](https://rentry.co/FMHYBase64#sleep-cycle) - Clock / Alarm
 * [Clock](https://github.com/BlackyHawky/Clock) - Clock / Alarm
@@ -552,10 +553,10 @@
 ## ▷ Productivity Trackers
 
 * ↪️ **[Text Editors / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_android_text_editors)**
+* ⭐ **[Table Habit](https://github.com/FriesI23/mhabit)** - Habit Tracker
 * [StayFree](https://stayfreeapps.com/) - Digital Productivity Tracker / App Blocker
 * [Folksable](https://folksable.com/) - Social Habit Tracker
 * [Loop Habit Tracker](https://github.com/iSoron/uhabits) - Habit Tracker
-* [Table Habit](https://github.com/FriesI23/mhabit) - Habit Tracker
 * [HabitBuilder](https://github.com/ofalvai/HabitBuilder) - Habit Tracker
 * [Grit](https://github.com/shub39/Grit) - Habit Tracker
 * [MoreDays](https://gitlab.com/wuapps/moredays) - Habit Tracker

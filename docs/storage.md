@@ -102,7 +102,6 @@
 
 ## Background Removers
 
-* ⭐ **[BGBye](https://bgbye.fyrean.com/)**
 * ⭐ **[pixelcut](https://www.pixelcut.ai/)**
 
 [ormbg](https://huggingface.co/spaces/schirrmacher/ormbg), [BRIAAI](https://briaai-bria-rmbg-2-0.hf.space/), [Remove Background Web](https://huggingface.co/spaces/Xenova/remove-background-web), [RemoveBG-GIMP](https://github.com/manu12121999/RemoveBG-GIMP), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [magic-copy](https://github.com/kevmo314/magic-copy), [BRIA-RMBG](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4), [remove.bg](https://www.remove.bg/)
@@ -522,9 +521,10 @@
 
 ## Image Compressors
 
+* ⭐ **[Caesium](https://saerasoft.com/caesium/)** / [Web App](https://caesium.app/) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor), 
 * ⭐ **[Squoosh](https://squoosh.app/)**
 
-[CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [Caesium](https://saerasoft.com/caesium/) / [Web App](https://caesium.app/), [ImageSmaller](https://www.imagesmaller.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Seopix](https://www.seopix.io/), [Imagator](https://imagator.co/), [Compressor](https://compressor.io/), [optimize.photos](https://optimize.photos/), [Batch Compress](https://batchcompress.com/en), [Bulk Image Compress](https://imagecompressr.com/), [minipic](https://minipic.app/), [Compress Images](https://compress-images.com), [squish](https://squish.addy.ie/)
+[CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [ImageSmaller](https://www.imagesmaller.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Seopix](https://www.seopix.io/), [Imagator](https://imagator.co/), [Compressor](https://compressor.io/), [optimize.photos](https://optimize.photos/), [Batch Compress](https://batchcompress.com/en), [Bulk Image Compress](https://imagecompressr.com/), [minipic](https://minipic.app/), [Compress Images](https://compress-images.com), [squish](https://squish.addy.ie/)
 
 ### PNG Compressors
 
@@ -1027,8 +1027,9 @@
 
 * Note - Text Adventures games (especially oldschool) are much easier to figure out with the help of AI chatbots. Theres are also usually guides online if you get stuck.
 
-* 🌐 **[IFDB](https://ifdb.org/)** or [IFArchive](https://www.ifarchive.org/) - Game Indexes
+* 🌐 **[IFDB](https://ifdb.org/)**, [IFWizz](https://ifwizz.de/if-en.html) or [IFArchive](https://www.ifarchive.org/) - Text Adventure Archives
 * 🌐 **[IFWiki](https://www.ifwiki.org/)** - Interactive Fiction Encyclopedia / Resources
+* [SolutionArchive](https://solutionarchive.com/) - Text Adventure Solutions
 
 [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/), [Level 13](https://nroutasuo.github.io/level13/)
 
@@ -1121,15 +1122,3 @@
 * ⭐ **[WPLocker](https://www.wplocker.com/)** or [Weadown](https://weadown.com/) - Premium Themes / Plugins
 * [Babiato](https://babia.to/) - Themes / Plugins Forum / Sign-Up Required
 * [WordPress Themes & Plugins](https://t.me/wpthemesandplugins) - Telegram
-
-***
-
-## YouTube Movies
-
-* 🌐 **[YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/)** - YouTube Streaming Subreddits
-* 🌐 **[YouTube Streaming Channels](https://rentry.co/YT-Movies)** - Specific Channels
-* [Official YouTube Movies](https://www.youtube.com/feed/storefront?bp=ogUCKAY%3D) - Free YouTube Movies / Chrome Required
-* [OpenCulture](https://www.openculture.com/freemoviesonline) - Free YouTube Movies
-* [Voleflix](https://vole.wtf/voleflix/) - Public Domain / Originals
-* [Video Dictionary](https://videodictionary.kwebpia.net/?m=Full_Movies) - Recently Uploaded Full Movies
-* [FreeGreatMovies](https://www.freegreatmovies.com/) or [MoviesFoundOnline](https://moviesfoundonline.com/) - Curated YouTube Movies Collections
