@@ -371,12 +371,14 @@
 * [SearchGFX](https://searchgfx.com/)
 * [Quasual](https://m.vk.com/quasual)
 * [designersgan9](https://m.vk.com/designersgan9)
+* [⁠Free_Design_Files](https://t.me/Free_Design_Files)
 * [WockupWorld](https://m.vk.com/mockupworld)
 * [OnlyGFX](https://www.onlygfx.com/)
 * [The GFX](https://m.vk.com/the_gfx)
 * [Graphics Materials](https://vk.com/topic-178186634_39330245)
 * [desiignertm](https://vk.com/desiignertm)
 * [all_psd](https://vk.com/all_psd)
+* [⁠Playersdsg](https://t.me/playersdsg)
 * [designbloody](https://vk.com/designbloody)
 * [designarchiv](https://t.me/designarchiv)
 * [outsideotf](https://t.me/s/outsideotf)
@@ -613,7 +615,6 @@
 
 * 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art / Animation Resources
 * 🌐 **[Awesome Colab Notebooks](https://github.com/amrzv/awesome-colab-notebooks)** - Image Colab Resources
-* ↪️ **[Image Compressors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_compressors)**
 * ↪️ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)** - [Guide](https://i.ibb.co/cCRn3y1/5eb0a8de7dac.jpg)
 * ⭐ **[ImgOps](https://imgops.com/)** - Image Operations Meta-Tool
 * ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
@@ -641,7 +642,6 @@
 * [Watermark Remover](https://www.watermarkremover.io/), [Unwatermark](https://unwatermark.ai/) or [DeWatermark](https://dewatermark.ai/) - Watermark Removal
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) or [Nightshade](https://nightshade.cs.uchicago.edu/downloads.html) - Protect Digital Art from AI Copies
 * [APNG Maker](https://rukario.github.io/Schande/Uninteresting%20stuff/APNG%20Maker.html) - Create / Optimize APNG Images
-* [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder
 * [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Recover Ransomware-Encrypted Images
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents / iOS
 * [FaceSwapApp](https://face-swap.app/) / [Discord](https://discord.gg/D8wYxUvwTD), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [faceswap](https://faceswap.dev/), [AIFaceSwap](https://aifaceswap.io/), [Face Swapper](https://faceswapper.ai/), [face-swap](https://face-swap.io/), [FaceSwapVideo](https://faceswapvideo.io/), [facy.ai](https://facy.ai/swap-face-ai/photo), [Swapper](https://icons8.com/swapper) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
@@ -653,6 +653,25 @@
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 * [Something to Draw](https://something-to-draw.com/) - Find Things to Draw
 * [Make Photo Gallery](https://makephotogallery.net/) - Collage Creator
+
+***
+
+## ▷ Image Compressors
+
+* ↪️ **[Image Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_image_optimization)**
+* ⭐ **[Caesium](https://saerasoft.com/caesium/)** - Compression Software / [Caesium Web App](https://caesium.app/) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
+* ⭐ **[Squoosh](https://squoosh.app/)** - Compressor / Converter / [GitHub](https://github.com/GoogleChromeLabs/squoosh)
+* ⭐ **[Seopix](https://www.seopix.io/)** - Batch Compressor / Editor
+* [optimize.photos](https://optimize.photos/) - Batch Compressor
+* [CompressImage](https://compressimage.io/) - Batch Compressor
+* [CrushImage](https://crushimage.com/) - Batch Compressor
+* [Bulk Image Compress](https://imagecompressr.com/) - Batch Compressor
+* [minipic](https://minipic.app/) - Batch Compressor / Converter
+* [Compress JPEG](https://compressjpeg.com/) - Batch Compressor / Unlimited Upload
+* [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) - Batch Compressor / 20 MB Upload / [GitHub](https://github.com/tinify)
+* [ImageSmaller](https://www.imagesmaller.com/) - Compressor / 50MB Upload
+* [CompressOrDie](https://compress-or-die.com/) - Multitool
+* [PNGQuant](https://pngquant.org/) - PNG Compression Software / [GitHub](https://github.com/kornelski/pngquant)
 
 ***
 

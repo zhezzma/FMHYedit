@@ -301,7 +301,7 @@
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)**, [2](https://github.com/Detanup01/gbe_fork) / [GUI](https://github.com/brunolee-GIT/GSE-Generator) / [Guide](https://rentry.co/goldberg_emulator) or [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - Offline Steam / Multiplayer Emulators
 * ⭐ **[Steam-Auto-Crack](https://github.com/SteamAutoCracks/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
-* ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Epic, Origin, EA and Uplay
+* ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** - DLC Unlocker for Epic, Origin, EA, Uplay
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
 * [Anadius](https://rentry.co/FMHYBase64#anadius) - DLC Unlockers for EA and Origin
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker
@@ -552,7 +552,7 @@
 * ⭐ **[auto-mcs](https://www.auto-mcs.com/)** - Easy Server Setup / [GitHub](https://github.com/macarooni-man/auto-mcs)
 * ⭐ **[Playit.gg](https://playit.gg/)** - Global Proxy / [Discord](https://discord.gg/AXAbujx)
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
-* [World Host](https://modrinth.com/mod/world-host) or [e4mc](https://modrinth.com/mod/e4mc) / [Lan Server Properties](https://www.curseforge.com/minecraft/mc-mods/lan-server-properties) - Local Server Multiplayer Mods
+* [World Host](https://modrinth.com/mod/world-host) or [e4mc](https://modrinth.com/mod/e4mc) / [Lan Server Properties](https://modrinth.com/mod/mcwifipnp) - Local Server Multiplayer Mods
 * [setup.md](https://setup.md/) - Server Admin Guides / Wiki
 * [CraftyControl](https://craftycontrol.com/), [MCSManager](https://mcsmanager.com/), [Lodestone](https://lodestone.cc/) / [GitHub](https://github.com/Lodestone-Team/lodestone) or [Fork](https://www.fork.gg/) - Minecraft Server Managers
 * [Minekube Connect](https://connect.minekube.com/) - Ingress Tunnel for Minecraft Servers
@@ -899,6 +899,7 @@
 ## ▷ Terraria Tools
 
 * ⭐ **[Terraria Wiki](https://terraria.wiki.gg/)** or [Terranion](https://yal.cc/r/terranion/) - Terraria Wikis
+* [⁠tShock](https://github.com/Pryaxis/TShock) - Terraria Server Tools / [Plugins](https://github.com/Pryaxis/Plugins)
 * [Terraria Forum](https://forums.terraria.org/) - Terraria Community, Mods Help and More
 * [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
 * [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor

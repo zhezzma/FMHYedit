@@ -519,19 +519,6 @@
 
 ***
 
-## Image Compressors
-
-* ⭐ **[Caesium](https://saerasoft.com/caesium/)** / [Web App](https://caesium.app/) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
-* ⭐ **[Squoosh](https://squoosh.app/)**
-
-[CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [ImageSmaller](https://www.imagesmaller.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Seopix](https://www.seopix.io/), [Imagator](https://imagator.co/), [Compressor](https://compressor.io/), [optimize.photos](https://optimize.photos/), [Batch Compress](https://batchcompress.com/en), [Bulk Image Compress](https://imagecompressr.com/), [minipic](https://minipic.app/), [Compress Images](https://compress-images.com), [squish](https://squish.addy.ie/)
-
-### PNG Compressors
-
-[TinyPNG](https://tinypng.com/), [Compress PNG](https://compresspng.com/), [OxiPNG](https://github.com/shssoichiro/oxipng), [PNGQuant](https://pngquant.org/)
-
-***
-
 ## Instagram Viewers / Downloaders
 
 * [IG Helper](https://greasyfork.org/en/scripts/404535) or [IG Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Userscripts
@@ -984,6 +971,7 @@
 * [Ziperto](https://ziperto.com/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#ziperto-warning) / [Discord](https://discord.gg/VgZ66bM87u)
 * [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
 * [NswRom](https://nswrom.com/)
+* [⁠ROMsHQ](https://romshq.com/)
 * [taodung](https://taodung.com/)
 * [ROMSim](https://romsim.com/) / [Discord](https://discord.gg/Zgdhq7xDcd)
 * [ROMSLAB](https://romslab.com/)
