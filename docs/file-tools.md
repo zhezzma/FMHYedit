@@ -344,6 +344,7 @@
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
 * [BowFile](https://bowfile.com/) - 20GB / 20 Days
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
+* [Tempcloud](https://temp.kotol.cloud/) - 10GB / 3 Days
 * [GrosFichiers](https://www.grosfichiers.com/) or [DataTransfer](https://www.datatransfer.com/) - 10GB / 14 Days
 * [Fshare](https://www.fshare.vn/) - 10GB / 5 Days
 * [ShareFile](https://sharefile.co/), [2](https://gofile.to/) - 5GB / Unlimited
