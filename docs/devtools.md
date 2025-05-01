@@ -139,6 +139,7 @@
 * [AndroidAssetStudio](https://romannurik.github.io/AndroidAssetStudio/) - Android App Assets
 * [Contacts Android](https://vestrel00.github.io/contacts-android/) - Android Contacts APIs
 * [Push Notifications API](https://github.com/viktorholk/push-notifications-api) - Push Notifications API
+* [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps/) - React App Examples
 * [TV Samples](https://github.com/android/tv-samples) - Android TV App Samples
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - iOS Icon Examples
 * [PrivacyFlash-Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate iOS Privacy Policies
@@ -697,13 +698,11 @@
 
 ## ▷ React
 
-* ⭐ **[React](https://react.dev/)** - JS Library
 * [OpenChakra](https://openchakra.app/) or [Plate](https://platejs.org/) - React Code Editors
-* [ReactBits](https://www.reactbits.dev/), React Suite](https://rsuitejs.com/) / [GitHub](https://github.com/rsuite/rsuite), [21st](https://21st.dev/) / [GitHub](https://github.com/serafimcloud/21st) or [Radix UI](https://www.radix-ui.com/) / [GitHub](https://github.com/radix-ui) - React Components
+* [ReactBits](https://www.reactbits.dev/), [React Suite](https://rsuitejs.com/) / [GitHub](https://github.com/rsuite/rsuite), [21st](https://21st.dev/) / [GitHub](https://github.com/serafimcloud/21st) or [Radix UI](https://www.radix-ui.com/) / [GitHub](https://github.com/radix-ui) - React Components
 * [Mantine](https://mantine.dev/) - Components and Templates / [GitHub](https://github.com/lucianomlima/react-ui-kits)
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
-* [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps/) - React App Examples
-* [Refine](https://refine.dev/) or [GitWit](https://gitwit.dev/) - React App Builders
+* [Refine](https://refine.dev/) - React App Builders
 * [Alright](https://github.com/DoneDeal0/alright-react-app) - Generate React Apps
 * [Codux](https://www.codux.com/) - Visual IDE for React
 * [React SVG](https://react-svgr.com/playground/) - Convert SVG to React Components
@@ -797,7 +796,7 @@
 
 * 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** / [GitHub](https://github.com/myles/awesome-static-generators) or **[Jamstack Generators](https://jamstack.org/generators/)** - Lists of Static Website Generators / Frameworks
 * ⭐ **[Hugo](https://gohugo.io/)** or **[vitepress](https://vitepress.dev/)** - Static Website Generators
-* [retype](https://retype.com/) / [GitHub](https://github.com/retypeapp/retype), [Zola](https://www.getzola.org/), [Jekyll](https://jekyllrb.com/), [Docusaurus](https://github.com/facebook/docusaurus) or [docsify](https://docsify.js.org/) - Static Markdown Website Generators
+* ⭐ **[Docusaurus](https://github.com/facebook/docusaurus)**, [retype](https://retype.com/) / [GitHub](https://github.com/retypeapp/retype), [Zola](https://www.getzola.org/), [Jekyll](https://jekyllrb.com/) or [docsify](https://docsify.js.org/) - Static Markdown Website Generators
 * [Feather Wiki](https://feather.wiki/) - Extensible Website Generator
 * [SouPalt](https://soupault.app/) - Static Website Generator with HTML Element Tree
 * [Barely](https://github.com/charludo/barely) - Python Static Website Generator
@@ -807,8 +806,7 @@
 * [Potion](https://potion.so/) - Notion Website Builder
 * [Odie](https://odie.us/) - Make Webpages out of Google Docs
 * [ProjectVisBug](https://visbug.web.app) - Webpage Editor
-* [Anvil](https://anvil.works/), [Lowdefy](https://lowdefy.com/) or [Capacitor](https://github.com/ionic-team/capacitor) - Web App Creators
-* [FastUI](https://github.com/pydantic/FastUI) - Web App UI Creators
+* [Anvil](https://anvil.works/) or [Lowdefy](https://lowdefy.com/) - Web App Creators
 
 ***
 
