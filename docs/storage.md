@@ -874,22 +874,6 @@
 
 ***
 
-## Switch ROMs
-
-* ⭐ **[RUTracker Switch](https://rutracker.org/forum/viewforum.php?f=1605)** - Use VPN
-* [NXBrew](https://nxbrew.net/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#nxbrew-warning)
-* [Ziperto](https://ziperto.com/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#ziperto-warning) / [Discord](https://discord.gg/VgZ66bM87u)
-* [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
-* [NswRom](https://nswrom.com/)
-* [ROMsHQ](https://romshq.com/)
-* [⁠SwitchGamesMall](https://switchgamesmall.icu/) / Downloads / Torrents / [Discord](https://discord.com/invite/rgttByzYRY)
-* [notUltraNX](https://not.ultranx.ru/en) / Sign-Up Required
-* [taodung](https://taodung.com/)
-* [ROMSim](https://romsim.com/) / [Discord](https://discord.gg/Zgdhq7xDcd)
-* [ROMSLAB](https://romslab.com/)
-
-***
-
 ## Tab Managers
 
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)**
@@ -920,18 +904,6 @@
 * [Dao](https://t.me/Dao_Qigong_Taiji_TCM_ebooks) - Spiritual Eastern Literature
 * [LibraryOfDos](https://t.me/lib_of_dos_old_vk) - Esoteric Russian Literature
 * [More Telegram eBook Channels](https://duckduckgo.com/?q=site%3At.me+books&ia=web)
-
-***
-
-## Text Adventures
-
-* Note - Text Adventures games (especially oldschool) are much easier to figure out with the help of AI chatbots. Theres are also usually guides online if you get stuck.
-
-* 🌐 **[IFDB](https://ifdb.org/)**, [IFWizz](https://ifwizz.de/if-en.html) or [IFArchive](https://www.ifarchive.org/) - Text Adventure Archives
-* 🌐 **[IFWiki](https://www.ifwiki.org/)** - Interactive Fiction Encyclopedia / Resources
-* [SolutionArchive](https://solutionarchive.com/) - Text Adventure Solutions
-
-[Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Web Adventures](https://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [Genesis](https://www.genesismud.org/), [Fateful Quest](https://fateful.quest/), [Level 13](https://nroutasuo.github.io/level13/)
 
 ***
 
