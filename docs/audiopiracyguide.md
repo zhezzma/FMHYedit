@@ -357,7 +357,7 @@
 
 ## ▷ Audio Ripping Sites
 
-* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Auto-Retry](https://greasyfork.org/en/scripts/514514) / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
+* ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site / 320kb / MP3 / FLAC / [Telegram](https://t.me/lucidahasmusic) / [Discord](https://discord.gg/5EEexMqVuE)
 * ⭐ **[cobalt](https://cobalt.tools/)** - YouTube / SoundCloud / 320kb / MP3 / Ad-Free / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
 * ⭐ **[squid.wtf](https://squid.wtf/)** - Qobuz / Khinsider / FLAC / [GitHub](https://github.com/QobuzDL/Qobuz-DL)
 * [YTiz](https://ytiz.xyz/) - YouTube / SoundCloud / Bandcamp / 128kb / AAC / [GitHub](https://github.com/tizerk/ytiz)
@@ -565,7 +565,7 @@
 
 * 🌐 **[EverythingMoe](https://everythingmoe.com/#section-music)**, [2](https://everythingmoe.org/#section-music) - Otaku Music Sites Index / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[Wotaku](https://wotaku.wiki/music)** - Otaku Music Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* ⭐ **[Squidify](https://www.squidify.org)** - Game / Anime Soundtracks / [Resources](https://wotaku.wiki/guides/music/squidify)
+* ⭐ **[Squidify](https://www.squidify.org)**, [2](https://www.squidify.net/) - Game / Anime Soundtracks / [Resources](https://wotaku.wiki/guides/music/squidify)
 * ⭐ **[Sitting on Clouds](https://www.sittingonclouds.net/)**, [2](https://sittingonclouds.com/) - Anime / Game Soundtracks / [Discord](https://discord.com/invite/x23SFbE) / [.onion](http://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/)
 * [MusicDex](https://musicdex.org/) - Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)
 * [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks
