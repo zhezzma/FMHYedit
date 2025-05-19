@@ -149,7 +149,7 @@
 * [Plan9Port](https://9fans.github.io/plan9port/) / [GitHub](https://github.com/9fans/plan9port)
 * [Flatpak](https://flatpak.org/) or [Flathub](https://flathub.org/) - Flatpak App Repositories
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
-* [Nix](https://nixos.org/), [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap), [pkgx](https://pkgx.sh/), [AM](https://github.com/ivan-hc/AM) or [Homebrew](https://brew.sh/) - Package Managers
+* [Nix](https://nixos.org/), [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap), [pkgx](https://pkgx.sh/) / [GitHub](https://github.com/pkgxdev/pkgx), [AM](https://github.com/ivan-hc/AM) or [Homebrew](https://brew.sh/) - Package Managers
 * [cheat.sh](http://cheat.sh/) - App Repos / [GitHub](https://github.com/chubin/cheat.sh)
 * [AppImageHub](https://www.appimagehub.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download Appimages
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
@@ -163,6 +163,7 @@
 
 * 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
 * 🌐 **[Hardware for Linux](https://linux-hardware.org/)** - Linux Hardware Compatibility Database / [Forum](https://forum.linux-hardware.org/) / [GitHub](https://github.com/linuxhw/)
+* 🌐 **[Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)** - BSD Resources
 * 🌐 **[Hardware for BSD](https://bsd-hardware.info/)** - BSD Hardware Compatibility Database / [GitHub](https://github.com/bsdhw/)
 * ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch) or [s-tui](https://github.com/amanusk/s-tui) - System Info / Resource Monitors
 * ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - System Restore / Backup
@@ -238,9 +239,9 @@
 * [puddletag](https://docs.puddletag.net/) / [GitHub](https://github.com/puddletag/puddletag) - Metadata Organizer
 * [Tidal Hi-Fi](https://github.com/Mastermindzh/tidal-hifi) - Hi-Fi Tidal for Linux
 * [cmus](https://cmus.github.io/) - Audio Player
-* [Tauon Music Box](https://tauonmusicbox.rocks/) - Audio Player
+* [Tauon Music Box](https://tauonmusicbox.rocks/) - Audio Player / [GitHub](https://github.com/Taiko2k/Tauon) / [Discord](https://discord.com/invite/v4EmhES)
 * [Lollypop](https://wiki.gnome.org/Apps/Lollypop), [2](https://gitlab.gnome.org/World/lollypop) - Audio Player
-* [Audacious](https://audacious-media-player.org/) - Audio Player
+* [Audacious](https://audacious-media-player.org/) - Audio Player / [GitHub](https://github.com/audacious-media-player)
 * [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Audio Player
 * [Amberol](https://gitlab.gnome.org/World/amberol) - Audio Player
 * [Subsonic](https://github.com/twostraws/Subsonic) - Audio Player / [Import Spotify](https://github.com/blastbeng/spotisub)
@@ -312,7 +313,7 @@
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
 * [Sober](https://sober.vinegarhq.org/) - Roblox Linux Port / [Vinegar (Studio Only)](https://vinegarhq.org/)
 * [Limo](https://github.com/limo-app/limo) - Nexus Mods Manager for Linux
-* [NVBurner](https://github.com/iloveichigo/NVBurner) or [CoreCTRL](https://gitlab.com/corectrl/corectrl) - Overclocking Tool
+* [NVBurner](https://github.com/iloveichigo/NVBurner) or [CoreCtrl](https://gitlab.com/corectrl/corectrl) - Overclocking Tool
 * [dxvk](https://github.com/doitsujin/dxvk) - D3D9, D3D10 and D3D11 for Linux / Wine
 * [VKBasAlt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - Linux Gaming Kernels
@@ -320,7 +321,7 @@
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [PortMaster](https://portmaster.games/) - Port Games to Linux Handheld Devices / [Discord](https://discord.gg/JxYBp9HTAY)
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
-* [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified Qemu GPU Passthrough
+* [QuickPassthrough](https://github.com/HikariKnight/quickpassthrough) - Simplified QEMU GPU Passthrough
 
 ***
 
