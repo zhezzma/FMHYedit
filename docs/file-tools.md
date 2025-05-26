@@ -25,7 +25,7 @@
 * [TagSpaces](https://www.tagspaces.org/) - Add Tags to Files and Folders
 * [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
 * [ExtractMetadata](https://www.extractmetadata.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
-* [CUETools](http://cue.tools/wiki/CUETools) - Manupulate .cue Files / [GitHub](https://github.com/gchudov/cuetools.net/)
+* [CUETools](http://cue.tools/wiki/CUETools) - Manipulate .cue Files / [GitHub](https://github.com/gchudov/cuetools.net/)
 
 ***
 
@@ -268,6 +268,7 @@
 # ► File Transfer
 
 * ⭐ **[LocalSend](https://localsend.org/)** - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/GSRWmQNP87) / [GitHub](https://github.com/localsend/localsend)
+* ⭐ **[⁠Blip](https://blip.net/)** - Desktop / Mobile Transfer
 * [Photon](https://photondev.netlify.app/) - Desktop / Mobile Transfer / [GitHub](https://github.com/abhi16180/photon)
 * [KDE Connect](https://kdeconnect.kde.org/) - Desktop / Mobile Transfer
 * [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
@@ -407,7 +408,7 @@
 * [CyberFile](https://cyberfile.me/) - 10GB Free
 * [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16 for 1TB
 * [Blomp](https://www.blomp.com/) - 20GB Free / 1 Month / ~$3 for 2TB
-* [Akira Box](https://akirabox.com/) - 20GB Free / 1 Years
+* [Akira Box](https://akirabox.com/) - 20GB Free / 1 Year
 * [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB Free / ~$6 for 1TB
 * [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB Free / ~$15.5 per 1TB
 * [1Cloud File](https://1cloudfile.com/) - 10GB Free

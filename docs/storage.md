@@ -155,7 +155,7 @@
 * ⭐ **[RAWGraphs](https://app.rawgraphs.io/)** - [GitHub](https://github.com/rawgraphs/rawgraphs-app)
 * ⭐ **[Draw](https://www.drawio.com/)** - [GitHub](https://github.com/jgraph/drawio)
 * ⭐ **[DataVizCatalogue](https://datavizcatalogue.com/)** - Data Visualization Wiki
-* [flowchart fun](https://flowchart.fun/) - Generate Flowchart From Text / [GitHub](https://github.com/tone-row/flowchart-fun)
+* [flowchart fun](https://flowchart.fun/) - Generate Flowchart from Text / [GitHub](https://github.com/tone-row/flowchart-fun)
 * [Pie Chart Maker](https://piechartmaker.co/), [2](https://www.piechartmaker.me/) - Create Pie Charts
 * [Bar Graph Maker](https://www.bargraphmaker.net/) - Create Bar Graphs
 * [Vinnslu](https://maltsev.github.io/vinnslu/) - Tabular Data Parser
@@ -329,7 +329,6 @@
 * [IBM Cloud](https://www.ibm.com/cloud/free)
 * [Fleek](https://fleek.xyz/)
 * [Stormkit](https://www.stormkit.io/)
-* [Glitch](https://glitch.com/)
 
 ### Static Page Hosting
 
@@ -365,8 +364,11 @@
 ### Website Builders
 
 * **Note** - These are generally made for businesses only.
-* [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
-* [WebStudio](https://webstudio.is/) - Code Editor
+
+***
+
+* ⭐ **[Framer](https://www.framer.com/)** - Interactive Site / App Design Tool
+* ⭐ **[WebStudio](https://webstudio.is/)** - Code Editor
 * [Flounder](https://flounder.online/) - Website Building Discussion
 * [site123](https://www.site123.com/)
 * [tilda](https://tilda.cc/)
@@ -799,7 +801,7 @@
 * ⭐ **[receive-sms](https://receive-sms.cc/)**
 * ⭐ **[tempsmss](https://tempsmss.com/)**
 
-[Yunjisms](https://yunjisms.xyz/), [2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [freesmsverification](http://freesmsverification.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [FreePhoneNum](https://freephonenum.com/), [ReceiveSMSOnline](https://receivesmsonline.me/), [ReceiveFreeSMS](http://receivefreesms.com/), [7sim](https://7sim.cc/), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [free-sms-receive](https://free-sms-receive.co/), [receivefreesms](https://receivefreesms.co.uk/), [⁠SMS Activate](https://sms-activate.io/freeNumbers)
+[Yunjisms](https://yunjisms.xyz/), [2ndline](https://www.2ndline.co/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [SMS Receive](https://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [freesmsverification](http://freesmsverification.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [FreePhoneNum](https://freephonenum.com/), [ReceiveSMSOnline](https://receivesmsonline.me/), [ReceiveFreeSMS](http://receivefreesms.com/), [7sim](https://7sim.cc/), [yunjiema](https://yunjiema.net/), [supercloudsms](https://supercloudsms.com/en), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [bestsms](https://bestsms.xyz/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [free-sms-receive](https://free-sms-receive.co/), [receivefreesms](https://receivefreesms.co.uk/), [SMS Activate](https://sms-activate.io/freeNumbers)
 
 ***
 

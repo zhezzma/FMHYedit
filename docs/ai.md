@@ -68,7 +68,6 @@
 * [Felo](https://felo.ai/) - AI Search Engine / AI Agents / No Sign-Up
 * [searc.ai](https://searc.ai/) - AI Search Engine / No Sign-Up
 * [RabbitHoles](https://rabbitholes.dojoma.ai/) - Mind Map Style Search / [Discord](https://discord.com/invite/VQMBGR8u5v) / [GitHub](https://github.com/AsyncFuncAI/rabbitholes)
-* [Isou.chat](https://isou.chat/) - Deepseek-R1-Distill / Qwen 2.5 AI Search Engine / No Sign-Up / [GitHub](https://github.com/yokingma/search_with_ai)
 * [Hika](https://hika.fyi/) - Deepseek-R1 AI Search Engine / No Sign-Up / [Discord](https://discord.gg/tUATkScUue)
 * [Khoj](https://khoj.dev/) - Gemini-2.0-Flash AI Search Engine / AI Agents / Sign-Up Required / [Discord](https://discord.gg/BDgyabRM6e) / [GitHub](https://github.com/khoj-ai/khoj)
 * [AyeSoul](https://ayesoul.com/) - AI Search Engine / No Sign-Up
@@ -129,7 +128,7 @@
 
 ## ▷ Coding AIs
 
-* 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** / [GitHub](https://github.com/evalplus/evalplus), [WebDev Arena](https://web.lmarena.ai/), [⁠LiveSWEBench](https://liveswebench.ai/), [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) or [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
+* 🌐 **[EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)** / [GitHub](https://github.com/evalplus/evalplus), [WebDev Arena](https://web.lmarena.ai/), [LiveSWEBench](https://liveswebench.ai/), [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) or [Big Code Models Leaderboard](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard) - Coding AI Leaderboards
 * 🌐 **[Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)** - Coding / Programming AIs / [Discord](https://discord.gg/U7KEcGErtQ)
 * 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)** - LLM API Resources
 * ⭐ **[Windsurf](https://www.windsurf.com/)** - Coding AI / [Subreddit](https://www.reddit.com/r/Codeium/) / [Discord](https://discord.com/invite/3XFf78nAx5)
@@ -180,7 +179,6 @@
 * [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) - Desktop App / RTX 30+ Series GPU Only
 * [ChatPDF](https://www.chatpdf.com/) (No Sign-Up) or [AskYourPDF](https://askyourpdf.com/) - Turn Books / PDFs into Chatbots
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
-* [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI / [Discord](https://discord.com/invite/fjBugmvzZP)
 * [Concierge](https://askconcierge.ai/) - Connect Apps to AI
 * [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)
 * [ChatGPT Widescreen](https://chatgptevo.com/widescreen/) - ChatGPT Widescreen / Fullscreen / [GitHub](https://github.com/adamlui/chatgpt-widescreen)
@@ -301,7 +299,7 @@
 # ► Image Generation
 
 * ⭐ **[Chatbot Arena](https://beta.lmarena.ai)** - Multiple Generators / No Sign-Up / [Discord](https://discord.gg/6GXcFg3TH8) / [GitHub](https://github.com/lm-sys/FastChat)
-* ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)**, [AI Studio](https://aistudio.google.com/generate-image) or [Gemini](https://gemini.google.com/) - Imagen-3.0-Generate-002 / Unlimited / Region-Based / [Discord](https://discord.com/invite/googlelabs)
+* ⭐ **[ImageFX](https://labs.google/fx/tools/image-fx)**, [AI Studio](https://aistudio.google.com/generate-image) or [Gemini](https://gemini.google.com/) - Imagen 4 / Unlimited / Region-Based / [Discord](https://discord.com/invite/googlelabs)
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP)
 * ⭐ **[FLUX.1 Schnell](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell)** or [FLUX.1 Dev](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) / Unlimited / No Sign-Up
 * ⭐ **[ComfyUI Online](https://www.runcomfy.com/comfyui-web)** / Unlimited
@@ -356,6 +354,7 @@
 * [Krea](https://www.krea.ai/) / 10 Daily / No Sign-Up / [Discord](https://discord.gg/rJurUAR8Kz)
 * [Whisk](https://labs.google/fx/en/tools/whisk) - Use Images as Prompts
 * [Artoons](https://artoons.vercel.app/) - Cartoon Style Generator / [GitHub](https://github.com/sujjeee/artoons)
+* [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender 
 * [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators
 * [Interactive Scenes](https://lumalabs.ai/interactive-scenes) - Generate Interactive Scenes / [Discord](https://discord.com/invite/ASbS3EykXm)
 * [Illusion Diffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - Illusion Artwork Generator
