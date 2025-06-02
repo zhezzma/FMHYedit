@@ -566,7 +566,7 @@
 * [Bookmarkme](https://bookmarkme.io/) - Desktop Manager
 * [Mission Control](https://mission-control.app/) - Chrome Extension
 * [buku](https://github.com/jarun/buku) - CLI Bookmark Manager
-* [Linkwarden](https://github.com/linkwarden/linkwarden), [Hoarder](https://github.com/hoarder-app/hoarder), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
+* [Linkwarden](https://github.com/linkwarden/linkwarden), [KaraKeep](https://github.com/karakeep-app/karakeep), [Shaarli](https://github.com/shaarli/Shaarli), [LinkAce](https://www.linkace.org/) or [linkding](https://github.com/sissbruecker/linkding) - Self-Hosted Managers
 
 ***
 
@@ -586,7 +586,6 @@
 * [Chromium Flags](https://nu11u5.github.io/chromium-flags/) - Chromium-Based Browser Flags
 * [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Chromium-Based/Firefox Hidden Settings
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
-* [Ruffle](https://ruffle.rs/) - Flash Emulator
 * [Clean Flash Builds](https://github.com/darktohka/clean-flash-builds/) - Flash Downloads
 * [Chrome Keyboard Shortcuts](https://support.google.com/chrome/answer/157179)
 
@@ -605,6 +604,7 @@
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) or [Firefox CSS Hacks](https://github.com/MrOtherGuy/firefox-csshacks) - Firefox CSS Resources
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
+* [⁠Doqment](https://github.com/shivaprsd/doqment) - Firefox PDF Reader Dark Mode
 
 ***
 
