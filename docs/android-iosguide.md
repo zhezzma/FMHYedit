@@ -40,7 +40,7 @@
 
 ***
 
-* ⭐ **[Youarefinished Mods](https://t.me/+h95JCUnuf-M1MTE1)**, [ANiK555_Mods](https://t.me/+1gj58uSCVFw1OTJl), [alexstranniklite](https://t.me/alexstranniklite), [AMRTSOFFICIAL](https://t.me/+UGzSc_aVSbI8yTw2), [Sam Mods](https://t.me/+RUVXlRhdsXR2yemD), [GetMod](https://t.me/Getmodpcs) or [MustHave](https://t.me/Alexey070315) - Modded Apps
+* ⭐ **[Youarefinished Mods](https://t.me/+h95JCUnuf-M1MTE1)**, [ANiK555_Mods](https://t.me/+1gj58uSCVFw1OTJl), [alexstranniklite](https://t.me/alexstranniklite), [AMRTSOFFICIAL](https://t.me/+UGzSc_aVSbI8yTw2), [Sam Mods](https://t.me/+RUVXlRhdsXR2yemD) or [MustHave](https://t.me/Alexey070315) - Modded Apps
 * ⭐ **[Satriyaid](https://t.me/s/satriyaid)** - Modded Editing Apps
 * [Tech Day](https://t.me/s/tech_d4y) - Modded Editing Apps
 * [Modules Repository](https://t.me/modulesrepo) - Mobile Customization Index
@@ -427,7 +427,7 @@
 * [NetGuard](https://www.netguard.me/) - Block Internet Access Per App / [GitHub](https://github.com/M66B/NetGuard)
 * [AirGuard](https://github.com/seemoo-lab/AirGuard) - AirTag Tracking Protection
 * [AFWall+](https://github.com/ukanth/afwall/) (root) or [Rethink App](https://rethinkdns.com/) / [GitHub](https://github.com/celzero/rethink-app), [Karma](https://github.com/StarGW-net/karma-firewall) - Firewalls
-* [v2rayNG](https://github.com/2dust/v2rayNG) - Build Privacy Network
+* [v2rayNG](https://github.com/2dust/v2rayNG) - Proxy Client
 * [Open SSTP Client](https://github.com/kittoku/Open-SSTP-Client) - SSTP Client
 * [SimpleLogin](https://github.com/simple-login/Simple-Login-Android) or [AnonAddy](https://gitlab.com/Stjin/anonaddy-android) - Email Forwarding
 * [TrustDevice-Android](https://github.com/trustdecision/trustdevice-android) - Create Device Identifiers
